@@ -1,0 +1,91 @@
+name: Sync and Process Clash Proxies with Telegram Notification (Merged Commit with Stash)
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:
+
+jobs:
+  sync-process-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout self repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install pyyaml emoji
+
+    - name: Clean old generated files
+      run: rm -f suiyuan8_*.yaml
+
+    - name: Clone upstream suiyuan8/clash repository
+      run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
+
+    - name: Process upstream proxies and generate output
+      run: python process_proxies.py
+
+    - name: Show generated files for debug
+      run: ls -al suiyuan8_*.yaml
+
+    - name: Count generated files
+      id: count_files
+      run: |
+        count=$(ls -1 suiyuan8_*.yaml 2>/dev/null | wc -l)
+        echo "count=$count" >> $GITHUB_OUTPUT
+
+    - name: Configure git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Stash changes, pull rebase, and pop changes back
+      run: |
+        git stash
+        git pull --rebase origin main
+        git stash pop || echo "No stash to pop"
+
+    - name: Update .last_count and send Telegram notification if changed
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        last_count_file=".last_count"
+        current_count=${{ steps.count_files.outputs.count }}
+
+        last_count=0
+        if [ -f "$last_count_file" ]; then
+          last_count=$(cat "$last_count_file")
+        fi
+
+        if [ "$current_count" -ne "$last_count" ]; then
+          echo "File count changed from $last_count to $current_count"
+
+          message="⚠️ 仓库更新！文件数量从 $last_count 变成了 $current_count，请更新模板！"
+
+          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$message"
+        else
+          echo "File count unchanged: $current_count"
+        fi
+
+        echo "$current_count" > "$last_count_file"
+
+    - name: Commit and push all changes (merged commit)
+      run: |
+        git add suiyuan8_*.yaml .last_count
+
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔄 自动同步更新 Clash 代理文件并更新 last_count"
+          git push origin HEAD:main
+        fi
