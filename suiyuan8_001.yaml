@@ -1,5 +1,5 @@
 proxies:
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_01
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_01
   server: 120.232.153.46
   port: 50132
   client-fingerprint: chrome
@@ -8,9 +8,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_02
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_02
   server: 120.232.153.46
   port: 50133
   client-fingerprint: chrome
@@ -19,9 +19,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_03
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_03
   server: 120.232.153.46
   port: 50134
   client-fingerprint: chrome
@@ -30,9 +30,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_04
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_04
   server: 120.232.153.46
   port: 50135
   client-fingerprint: chrome
@@ -41,9 +41,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_01
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_01
   server: 120.232.153.46
   port: 50136
   client-fingerprint: chrome
@@ -52,9 +52,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_02
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_02
   server: 120.232.153.46
   port: 50137
   client-fingerprint: chrome
@@ -63,9 +63,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_03
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_03
   server: 120.232.153.46
   port: 50138
   client-fingerprint: chrome
@@ -74,9 +74,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_04
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_04
   server: 120.232.153.46
   port: 50139
   client-fingerprint: chrome
@@ -85,9 +85,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_05
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_05
   server: 120.232.153.47
   port: 50132
   client-fingerprint: chrome
@@ -96,9 +96,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_06
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_06
   server: 120.232.153.47
   port: 50133
   client-fingerprint: chrome
@@ -107,9 +107,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_07
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_07
   server: 120.232.153.47
   port: 50134
   client-fingerprint: chrome
@@ -118,9 +118,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_08
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_08
   server: 120.232.153.47
   port: 50135
   client-fingerprint: chrome
@@ -129,9 +129,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_05
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_05
   server: 120.232.153.47
   port: 50136
   client-fingerprint: chrome
@@ -140,9 +140,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_06
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_06
   server: 120.232.153.47
   port: 50137
   client-fingerprint: chrome
@@ -151,9 +151,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_07
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_07
   server: 120.232.153.47
   port: 50138
   client-fingerprint: chrome
@@ -162,9 +162,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_08
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_08
   server: 120.232.153.47
   port: 50139
   client-fingerprint: chrome
@@ -173,9 +173,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_09
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_09
   server: 120.232.153.48
   port: 50132
   client-fingerprint: chrome
@@ -184,9 +184,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_10
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_10
   server: 120.232.153.48
   port: 50133
   client-fingerprint: chrome
@@ -195,9 +195,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_11
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_11
   server: 120.232.153.48
   port: 50134
   client-fingerprint: chrome
@@ -206,9 +206,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_12
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_12
   server: 120.232.153.48
   port: 50135
   client-fingerprint: chrome
@@ -217,9 +217,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_09
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_09
   server: 120.232.153.48
   port: 50136
   client-fingerprint: chrome
@@ -228,9 +228,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_10
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_10
   server: 120.232.153.48
   port: 50137
   client-fingerprint: chrome
@@ -239,9 +239,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_11
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_11
   server: 120.232.153.48
   port: 50138
   client-fingerprint: chrome
@@ -250,9 +250,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_12
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_12
   server: 120.232.153.48
   port: 50139
   client-fingerprint: chrome
@@ -261,9 +261,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_13
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_13
   server: 120.232.153.49
   port: 50132
   client-fingerprint: chrome
@@ -272,9 +272,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_14
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_14
   server: 120.232.153.49
   port: 50133
   client-fingerprint: chrome
@@ -283,9 +283,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_15
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_15
   server: 120.232.153.49
   port: 50134
   client-fingerprint: chrome
@@ -294,9 +294,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_16
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_16
   server: 120.232.153.49
   port: 50135
   client-fingerprint: chrome
@@ -305,9 +305,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_13
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_13
   server: 120.232.153.49
   port: 50136
   client-fingerprint: chrome
@@ -316,9 +316,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_14
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_14
   server: 120.232.153.49
   port: 50137
   client-fingerprint: chrome
@@ -327,9 +327,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_15
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_15
   server: 120.232.153.49
   port: 50138
   client-fingerprint: chrome
@@ -338,9 +338,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_16
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_16
   server: 120.232.153.49
   port: 50139
   client-fingerprint: chrome
@@ -349,9 +349,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_17
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_17
   server: 120.232.153.50
   port: 50132
   client-fingerprint: chrome
@@ -360,9 +360,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_18
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_18
   server: 120.232.153.50
   port: 50133
   client-fingerprint: chrome
@@ -371,9 +371,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_19
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_19
   server: 120.232.153.50
   port: 50134
   client-fingerprint: chrome
@@ -382,9 +382,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_20
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_20
   server: 120.232.153.50
   port: 50135
   client-fingerprint: chrome
@@ -393,9 +393,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_17
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_17
   server: 120.232.153.50
   port: 50136
   client-fingerprint: chrome
@@ -404,9 +404,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_18
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_18
   server: 120.232.153.50
   port: 50137
   client-fingerprint: chrome
@@ -415,9 +415,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_19
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_19
   server: 120.232.153.50
   port: 50138
   client-fingerprint: chrome
@@ -426,9 +426,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_20
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_20
   server: 120.232.153.50
   port: 50139
   client-fingerprint: chrome
@@ -437,9 +437,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_21
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_21
   server: 120.232.153.53
   port: 50132
   client-fingerprint: chrome
@@ -448,9 +448,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_22
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_22
   server: 120.232.153.53
   port: 50133
   client-fingerprint: chrome
@@ -459,9 +459,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_23
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_23
   server: 120.232.153.53
   port: 50134
   client-fingerprint: chrome
@@ -470,9 +470,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_24
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_24
   server: 120.232.153.53
   port: 50135
   client-fingerprint: chrome
@@ -481,9 +481,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_21
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_21
   server: 120.232.153.53
   port: 50136
   client-fingerprint: chrome
@@ -492,9 +492,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_22
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_22
   server: 120.232.153.53
   port: 50137
   client-fingerprint: chrome
@@ -503,9 +503,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_23
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_23
   server: 120.232.153.53
   port: 50138
   client-fingerprint: chrome
@@ -514,9 +514,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_24
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_24
   server: 120.232.153.53
   port: 50139
   client-fingerprint: chrome
@@ -525,9 +525,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_25
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_25
   server: 120.232.153.54
   port: 50132
   client-fingerprint: chrome
@@ -536,9 +536,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_26
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_26
   server: 120.232.153.54
   port: 50133
   client-fingerprint: chrome
@@ -547,9 +547,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_27
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_27
   server: 120.232.153.54
   port: 50134
   client-fingerprint: chrome
@@ -558,9 +558,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_28
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_28
   server: 120.232.153.54
   port: 50135
   client-fingerprint: chrome
@@ -569,9 +569,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_25
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_25
   server: 120.232.153.54
   port: 50136
   client-fingerprint: chrome
@@ -580,9 +580,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_26
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_26
   server: 120.232.153.54
   port: 50137
   client-fingerprint: chrome
@@ -591,9 +591,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_27
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_27
   server: 120.232.153.54
   port: 50138
   client-fingerprint: chrome
@@ -602,9 +602,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_28
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_28
   server: 120.232.153.54
   port: 50139
   client-fingerprint: chrome
@@ -613,9 +613,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_29
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_29
   server: 120.232.153.55
   port: 50132
   client-fingerprint: chrome
@@ -624,9 +624,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_30
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_30
   server: 120.232.153.55
   port: 50133
   client-fingerprint: chrome
@@ -635,9 +635,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_31
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_31
   server: 120.232.153.55
   port: 50134
   client-fingerprint: chrome
@@ -646,9 +646,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_32
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_32
   server: 120.232.153.55
   port: 50135
   client-fingerprint: chrome
@@ -657,9 +657,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_29
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_29
   server: 120.232.153.55
   port: 50136
   client-fingerprint: chrome
@@ -668,9 +668,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_30
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_30
   server: 120.232.153.55
   port: 50137
   client-fingerprint: chrome
@@ -679,9 +679,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_31
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_31
   server: 120.232.153.55
   port: 50138
   client-fingerprint: chrome
@@ -690,9 +690,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_32
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_32
   server: 120.232.153.55
   port: 50139
   client-fingerprint: chrome
@@ -701,9 +701,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_33
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_33
   server: 120.232.153.56
   port: 50132
   client-fingerprint: chrome
@@ -712,9 +712,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_34
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_34
   server: 120.232.153.56
   port: 50133
   client-fingerprint: chrome
@@ -723,9 +723,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_35
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_35
   server: 120.232.153.56
   port: 50134
   client-fingerprint: chrome
@@ -734,9 +734,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇯🇵JP_36
+- name: 👩🏿‍❤‍👩🏿72ssr🇯🇵JP_36
   server: 120.232.153.56
   port: 50135
   client-fingerprint: chrome
@@ -745,9 +745,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_33
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_33
   server: 120.232.153.56
   port: 50136
   client-fingerprint: chrome
@@ -756,9 +756,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_34
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_34
   server: 120.232.153.56
   port: 50137
   client-fingerprint: chrome
@@ -767,9 +767,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_35
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_35
   server: 120.232.153.56
   port: 50138
   client-fingerprint: chrome
@@ -778,9 +778,9 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
-- name: 🤦🏻‍♂️72ssr🇸🇬SG_36
+- name: 👩🏿‍❤‍👩🏿72ssr🇸🇬SG_36
   server: 120.232.153.56
   port: 50139
   client-fingerprint: chrome
@@ -789,5 +789,5 @@ proxies:
   password: mPQ5C9
   protocol: auth_chain_a
   obfs: tls1.2_ticket_auth
-  protocol-param: 62798199:Wbt4Q5
+  protocol-param: 62876845:dLmACT
   obfs-param: TG.WangCai2
