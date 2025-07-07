@@ -1,5 +1,5 @@
 proxies:
-- name: 👷🏼‍♀2ss🇸🇬SG_01
+- name: 🛕2ss🇸🇬SG_01
   server: gdgs.tarioblink.me
   port: 30003
   client-fingerprint: chrome
@@ -7,7 +7,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: a2c25d38-44dc-4b53-9377-9f98bd8d7e2b
   tfo: false
-- name: 👷🏼‍♀2ss🇹🇼TW_01
+- name: 🛕2ss🇹🇼TW_01
   server: gdgs.tarioblink.me
   port: 30002
   client-fingerprint: chrome
