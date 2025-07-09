@@ -23,8 +23,10 @@ jobs:
     - name: Install dependencies
       run: pip install pyyaml emoji
 
-    - name: Clean old generated files
-      run: rm -f suiyuan8_*.yaml
+    - name: Clean old generated files from git and workspace
+      run: |
+        git ls-files suiyuan8_*.yaml | xargs git rm -f
+        rm -f suiyuan8_*.yaml
 
     - name: Clone upstream suiyuan8/clash repository
       run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
