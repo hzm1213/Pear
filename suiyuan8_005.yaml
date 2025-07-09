@@ -1,5 +1,5 @@
 proxies:
-- name: 📫283trojan🇺🇸US_001
+- name: 👗283trojan🇺🇸US_001
   server: 5.10.214.178
   port: 2096
   client-fingerprint: chrome
@@ -12,7 +12,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_002
+- name: 👗283trojan🇺🇸US_002
   server: 5.10.215.178
   port: 2096
   client-fingerprint: chrome
@@ -25,7 +25,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_003
+- name: 👗283trojan🇺🇸US_003
   server: 5.10.244.178
   port: 2096
   client-fingerprint: chrome
@@ -38,7 +38,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_004
+- name: 👗283trojan🇺🇸US_004
   server: 5.10.245.178
   port: 2096
   client-fingerprint: chrome
@@ -51,7 +51,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_005
+- name: 👗283trojan🇺🇸US_005
   server: 5.10.246.178
   port: 2096
   client-fingerprint: chrome
@@ -64,7 +64,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_006
+- name: 👗283trojan🇺🇸US_006
   server: 5.10.247.178
   port: 2096
   client-fingerprint: chrome
@@ -77,7 +77,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_007
+- name: 👗283trojan🇺🇸US_007
   server: 5.175.141.178
   port: 2096
   client-fingerprint: chrome
@@ -90,7 +90,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_008
+- name: 👗283trojan🇺🇸US_008
   server: 5.182.34.178
   port: 2096
   client-fingerprint: chrome
@@ -103,7 +103,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_009
+- name: 👗283trojan🇺🇸US_009
   server: 5.182.84.178
   port: 2096
   client-fingerprint: chrome
@@ -116,7 +116,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_010
+- name: 👗283trojan🇺🇸US_010
   server: 5.182.85.178
   port: 2096
   client-fingerprint: chrome
@@ -129,7 +129,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_011
+- name: 👗283trojan🇺🇸US_011
   server: 14.102.228.178
   port: 2096
   client-fingerprint: chrome
@@ -142,7 +142,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_012
+- name: 👗283trojan🇺🇸US_012
   server: 14.102.229.178
   port: 2096
   client-fingerprint: chrome
@@ -155,7 +155,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_013
+- name: 👗283trojan🇺🇸US_013
   server: 23.227.38.178
   port: 2096
   client-fingerprint: chrome
@@ -168,7 +168,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_014
+- name: 👗283trojan🇺🇸US_014
   server: 23.227.39.178
   port: 2096
   client-fingerprint: chrome
@@ -181,7 +181,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_015
+- name: 👗283trojan🇺🇸US_015
   server: 23.227.60.178
   port: 2096
   client-fingerprint: chrome
@@ -194,7 +194,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_016
+- name: 👗283trojan🇺🇸US_016
   server: 25.25.25.178
   port: 2096
   client-fingerprint: chrome
@@ -207,7 +207,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_017
+- name: 👗283trojan🇺🇸US_017
   server: 25.26.27.178
   port: 2096
   client-fingerprint: chrome
@@ -220,7 +220,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_018
+- name: 👗283trojan🇺🇸US_018
   server: 25.129.196.178
   port: 2096
   client-fingerprint: chrome
@@ -233,7 +233,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_019
+- name: 👗283trojan🇺🇸US_019
   server: 25.129.197.178
   port: 2096
   client-fingerprint: chrome
@@ -246,7 +246,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_020
+- name: 👗283trojan🇺🇸US_020
   server: 25.129.198.178
   port: 2096
   client-fingerprint: chrome
@@ -259,7 +259,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_021
+- name: 👗283trojan🇺🇸US_021
   server: 25.129.199.178
   port: 2096
   client-fingerprint: chrome
@@ -272,7 +272,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_022
+- name: 👗283trojan🇺🇸US_022
   server: 27.50.48.178
   port: 2096
   client-fingerprint: chrome
@@ -285,7 +285,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_023
+- name: 👗283trojan🇺🇸US_023
   server: 27.50.49.178
   port: 2096
   client-fingerprint: chrome
@@ -298,7 +298,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_024
+- name: 👗283trojan🇺🇸US_024
   server: 31.12.75.178
   port: 2096
   client-fingerprint: chrome
@@ -311,7 +311,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_025
+- name: 👗283trojan🇺🇸US_025
   server: 31.43.179.178
   port: 2096
   client-fingerprint: chrome
@@ -324,7 +324,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_026
+- name: 👗283trojan🇺🇸US_026
   server: 45.8.211.178
   port: 2096
   client-fingerprint: chrome
@@ -337,7 +337,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_027
+- name: 👗283trojan🇺🇸US_027
   server: 45.12.30.178
   port: 2096
   client-fingerprint: chrome
@@ -350,7 +350,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_028
+- name: 👗283trojan🇺🇸US_028
   server: 45.12.31.178
   port: 2096
   client-fingerprint: chrome
@@ -363,7 +363,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_029
+- name: 👗283trojan🇺🇸US_029
   server: 45.67.214.178
   port: 2096
   client-fingerprint: chrome
@@ -376,7 +376,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_030
+- name: 👗283trojan🇺🇸US_030
   server: 45.67.215.178
   port: 2096
   client-fingerprint: chrome
@@ -389,7 +389,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_031
+- name: 👗283trojan🇺🇸US_031
   server: 45.80.108.178
   port: 2096
   client-fingerprint: chrome
@@ -402,7 +402,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_032
+- name: 👗283trojan🇺🇸US_032
   server: 45.80.110.178
   port: 2096
   client-fingerprint: chrome
@@ -415,7 +415,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_033
+- name: 👗283trojan🇺🇸US_033
   server: 45.80.111.178
   port: 2096
   client-fingerprint: chrome
@@ -428,7 +428,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_034
+- name: 👗283trojan🇺🇸US_034
   server: 45.81.58.178
   port: 2096
   client-fingerprint: chrome
@@ -441,7 +441,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_035
+- name: 👗283trojan🇺🇸US_035
   server: 45.85.118.178
   port: 2096
   client-fingerprint: chrome
@@ -454,7 +454,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_036
+- name: 👗283trojan🇺🇸US_036
   server: 45.85.119.178
   port: 2096
   client-fingerprint: chrome
@@ -467,7 +467,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_037
+- name: 👗283trojan🇺🇸US_037
   server: 45.131.4.178
   port: 2096
   client-fingerprint: chrome
@@ -480,7 +480,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_038
+- name: 👗283trojan🇺🇸US_038
   server: 45.131.5.178
   port: 2096
   client-fingerprint: chrome
@@ -493,7 +493,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_039
+- name: 👗283trojan🇺🇸US_039
   server: 45.131.6.178
   port: 2096
   client-fingerprint: chrome
@@ -506,7 +506,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_040
+- name: 👗283trojan🇺🇸US_040
   server: 45.131.7.178
   port: 2096
   client-fingerprint: chrome
@@ -519,7 +519,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_041
+- name: 👗283trojan🇺🇸US_041
   server: 45.131.208.178
   port: 2096
   client-fingerprint: chrome
@@ -532,7 +532,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_042
+- name: 👗283trojan🇺🇸US_042
   server: 45.131.209.178
   port: 2096
   client-fingerprint: chrome
@@ -545,7 +545,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_043
+- name: 👗283trojan🇺🇸US_043
   server: 45.131.210.178
   port: 2096
   client-fingerprint: chrome
@@ -558,7 +558,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_044
+- name: 👗283trojan🇺🇸US_044
   server: 45.131.211.178
   port: 2096
   client-fingerprint: chrome
@@ -571,7 +571,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_045
+- name: 👗283trojan🇺🇸US_045
   server: 45.135.235.178
   port: 2096
   client-fingerprint: chrome
@@ -584,7 +584,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_046
+- name: 👗283trojan🇺🇸US_046
   server: 45.142.120.178
   port: 2096
   client-fingerprint: chrome
@@ -597,7 +597,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_047
+- name: 👗283trojan🇺🇸US_047
   server: 45.142.255.178
   port: 2096
   client-fingerprint: chrome
@@ -610,7 +610,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_048
+- name: 👗283trojan🇺🇸US_048
   server: 45.149.12.178
   port: 2096
   client-fingerprint: chrome
@@ -623,7 +623,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_049
+- name: 👗283trojan🇺🇸US_049
   server: 45.150.115.178
   port: 2096
   client-fingerprint: chrome
@@ -636,7 +636,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_050
+- name: 👗283trojan🇺🇸US_050
   server: 45.153.7.178
   port: 2096
   client-fingerprint: chrome
@@ -649,7 +649,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_051
+- name: 👗283trojan🇺🇸US_051
   server: 45.159.216.178
   port: 2096
   client-fingerprint: chrome
@@ -662,7 +662,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_052
+- name: 👗283trojan🇺🇸US_052
   server: 45.159.217.178
   port: 2096
   client-fingerprint: chrome
@@ -675,7 +675,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_053
+- name: 👗283trojan🇺🇸US_053
   server: 45.159.218.178
   port: 2096
   client-fingerprint: chrome
@@ -688,7 +688,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_054
+- name: 👗283trojan🇺🇸US_054
   server: 45.159.219.178
   port: 2096
   client-fingerprint: chrome
@@ -701,7 +701,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_055
+- name: 👗283trojan🇺🇸US_055
   server: 45.192.222.178
   port: 2096
   client-fingerprint: chrome
@@ -714,7 +714,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_056
+- name: 👗283trojan🇺🇸US_056
   server: 45.192.223.178
   port: 2096
   client-fingerprint: chrome
@@ -727,7 +727,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_057
+- name: 👗283trojan🇺🇸US_057
   server: 45.192.224.178
   port: 2096
   client-fingerprint: chrome
@@ -740,7 +740,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_058
+- name: 👗283trojan🇺🇸US_058
   server: 45.194.53.178
   port: 2096
   client-fingerprint: chrome
@@ -753,7 +753,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_059
+- name: 👗283trojan🇺🇸US_059
   server: 45.202.113.178
   port: 2096
   client-fingerprint: chrome
@@ -766,7 +766,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_060
+- name: 👗283trojan🇺🇸US_060
   server: 45.205.0.178
   port: 2096
   client-fingerprint: chrome
@@ -779,7 +779,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_061
+- name: 👗283trojan🇺🇸US_061
   server: 46.202.30.178
   port: 2096
   client-fingerprint: chrome
@@ -792,7 +792,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_062
+- name: 👗283trojan🇺🇸US_062
   server: 46.254.92.178
   port: 2096
   client-fingerprint: chrome
@@ -805,7 +805,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_063
+- name: 👗283trojan🇺🇸US_063
   server: 46.254.93.178
   port: 2096
   client-fingerprint: chrome
@@ -818,7 +818,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_064
+- name: 👗283trojan🇺🇸US_064
   server: 62.72.166.178
   port: 2096
   client-fingerprint: chrome
@@ -831,7 +831,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_065
+- name: 👗283trojan🇺🇸US_065
   server: 63.141.128.178
   port: 2096
   client-fingerprint: chrome
@@ -844,7 +844,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_066
+- name: 👗283trojan🇺🇸US_066
   server: 66.45.118.178
   port: 2096
   client-fingerprint: chrome
@@ -857,7 +857,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_067
+- name: 👗283trojan🇺🇸US_067
   server: 66.81.247.178
   port: 2096
   client-fingerprint: chrome
@@ -870,7 +870,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_068
+- name: 👗283trojan🇺🇸US_068
   server: 66.225.252.178
   port: 2096
   client-fingerprint: chrome
@@ -883,7 +883,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_069
+- name: 👗283trojan🇺🇸US_069
   server: 66.235.200.178
   port: 2096
   client-fingerprint: chrome
@@ -896,7 +896,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_070
+- name: 👗283trojan🇺🇸US_070
   server: 69.84.182.178
   port: 2096
   client-fingerprint: chrome
@@ -909,7 +909,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_071
+- name: 👗283trojan🇺🇸US_071
   server: 74.49.214.178
   port: 2096
   client-fingerprint: chrome
@@ -922,7 +922,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_072
+- name: 👗283trojan🇺🇸US_072
   server: 74.49.215.178
   port: 2096
   client-fingerprint: chrome
@@ -935,7 +935,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_073
+- name: 👗283trojan🇺🇸US_073
   server: 77.37.33.178
   port: 2096
   client-fingerprint: chrome
@@ -948,7 +948,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_074
+- name: 👗283trojan🇺🇸US_074
   server: 77.74.228.178
   port: 2096
   client-fingerprint: chrome
@@ -961,7 +961,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_075
+- name: 👗283trojan🇺🇸US_075
   server: 77.75.199.178
   port: 2096
   client-fingerprint: chrome
@@ -974,7 +974,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_076
+- name: 👗283trojan🇺🇸US_076
   server: 77.105.163.178
   port: 2096
   client-fingerprint: chrome
@@ -987,7 +987,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_077
+- name: 👗283trojan🇺🇸US_077
   server: 77.232.140.178
   port: 2096
   client-fingerprint: chrome
@@ -1000,7 +1000,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_078
+- name: 👗283trojan🇺🇸US_078
   server: 80.93.202.178
   port: 2096
   client-fingerprint: chrome
@@ -1013,7 +1013,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_079
+- name: 👗283trojan🇺🇸US_079
   server: 86.38.214.178
   port: 2096
   client-fingerprint: chrome
@@ -1026,7 +1026,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_080
+- name: 👗283trojan🇺🇸US_080
   server: 88.216.66.178
   port: 2096
   client-fingerprint: chrome
@@ -1039,7 +1039,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_081
+- name: 👗283trojan🇺🇸US_081
   server: 88.216.67.178
   port: 2096
   client-fingerprint: chrome
@@ -1052,7 +1052,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_082
+- name: 👗283trojan🇺🇸US_082
   server: 88.216.69.178
   port: 2096
   client-fingerprint: chrome
@@ -1065,7 +1065,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_083
+- name: 👗283trojan🇺🇸US_083
   server: 89.116.46.178
   port: 2096
   client-fingerprint: chrome
@@ -1078,7 +1078,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_084
+- name: 👗283trojan🇺🇸US_084
   server: 89.116.161.178
   port: 2096
   client-fingerprint: chrome
@@ -1091,7 +1091,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_085
+- name: 👗283trojan🇺🇸US_085
   server: 89.116.180.178
   port: 2096
   client-fingerprint: chrome
@@ -1104,7 +1104,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_086
+- name: 👗283trojan🇺🇸US_086
   server: 89.116.250.178
   port: 2096
   client-fingerprint: chrome
@@ -1117,7 +1117,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_087
+- name: 👗283trojan🇺🇸US_087
   server: 89.117.112.178
   port: 2096
   client-fingerprint: chrome
@@ -1130,7 +1130,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_088
+- name: 👗283trojan🇺🇸US_088
   server: 91.124.127.178
   port: 2096
   client-fingerprint: chrome
@@ -1143,7 +1143,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_089
+- name: 👗283trojan🇺🇸US_089
   server: 91.209.253.178
   port: 2096
   client-fingerprint: chrome
@@ -1156,7 +1156,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_090
+- name: 👗283trojan🇺🇸US_090
   server: 92.53.188.178
   port: 2096
   client-fingerprint: chrome
@@ -1169,7 +1169,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_091
+- name: 👗283trojan🇺🇸US_091
   server: 92.53.189.178
   port: 2096
   client-fingerprint: chrome
@@ -1182,7 +1182,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_092
+- name: 👗283trojan🇺🇸US_092
   server: 92.53.190.178
   port: 2096
   client-fingerprint: chrome
@@ -1195,7 +1195,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_093
+- name: 👗283trojan🇺🇸US_093
   server: 92.53.191.178
   port: 2096
   client-fingerprint: chrome
@@ -1208,7 +1208,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_094
+- name: 👗283trojan🇺🇸US_094
   server: 92.60.74.178
   port: 2096
   client-fingerprint: chrome
@@ -1221,7 +1221,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_095
+- name: 👗283trojan🇺🇸US_095
   server: 92.243.74.178
   port: 2096
   client-fingerprint: chrome
@@ -1234,7 +1234,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_096
+- name: 👗283trojan🇺🇸US_096
   server: 92.243.75.178
   port: 2096
   client-fingerprint: chrome
@@ -1247,7 +1247,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_097
+- name: 👗283trojan🇺🇸US_097
   server: 94.140.0.178
   port: 2096
   client-fingerprint: chrome
@@ -1260,7 +1260,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_098
+- name: 👗283trojan🇺🇸US_098
   server: 94.247.142.178
   port: 2096
   client-fingerprint: chrome
@@ -1273,7 +1273,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_099
+- name: 👗283trojan🇺🇸US_099
   server: 102.132.188.178
   port: 2096
   client-fingerprint: chrome
@@ -1286,7 +1286,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_100
+- name: 👗283trojan🇺🇸US_100
   server: 102.177.176.178
   port: 2096
   client-fingerprint: chrome
@@ -1299,7 +1299,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_101
+- name: 👗283trojan🇺🇸US_101
   server: 102.177.189.178
   port: 2096
   client-fingerprint: chrome
@@ -1312,7 +1312,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_102
+- name: 👗283trojan🇺🇸US_102
   server: 103.21.244.178
   port: 2096
   client-fingerprint: chrome
@@ -1325,7 +1325,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_103
+- name: 👗283trojan🇺🇸US_103
   server: 103.116.7.178
   port: 2096
   client-fingerprint: chrome
@@ -1338,7 +1338,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_104
+- name: 👗283trojan🇺🇸US_104
   server: 103.133.1.178
   port: 2096
   client-fingerprint: chrome
@@ -1351,7 +1351,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_105
+- name: 👗283trojan🇺🇸US_105
   server: 103.160.204.178
   port: 2096
   client-fingerprint: chrome
@@ -1364,7 +1364,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_106
+- name: 👗283trojan🇺🇸US_106
   server: 103.169.142.178
   port: 2096
   client-fingerprint: chrome
@@ -1377,7 +1377,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_107
+- name: 👗283trojan🇺🇸US_107
   server: 103.245.228.178
   port: 2096
   client-fingerprint: chrome
@@ -1390,7 +1390,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_108
+- name: 👗283trojan🇺🇸US_108
   server: 103.245.229.178
   port: 2096
   client-fingerprint: chrome
@@ -1403,7 +1403,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_109
+- name: 👗283trojan🇺🇸US_109
   server: 104.31.16.178
   port: 2096
   client-fingerprint: chrome
@@ -1416,7 +1416,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_110
+- name: 👗283trojan🇺🇸US_110
   server: 104.129.164.178
   port: 2096
   client-fingerprint: chrome
@@ -1429,7 +1429,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_111
+- name: 👗283trojan🇺🇸US_111
   server: 104.129.165.178
   port: 2096
   client-fingerprint: chrome
@@ -1442,7 +1442,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_112
+- name: 👗283trojan🇺🇸US_112
   server: 104.129.166.178
   port: 2096
   client-fingerprint: chrome
@@ -1455,7 +1455,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_113
+- name: 👗283trojan🇺🇸US_113
   server: 104.129.167.178
   port: 2096
   client-fingerprint: chrome
@@ -1468,7 +1468,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_114
+- name: 👗283trojan🇺🇸US_114
   server: 104.234.239.178
   port: 2096
   client-fingerprint: chrome
@@ -1481,7 +1481,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_115
+- name: 👗283trojan🇺🇸US_115
   server: 104.239.72.178
   port: 2096
   client-fingerprint: chrome
@@ -1494,7 +1494,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_116
+- name: 👗283trojan🇺🇸US_116
   server: 104.254.140.178
   port: 2096
   client-fingerprint: chrome
@@ -1507,7 +1507,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_117
+- name: 👗283trojan🇺🇸US_117
   server: 108.162.192.178
   port: 2096
   client-fingerprint: chrome
@@ -1520,7 +1520,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_118
+- name: 👗283trojan🇺🇸US_118
   server: 108.162.193.178
   port: 2096
   client-fingerprint: chrome
@@ -1533,7 +1533,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_119
+- name: 👗283trojan🇺🇸US_119
   server: 108.162.194.178
   port: 2096
   client-fingerprint: chrome
@@ -1546,7 +1546,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_120
+- name: 👗283trojan🇺🇸US_120
   server: 108.162.195.178
   port: 2096
   client-fingerprint: chrome
@@ -1559,7 +1559,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_121
+- name: 👗283trojan🇺🇸US_121
   server: 108.162.196.178
   port: 2096
   client-fingerprint: chrome
@@ -1572,7 +1572,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_122
+- name: 👗283trojan🇺🇸US_122
   server: 108.162.198.178
   port: 2096
   client-fingerprint: chrome
@@ -1585,7 +1585,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_123
+- name: 👗283trojan🇺🇸US_123
   server: 108.165.152.178
   port: 2096
   client-fingerprint: chrome
@@ -1598,7 +1598,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_124
+- name: 👗283trojan🇺🇸US_124
   server: 108.165.216.178
   port: 2096
   client-fingerprint: chrome
@@ -1611,7 +1611,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_125
+- name: 👗283trojan🇺🇸US_125
   server: 109.176.239.178
   port: 2096
   client-fingerprint: chrome
@@ -1624,7 +1624,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_126
+- name: 👗283trojan🇺🇸US_126
   server: 114.129.43.178
   port: 2096
   client-fingerprint: chrome
@@ -1637,7 +1637,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_127
+- name: 👗283trojan🇺🇸US_127
   server: 130.250.137.178
   port: 2096
   client-fingerprint: chrome
@@ -1650,7 +1650,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_128
+- name: 👗283trojan🇺🇸US_128
   server: 135.84.67.178
   port: 2096
   client-fingerprint: chrome
@@ -1663,7 +1663,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_129
+- name: 👗283trojan🇺🇸US_129
   server: 135.84.72.178
   port: 2096
   client-fingerprint: chrome
@@ -1676,7 +1676,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_130
+- name: 👗283trojan🇺🇸US_130
   server: 135.84.73.178
   port: 2096
   client-fingerprint: chrome
@@ -1689,7 +1689,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_131
+- name: 👗283trojan🇺🇸US_131
   server: 135.84.74.178
   port: 2096
   client-fingerprint: chrome
@@ -1702,7 +1702,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_132
+- name: 👗283trojan🇺🇸US_132
   server: 135.84.75.178
   port: 2096
   client-fingerprint: chrome
@@ -1715,7 +1715,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_133
+- name: 👗283trojan🇺🇸US_133
   server: 135.84.76.178
   port: 2096
   client-fingerprint: chrome
@@ -1728,7 +1728,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_134
+- name: 👗283trojan🇺🇸US_134
   server: 135.84.79.178
   port: 2096
   client-fingerprint: chrome
@@ -1741,7 +1741,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_135
+- name: 👗283trojan🇺🇸US_135
   server: 139.64.235.178
   port: 2096
   client-fingerprint: chrome
@@ -1754,7 +1754,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_136
+- name: 👗283trojan🇺🇸US_136
   server: 140.99.233.178
   port: 2096
   client-fingerprint: chrome
@@ -1767,7 +1767,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_137
+- name: 👗283trojan🇺🇸US_137
   server: 141.11.202.178
   port: 2096
   client-fingerprint: chrome
@@ -1780,7 +1780,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_138
+- name: 👗283trojan🇺🇸US_138
   server: 141.11.203.178
   port: 2096
   client-fingerprint: chrome
@@ -1793,7 +1793,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_139
+- name: 👗283trojan🇺🇸US_139
   server: 141.101.113.178
   port: 2096
   client-fingerprint: chrome
@@ -1806,7 +1806,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_140
+- name: 👗283trojan🇺🇸US_140
   server: 141.101.114.178
   port: 2096
   client-fingerprint: chrome
@@ -1819,7 +1819,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_141
+- name: 👗283trojan🇺🇸US_141
   server: 141.101.115.178
   port: 2096
   client-fingerprint: chrome
@@ -1832,7 +1832,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_142
+- name: 👗283trojan🇺🇸US_142
   server: 141.101.120.178
   port: 2096
   client-fingerprint: chrome
@@ -1845,7 +1845,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_143
+- name: 👗283trojan🇺🇸US_143
   server: 141.101.121.178
   port: 2096
   client-fingerprint: chrome
@@ -1858,7 +1858,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_144
+- name: 👗283trojan🇺🇸US_144
   server: 141.101.122.178
   port: 2096
   client-fingerprint: chrome
@@ -1871,7 +1871,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_145
+- name: 👗283trojan🇺🇸US_145
   server: 141.101.123.178
   port: 2096
   client-fingerprint: chrome
@@ -1884,7 +1884,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_146
+- name: 👗283trojan🇺🇸US_146
   server: 141.193.27.178
   port: 2096
   client-fingerprint: chrome
@@ -1897,7 +1897,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_147
+- name: 👗283trojan🇺🇸US_147
   server: 141.193.213.178
   port: 2096
   client-fingerprint: chrome
@@ -1910,7 +1910,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_148
+- name: 👗283trojan🇺🇸US_148
   server: 147.78.140.178
   port: 2096
   client-fingerprint: chrome
@@ -1923,7 +1923,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_149
+- name: 👗283trojan🇺🇸US_149
   server: 147.185.161.178
   port: 2096
   client-fingerprint: chrome
@@ -1936,7 +1936,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_150
+- name: 👗283trojan🇺🇸US_150
   server: 154.83.2.178
   port: 2096
   client-fingerprint: chrome
@@ -1949,7 +1949,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_151
+- name: 👗283trojan🇺🇸US_151
   server: 154.85.99.178
   port: 2096
   client-fingerprint: chrome
@@ -1962,7 +1962,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_152
+- name: 👗283trojan🇺🇸US_152
   server: 154.92.9.178
   port: 2096
   client-fingerprint: chrome
@@ -1975,7 +1975,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_153
+- name: 👗283trojan🇺🇸US_153
   server: 154.194.0.178
   port: 2096
   client-fingerprint: chrome
@@ -1988,7 +1988,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_154
+- name: 👗283trojan🇺🇸US_154
   server: 154.194.12.178
   port: 2096
   client-fingerprint: chrome
@@ -2001,7 +2001,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_155
+- name: 👗283trojan🇺🇸US_155
   server: 154.197.64.178
   port: 2096
   client-fingerprint: chrome
@@ -2014,7 +2014,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_156
+- name: 👗283trojan🇺🇸US_156
   server: 154.197.75.178
   port: 2096
   client-fingerprint: chrome
@@ -2027,7 +2027,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_157
+- name: 👗283trojan🇺🇸US_157
   server: 154.197.80.178
   port: 2096
   client-fingerprint: chrome
@@ -2040,7 +2040,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_158
+- name: 👗283trojan🇺🇸US_158
   server: 154.197.88.178
   port: 2096
   client-fingerprint: chrome
@@ -2053,7 +2053,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_159
+- name: 👗283trojan🇺🇸US_159
   server: 154.197.108.178
   port: 2096
   client-fingerprint: chrome
@@ -2066,7 +2066,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_160
+- name: 👗283trojan🇺🇸US_160
   server: 154.197.121.178
   port: 2096
   client-fingerprint: chrome
@@ -2079,7 +2079,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_161
+- name: 👗283trojan🇺🇸US_161
   server: 154.198.173.178
   port: 2096
   client-fingerprint: chrome
@@ -2092,7 +2092,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_162
+- name: 👗283trojan🇺🇸US_162
   server: 154.206.12.178
   port: 2096
   client-fingerprint: chrome
@@ -2105,7 +2105,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_163
+- name: 👗283trojan🇺🇸US_163
   server: 154.211.8.178
   port: 2096
   client-fingerprint: chrome
@@ -2118,7 +2118,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_164
+- name: 👗283trojan🇺🇸US_164
   server: 154.218.15.178
   port: 2096
   client-fingerprint: chrome
@@ -2131,7 +2131,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_165
+- name: 👗283trojan🇺🇸US_165
   server: 154.219.5.178
   port: 2096
   client-fingerprint: chrome
@@ -2144,7 +2144,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_166
+- name: 👗283trojan🇺🇸US_166
   server: 155.46.167.178
   port: 2096
   client-fingerprint: chrome
@@ -2157,7 +2157,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_167
+- name: 👗283trojan🇺🇸US_167
   server: 155.46.213.178
   port: 2096
   client-fingerprint: chrome
@@ -2170,7 +2170,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_168
+- name: 👗283trojan🇺🇸US_168
   server: 156.225.72.178
   port: 2096
   client-fingerprint: chrome
@@ -2183,7 +2183,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_169
+- name: 👗283trojan🇺🇸US_169
   server: 156.238.19.178
   port: 2096
   client-fingerprint: chrome
@@ -2196,7 +2196,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_170
+- name: 👗283trojan🇺🇸US_170
   server: 156.243.83.178
   port: 2096
   client-fingerprint: chrome
@@ -2209,7 +2209,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_171
+- name: 👗283trojan🇺🇸US_171
   server: 156.243.246.178
   port: 2096
   client-fingerprint: chrome
@@ -2222,7 +2222,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_172
+- name: 👗283trojan🇺🇸US_172
   server: 159.112.235.178
   port: 2096
   client-fingerprint: chrome
@@ -2235,7 +2235,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_173
+- name: 👗283trojan🇺🇸US_173
   server: 159.242.242.178
   port: 2096
   client-fingerprint: chrome
@@ -2248,7 +2248,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_174
+- name: 👗283trojan🇺🇸US_174
   server: 159.246.55.178
   port: 2096
   client-fingerprint: chrome
@@ -2261,7 +2261,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_175
+- name: 👗283trojan🇺🇸US_175
   server: 160.79.104.178
   port: 2096
   client-fingerprint: chrome
@@ -2274,7 +2274,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_176
+- name: 👗283trojan🇺🇸US_176
   server: 160.79.105.178
   port: 2096
   client-fingerprint: chrome
@@ -2287,7 +2287,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_177
+- name: 👗283trojan🇺🇸US_177
   server: 160.153.0.178
   port: 2096
   client-fingerprint: chrome
@@ -2300,7 +2300,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_178
+- name: 👗283trojan🇺🇸US_178
   server: 160.153.1.178
   port: 2096
   client-fingerprint: chrome
@@ -2313,7 +2313,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_179
+- name: 👗283trojan🇺🇸US_179
   server: 160.153.137.178
   port: 2096
   client-fingerprint: chrome
@@ -2326,7 +2326,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_180
+- name: 👗283trojan🇺🇸US_180
   server: 160.153.138.178
   port: 2096
   client-fingerprint: chrome
@@ -2339,7 +2339,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_181
+- name: 👗283trojan🇺🇸US_181
   server: 161.145.150.178
   port: 2096
   client-fingerprint: chrome
@@ -2352,7 +2352,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_182
+- name: 👗283trojan🇺🇸US_182
   server: 162.120.94.178
   port: 2096
   client-fingerprint: chrome
@@ -2365,7 +2365,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_183
+- name: 👗283trojan🇺🇸US_183
   server: 162.251.82.178
   port: 2096
   client-fingerprint: chrome
@@ -2378,7 +2378,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_184
+- name: 👗283trojan🇺🇸US_184
   server: 164.38.155.178
   port: 2096
   client-fingerprint: chrome
@@ -2391,7 +2391,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_185
+- name: 👗283trojan🇺🇸US_185
   server: 167.68.4.178
   port: 2096
   client-fingerprint: chrome
@@ -2404,7 +2404,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_186
+- name: 👗283trojan🇺🇸US_186
   server: 167.68.5.178
   port: 2096
   client-fingerprint: chrome
@@ -2417,7 +2417,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_187
+- name: 👗283trojan🇺🇸US_187
   server: 167.68.11.178
   port: 2096
   client-fingerprint: chrome
@@ -2430,7 +2430,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_188
+- name: 👗283trojan🇺🇸US_188
   server: 167.68.42.178
   port: 2096
   client-fingerprint: chrome
@@ -2443,7 +2443,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_189
+- name: 👗283trojan🇺🇸US_189
   server: 168.100.6.178
   port: 2096
   client-fingerprint: chrome
@@ -2456,7 +2456,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_190
+- name: 👗283trojan🇺🇸US_190
   server: 170.114.45.178
   port: 2096
   client-fingerprint: chrome
@@ -2469,7 +2469,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_191
+- name: 👗283trojan🇺🇸US_191
   server: 170.114.46.178
   port: 2096
   client-fingerprint: chrome
@@ -2482,7 +2482,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_192
+- name: 👗283trojan🇺🇸US_192
   server: 173.245.49.178
   port: 2096
   client-fingerprint: chrome
@@ -2495,7 +2495,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_193
+- name: 👗283trojan🇺🇸US_193
   server: 173.245.58.178
   port: 2096
   client-fingerprint: chrome
@@ -2508,7 +2508,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_194
+- name: 👗283trojan🇺🇸US_194
   server: 173.245.59.178
   port: 2096
   client-fingerprint: chrome
@@ -2521,7 +2521,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_195
+- name: 👗283trojan🇺🇸US_195
   server: 176.124.223.178
   port: 2096
   client-fingerprint: chrome
@@ -2534,7 +2534,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_196
+- name: 👗283trojan🇺🇸US_196
   server: 181.214.1.178
   port: 2096
   client-fingerprint: chrome
@@ -2547,7 +2547,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_197
+- name: 👗283trojan🇺🇸US_197
   server: 184.174.80.178
   port: 2096
   client-fingerprint: chrome
@@ -2560,7 +2560,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_198
+- name: 👗283trojan🇺🇸US_198
   server: 185.16.110.178
   port: 2096
   client-fingerprint: chrome
@@ -2573,7 +2573,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_199
+- name: 👗283trojan🇺🇸US_199
   server: 185.18.184.178
   port: 2096
   client-fingerprint: chrome
@@ -2586,7 +2586,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_200
+- name: 👗283trojan🇺🇸US_200
   server: 185.18.250.178
   port: 2096
   client-fingerprint: chrome
@@ -2599,7 +2599,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_201
+- name: 👗283trojan🇺🇸US_201
   server: 185.59.218.178
   port: 2096
   client-fingerprint: chrome
@@ -2612,7 +2612,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_202
+- name: 👗283trojan🇺🇸US_202
   server: 185.133.35.178
   port: 2096
   client-fingerprint: chrome
@@ -2625,7 +2625,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_203
+- name: 👗283trojan🇺🇸US_203
   server: 185.135.9.178
   port: 2096
   client-fingerprint: chrome
@@ -2638,7 +2638,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_204
+- name: 👗283trojan🇺🇸US_204
   server: 185.148.104.178
   port: 2096
   client-fingerprint: chrome
@@ -2651,7 +2651,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_205
+- name: 👗283trojan🇺🇸US_205
   server: 185.148.105.178
   port: 2096
   client-fingerprint: chrome
@@ -2664,7 +2664,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_206
+- name: 👗283trojan🇺🇸US_206
   server: 185.148.106.178
   port: 2096
   client-fingerprint: chrome
@@ -2677,7 +2677,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_207
+- name: 👗283trojan🇺🇸US_207
   server: 185.148.107.178
   port: 2096
   client-fingerprint: chrome
@@ -2690,7 +2690,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_208
+- name: 👗283trojan🇺🇸US_208
   server: 185.159.247.178
   port: 2096
   client-fingerprint: chrome
@@ -2703,7 +2703,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_209
+- name: 👗283trojan🇺🇸US_209
   server: 185.162.228.178
   port: 2096
   client-fingerprint: chrome
@@ -2716,7 +2716,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_210
+- name: 👗283trojan🇺🇸US_210
   server: 185.162.229.178
   port: 2096
   client-fingerprint: chrome
@@ -2729,7 +2729,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_211
+- name: 👗283trojan🇺🇸US_211
   server: 185.162.230.178
   port: 2096
   client-fingerprint: chrome
@@ -2742,7 +2742,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_212
+- name: 👗283trojan🇺🇸US_212
   server: 185.162.231.178
   port: 2096
   client-fingerprint: chrome
@@ -2755,7 +2755,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_213
+- name: 👗283trojan🇺🇸US_213
   server: 185.170.166.178
   port: 2096
   client-fingerprint: chrome
@@ -2768,7 +2768,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_214
+- name: 👗283trojan🇺🇸US_214
   server: 185.174.138.178
   port: 2096
   client-fingerprint: chrome
@@ -2781,7 +2781,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_215
+- name: 👗283trojan🇺🇸US_215
   server: 185.176.24.178
   port: 2096
   client-fingerprint: chrome
@@ -2794,7 +2794,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_216
+- name: 👗283trojan🇺🇸US_216
   server: 185.176.26.178
   port: 2096
   client-fingerprint: chrome
@@ -2807,7 +2807,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_217
+- name: 👗283trojan🇺🇸US_217
   server: 185.193.28.178
   port: 2096
   client-fingerprint: chrome
@@ -2820,7 +2820,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_218
+- name: 👗283trojan🇺🇸US_218
   server: 185.193.29.178
   port: 2096
   client-fingerprint: chrome
@@ -2833,7 +2833,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_219
+- name: 👗283trojan🇺🇸US_219
   server: 185.193.30.178
   port: 2096
   client-fingerprint: chrome
@@ -2846,7 +2846,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_220
+- name: 👗283trojan🇺🇸US_220
   server: 185.193.31.178
   port: 2096
   client-fingerprint: chrome
@@ -2859,7 +2859,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_221
+- name: 👗283trojan🇺🇸US_221
   server: 185.207.196.178
   port: 2096
   client-fingerprint: chrome
@@ -2872,7 +2872,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_222
+- name: 👗283trojan🇺🇸US_222
   server: 185.207.197.178
   port: 2096
   client-fingerprint: chrome
@@ -2885,7 +2885,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_223
+- name: 👗283trojan🇺🇸US_223
   server: 185.207.198.178
   port: 2096
   client-fingerprint: chrome
@@ -2898,7 +2898,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_224
+- name: 👗283trojan🇺🇸US_224
   server: 185.207.199.178
   port: 2096
   client-fingerprint: chrome
@@ -2911,7 +2911,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_225
+- name: 👗283trojan🇺🇸US_225
   server: 185.221.160.178
   port: 2096
   client-fingerprint: chrome
@@ -2924,7 +2924,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_226
+- name: 👗283trojan🇺🇸US_226
   server: 185.238.228.178
   port: 2096
   client-fingerprint: chrome
@@ -2937,7 +2937,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_227
+- name: 👗283trojan🇺🇸US_227
   server: 185.251.80.178
   port: 2096
   client-fingerprint: chrome
@@ -2950,7 +2950,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_228
+- name: 👗283trojan🇺🇸US_228
   server: 185.251.81.178
   port: 2096
   client-fingerprint: chrome
@@ -2963,7 +2963,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_229
+- name: 👗283trojan🇺🇸US_229
   server: 185.251.82.178
   port: 2096
   client-fingerprint: chrome
@@ -2976,7 +2976,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_230
+- name: 👗283trojan🇺🇸US_230
   server: 185.251.83.178
   port: 2096
   client-fingerprint: chrome
@@ -2989,7 +2989,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_231
+- name: 👗283trojan🇺🇸US_231
   server: 188.42.88.178
   port: 2096
   client-fingerprint: chrome
@@ -3002,7 +3002,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_232
+- name: 👗283trojan🇺🇸US_232
   server: 188.42.89.178
   port: 2096
   client-fingerprint: chrome
@@ -3015,7 +3015,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_233
+- name: 👗283trojan🇺🇸US_233
   server: 188.42.145.178
   port: 2096
   client-fingerprint: chrome
@@ -3028,7 +3028,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_234
+- name: 👗283trojan🇺🇸US_234
   server: 188.164.158.178
   port: 2096
   client-fingerprint: chrome
@@ -3041,7 +3041,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_235
+- name: 👗283trojan🇺🇸US_235
   server: 188.164.159.178
   port: 2096
   client-fingerprint: chrome
@@ -3054,7 +3054,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_236
+- name: 👗283trojan🇺🇸US_236
   server: 188.164.248.178
   port: 2096
   client-fingerprint: chrome
@@ -3067,7 +3067,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_237
+- name: 👗283trojan🇺🇸US_237
   server: 188.244.122.178
   port: 2096
   client-fingerprint: chrome
@@ -3080,7 +3080,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_238
+- name: 👗283trojan🇺🇸US_238
   server: 190.93.244.178
   port: 2096
   client-fingerprint: chrome
@@ -3093,7 +3093,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_239
+- name: 👗283trojan🇺🇸US_239
   server: 190.93.245.178
   port: 2096
   client-fingerprint: chrome
@@ -3106,7 +3106,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_240
+- name: 👗283trojan🇺🇸US_240
   server: 190.93.246.178
   port: 2096
   client-fingerprint: chrome
@@ -3119,7 +3119,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_241
+- name: 👗283trojan🇺🇸US_241
   server: 190.93.247.178
   port: 2096
   client-fingerprint: chrome
@@ -3132,7 +3132,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_242
+- name: 👗283trojan🇺🇸US_242
   server: 192.0.54.178
   port: 2096
   client-fingerprint: chrome
@@ -3145,7 +3145,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_243
+- name: 👗283trojan🇺🇸US_243
   server: 192.0.63.178
   port: 2096
   client-fingerprint: chrome
@@ -3158,7 +3158,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_244
+- name: 👗283trojan🇺🇸US_244
   server: 192.65.217.178
   port: 2096
   client-fingerprint: chrome
@@ -3171,7 +3171,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_245
+- name: 👗283trojan🇺🇸US_245
   server: 192.200.160.178
   port: 2096
   client-fingerprint: chrome
@@ -3184,7 +3184,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_246
+- name: 👗283trojan🇺🇸US_246
   server: 193.9.49.178
   port: 2096
   client-fingerprint: chrome
@@ -3197,7 +3197,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_247
+- name: 👗283trojan🇺🇸US_247
   server: 193.33.87.178
   port: 2096
   client-fingerprint: chrome
@@ -3210,7 +3210,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_248
+- name: 👗283trojan🇺🇸US_248
   server: 193.124.18.178
   port: 2096
   client-fingerprint: chrome
@@ -3223,7 +3223,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_249
+- name: 👗283trojan🇺🇸US_249
   server: 193.124.224.178
   port: 2096
   client-fingerprint: chrome
@@ -3236,7 +3236,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_250
+- name: 👗283trojan🇺🇸US_250
   server: 193.227.99.178
   port: 2096
   client-fingerprint: chrome
@@ -3249,7 +3249,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_251
+- name: 👗283trojan🇺🇸US_251
   server: 193.233.21.178
   port: 2096
   client-fingerprint: chrome
@@ -3262,7 +3262,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_252
+- name: 👗283trojan🇺🇸US_252
   server: 193.233.132.178
   port: 2096
   client-fingerprint: chrome
@@ -3275,7 +3275,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_253
+- name: 👗283trojan🇺🇸US_253
   server: 194.36.55.178
   port: 2096
   client-fingerprint: chrome
@@ -3288,7 +3288,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_254
+- name: 👗283trojan🇺🇸US_254
   server: 194.53.53.178
   port: 2096
   client-fingerprint: chrome
@@ -3301,7 +3301,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_255
+- name: 👗283trojan🇺🇸US_255
   server: 194.59.5.178
   port: 2096
   client-fingerprint: chrome
@@ -3314,7 +3314,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_256
+- name: 👗283trojan🇺🇸US_256
   server: 194.76.18.178
   port: 2096
   client-fingerprint: chrome
@@ -3327,7 +3327,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_257
+- name: 👗283trojan🇺🇸US_257
   server: 194.152.44.178
   port: 2096
   client-fingerprint: chrome
@@ -3340,7 +3340,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_258
+- name: 👗283trojan🇺🇸US_258
   server: 195.13.44.178
   port: 2096
   client-fingerprint: chrome
@@ -3353,7 +3353,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_259
+- name: 👗283trojan🇺🇸US_259
   server: 195.13.45.178
   port: 2096
   client-fingerprint: chrome
@@ -3366,7 +3366,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_260
+- name: 👗283trojan🇺🇸US_260
   server: 195.13.54.178
   port: 2096
   client-fingerprint: chrome
@@ -3379,7 +3379,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_261
+- name: 👗283trojan🇺🇸US_261
   server: 195.13.55.178
   port: 2096
   client-fingerprint: chrome
@@ -3392,7 +3392,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_262
+- name: 👗283trojan🇺🇸US_262
   server: 195.26.229.178
   port: 2096
   client-fingerprint: chrome
@@ -3405,7 +3405,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_263
+- name: 👗283trojan🇺🇸US_263
   server: 195.85.23.178
   port: 2096
   client-fingerprint: chrome
@@ -3418,7 +3418,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_264
+- name: 👗283trojan🇺🇸US_264
   server: 195.85.59.178
   port: 2096
   client-fingerprint: chrome
@@ -3431,7 +3431,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_265
+- name: 👗283trojan🇺🇸US_265
   server: 195.245.221.178
   port: 2096
   client-fingerprint: chrome
@@ -3444,7 +3444,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_266
+- name: 👗283trojan🇺🇸US_266
   server: 198.62.62.178
   port: 2096
   client-fingerprint: chrome
@@ -3457,7 +3457,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_267
+- name: 👗283trojan🇺🇸US_267
   server: 198.202.211.178
   port: 2096
   client-fingerprint: chrome
@@ -3470,7 +3470,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_268
+- name: 👗283trojan🇺🇸US_268
   server: 199.34.228.178
   port: 2096
   client-fingerprint: chrome
@@ -3483,7 +3483,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_269
+- name: 👗283trojan🇺🇸US_269
   server: 199.34.229.178
   port: 2096
   client-fingerprint: chrome
@@ -3496,7 +3496,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_270
+- name: 👗283trojan🇺🇸US_270
   server: 199.34.230.178
   port: 2096
   client-fingerprint: chrome
@@ -3509,7 +3509,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_271
+- name: 👗283trojan🇺🇸US_271
   server: 199.181.197.178
   port: 2096
   client-fingerprint: chrome
@@ -3522,7 +3522,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_272
+- name: 👗283trojan🇺🇸US_272
   server: 204.93.210.178
   port: 2096
   client-fingerprint: chrome
@@ -3535,7 +3535,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_273
+- name: 👗283trojan🇺🇸US_273
   server: 205.233.181.178
   port: 2096
   client-fingerprint: chrome
@@ -3548,7 +3548,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_274
+- name: 👗283trojan🇺🇸US_274
   server: 209.46.30.178
   port: 2096
   client-fingerprint: chrome
@@ -3561,7 +3561,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_275
+- name: 👗283trojan🇺🇸US_275
   server: 209.94.90.178
   port: 2096
   client-fingerprint: chrome
@@ -3574,7 +3574,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_276
+- name: 👗283trojan🇺🇸US_276
   server: 212.183.88.178
   port: 2096
   client-fingerprint: chrome
@@ -3587,7 +3587,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_277
+- name: 👗283trojan🇺🇸US_277
   server: 213.109.205.178
   port: 2096
   client-fingerprint: chrome
@@ -3600,7 +3600,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_278
+- name: 👗283trojan🇺🇸US_278
   server: 213.182.199.178
   port: 2096
   client-fingerprint: chrome
@@ -3613,7 +3613,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_279
+- name: 👗283trojan🇺🇸US_279
   server: 213.219.247.178
   port: 2096
   client-fingerprint: chrome
@@ -3626,7 +3626,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_280
+- name: 👗283trojan🇺🇸US_280
   server: 213.241.198.178
   port: 2096
   client-fingerprint: chrome
@@ -3639,7 +3639,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_281
+- name: 👗283trojan🇺🇸US_281
   server: 216.24.57.178
   port: 2096
   client-fingerprint: chrome
@@ -3652,7 +3652,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_282
+- name: 👗283trojan🇺🇸US_282
   server: 216.116.134.178
   port: 2096
   client-fingerprint: chrome
@@ -3665,7 +3665,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560&PROT_TYPE=trojan
     headers:
       Host: vle.amclubdns.dpdns.org
-- name: 📫283trojan🇺🇸US_283
+- name: 👗283trojan🇺🇸US_283
   server: 216.205.52.178
   port: 2096
   client-fingerprint: chrome
