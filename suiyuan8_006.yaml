@@ -1,5 +1,5 @@
 proxies:
-- name: 🙎🏾‍♀️283vless🇺🇸US_001
+- name: 🛸283vless🇺🇸US_001
   server: 5.10.214.35
   port: 8880
   type: vless
@@ -13,7 +13,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_002
+- name: 🛸283vless🇺🇸US_002
   server: 5.10.215.35
   port: 8880
   type: vless
@@ -27,7 +27,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_003
+- name: 🛸283vless🇺🇸US_003
   server: 5.10.244.35
   port: 8880
   type: vless
@@ -41,7 +41,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_004
+- name: 🛸283vless🇺🇸US_004
   server: 5.10.245.35
   port: 8880
   type: vless
@@ -55,7 +55,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_005
+- name: 🛸283vless🇺🇸US_005
   server: 5.10.246.35
   port: 8880
   type: vless
@@ -69,7 +69,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_006
+- name: 🛸283vless🇺🇸US_006
   server: 5.10.247.35
   port: 8880
   type: vless
@@ -83,7 +83,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_007
+- name: 🛸283vless🇺🇸US_007
   server: 5.175.141.35
   port: 8880
   type: vless
@@ -97,7 +97,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_008
+- name: 🛸283vless🇺🇸US_008
   server: 5.182.34.35
   port: 8880
   type: vless
@@ -111,7 +111,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_009
+- name: 🛸283vless🇺🇸US_009
   server: 5.182.84.35
   port: 8880
   type: vless
@@ -125,7 +125,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_010
+- name: 🛸283vless🇺🇸US_010
   server: 5.182.85.35
   port: 8880
   type: vless
@@ -139,7 +139,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_011
+- name: 🛸283vless🇺🇸US_011
   server: 14.102.228.35
   port: 8880
   type: vless
@@ -153,7 +153,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_012
+- name: 🛸283vless🇺🇸US_012
   server: 14.102.229.35
   port: 8880
   type: vless
@@ -167,7 +167,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_013
+- name: 🛸283vless🇺🇸US_013
   server: 23.227.38.35
   port: 8880
   type: vless
@@ -181,7 +181,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_014
+- name: 🛸283vless🇺🇸US_014
   server: 23.227.39.35
   port: 8880
   type: vless
@@ -195,7 +195,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_015
+- name: 🛸283vless🇺🇸US_015
   server: 23.227.60.35
   port: 8880
   type: vless
@@ -209,7 +209,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_016
+- name: 🛸283vless🇺🇸US_016
   server: 25.25.25.35
   port: 8880
   type: vless
@@ -223,7 +223,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_017
+- name: 🛸283vless🇺🇸US_017
   server: 25.26.27.35
   port: 8880
   type: vless
@@ -237,7 +237,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_018
+- name: 🛸283vless🇺🇸US_018
   server: 25.129.196.35
   port: 8880
   type: vless
@@ -251,7 +251,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_019
+- name: 🛸283vless🇺🇸US_019
   server: 25.129.197.35
   port: 8880
   type: vless
@@ -265,7 +265,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_020
+- name: 🛸283vless🇺🇸US_020
   server: 25.129.198.35
   port: 8880
   type: vless
@@ -279,7 +279,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_021
+- name: 🛸283vless🇺🇸US_021
   server: 25.129.199.35
   port: 8880
   type: vless
@@ -293,7 +293,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_022
+- name: 🛸283vless🇺🇸US_022
   server: 27.50.48.35
   port: 8880
   type: vless
@@ -307,7 +307,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_023
+- name: 🛸283vless🇺🇸US_023
   server: 27.50.49.35
   port: 8880
   type: vless
@@ -321,7 +321,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_024
+- name: 🛸283vless🇺🇸US_024
   server: 31.12.75.35
   port: 8880
   type: vless
@@ -335,7 +335,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_025
+- name: 🛸283vless🇺🇸US_025
   server: 31.43.179.35
   port: 8880
   type: vless
@@ -349,7 +349,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_026
+- name: 🛸283vless🇺🇸US_026
   server: 45.8.211.35
   port: 8880
   type: vless
@@ -363,7 +363,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_027
+- name: 🛸283vless🇺🇸US_027
   server: 45.12.30.35
   port: 8880
   type: vless
@@ -377,7 +377,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_028
+- name: 🛸283vless🇺🇸US_028
   server: 45.12.31.35
   port: 8880
   type: vless
@@ -391,7 +391,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_029
+- name: 🛸283vless🇺🇸US_029
   server: 45.67.214.35
   port: 8880
   type: vless
@@ -405,7 +405,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_030
+- name: 🛸283vless🇺🇸US_030
   server: 45.67.215.35
   port: 8880
   type: vless
@@ -419,7 +419,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_031
+- name: 🛸283vless🇺🇸US_031
   server: 45.80.108.35
   port: 8880
   type: vless
@@ -433,7 +433,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_032
+- name: 🛸283vless🇺🇸US_032
   server: 45.80.110.35
   port: 8880
   type: vless
@@ -447,7 +447,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_033
+- name: 🛸283vless🇺🇸US_033
   server: 45.80.111.35
   port: 8880
   type: vless
@@ -461,7 +461,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_034
+- name: 🛸283vless🇺🇸US_034
   server: 45.81.58.35
   port: 8880
   type: vless
@@ -475,7 +475,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_035
+- name: 🛸283vless🇺🇸US_035
   server: 45.85.118.35
   port: 8880
   type: vless
@@ -489,7 +489,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_036
+- name: 🛸283vless🇺🇸US_036
   server: 45.85.119.35
   port: 8880
   type: vless
@@ -503,7 +503,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_037
+- name: 🛸283vless🇺🇸US_037
   server: 45.131.4.35
   port: 8880
   type: vless
@@ -517,7 +517,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_038
+- name: 🛸283vless🇺🇸US_038
   server: 45.131.5.35
   port: 8880
   type: vless
@@ -531,7 +531,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_039
+- name: 🛸283vless🇺🇸US_039
   server: 45.131.6.35
   port: 8880
   type: vless
@@ -545,7 +545,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_040
+- name: 🛸283vless🇺🇸US_040
   server: 45.131.7.35
   port: 8880
   type: vless
@@ -559,7 +559,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_041
+- name: 🛸283vless🇺🇸US_041
   server: 45.131.208.35
   port: 8880
   type: vless
@@ -573,7 +573,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_042
+- name: 🛸283vless🇺🇸US_042
   server: 45.131.209.35
   port: 8880
   type: vless
@@ -587,7 +587,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_043
+- name: 🛸283vless🇺🇸US_043
   server: 45.131.210.35
   port: 8880
   type: vless
@@ -601,7 +601,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_044
+- name: 🛸283vless🇺🇸US_044
   server: 45.131.211.35
   port: 8880
   type: vless
@@ -615,7 +615,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_045
+- name: 🛸283vless🇺🇸US_045
   server: 45.135.235.35
   port: 8880
   type: vless
@@ -629,7 +629,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_046
+- name: 🛸283vless🇺🇸US_046
   server: 45.142.120.35
   port: 8880
   type: vless
@@ -643,7 +643,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_047
+- name: 🛸283vless🇺🇸US_047
   server: 45.142.255.35
   port: 8880
   type: vless
@@ -657,7 +657,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_048
+- name: 🛸283vless🇺🇸US_048
   server: 45.149.12.35
   port: 8880
   type: vless
@@ -671,7 +671,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_049
+- name: 🛸283vless🇺🇸US_049
   server: 45.150.115.35
   port: 8880
   type: vless
@@ -685,7 +685,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_050
+- name: 🛸283vless🇺🇸US_050
   server: 45.153.7.35
   port: 8880
   type: vless
@@ -699,7 +699,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_051
+- name: 🛸283vless🇺🇸US_051
   server: 45.159.216.35
   port: 8880
   type: vless
@@ -713,7 +713,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_052
+- name: 🛸283vless🇺🇸US_052
   server: 45.159.217.35
   port: 8880
   type: vless
@@ -727,7 +727,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_053
+- name: 🛸283vless🇺🇸US_053
   server: 45.159.218.35
   port: 8880
   type: vless
@@ -741,7 +741,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_054
+- name: 🛸283vless🇺🇸US_054
   server: 45.159.219.35
   port: 8880
   type: vless
@@ -755,7 +755,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_055
+- name: 🛸283vless🇺🇸US_055
   server: 45.192.222.35
   port: 8880
   type: vless
@@ -769,7 +769,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_056
+- name: 🛸283vless🇺🇸US_056
   server: 45.192.223.35
   port: 8880
   type: vless
@@ -783,7 +783,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_057
+- name: 🛸283vless🇺🇸US_057
   server: 45.192.224.35
   port: 8880
   type: vless
@@ -797,7 +797,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_058
+- name: 🛸283vless🇺🇸US_058
   server: 45.194.53.35
   port: 8880
   type: vless
@@ -811,7 +811,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_059
+- name: 🛸283vless🇺🇸US_059
   server: 45.202.113.35
   port: 8880
   type: vless
@@ -825,7 +825,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_060
+- name: 🛸283vless🇺🇸US_060
   server: 45.205.0.35
   port: 8880
   type: vless
@@ -839,7 +839,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_061
+- name: 🛸283vless🇺🇸US_061
   server: 46.202.30.35
   port: 8880
   type: vless
@@ -853,7 +853,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_062
+- name: 🛸283vless🇺🇸US_062
   server: 46.254.92.35
   port: 8880
   type: vless
@@ -867,7 +867,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_063
+- name: 🛸283vless🇺🇸US_063
   server: 46.254.93.35
   port: 8880
   type: vless
@@ -881,7 +881,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_064
+- name: 🛸283vless🇺🇸US_064
   server: 62.72.166.35
   port: 8880
   type: vless
@@ -895,7 +895,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_065
+- name: 🛸283vless🇺🇸US_065
   server: 63.141.128.35
   port: 8880
   type: vless
@@ -909,7 +909,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_066
+- name: 🛸283vless🇺🇸US_066
   server: 66.45.118.35
   port: 8880
   type: vless
@@ -923,7 +923,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_067
+- name: 🛸283vless🇺🇸US_067
   server: 66.81.247.35
   port: 8880
   type: vless
@@ -937,7 +937,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_068
+- name: 🛸283vless🇺🇸US_068
   server: 66.225.252.35
   port: 8880
   type: vless
@@ -951,7 +951,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_069
+- name: 🛸283vless🇺🇸US_069
   server: 66.235.200.35
   port: 8880
   type: vless
@@ -965,7 +965,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_070
+- name: 🛸283vless🇺🇸US_070
   server: 69.84.182.35
   port: 8880
   type: vless
@@ -979,7 +979,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_071
+- name: 🛸283vless🇺🇸US_071
   server: 74.49.214.35
   port: 8880
   type: vless
@@ -993,7 +993,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_072
+- name: 🛸283vless🇺🇸US_072
   server: 74.49.215.35
   port: 8880
   type: vless
@@ -1007,7 +1007,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_073
+- name: 🛸283vless🇺🇸US_073
   server: 77.37.33.35
   port: 8880
   type: vless
@@ -1021,7 +1021,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_074
+- name: 🛸283vless🇺🇸US_074
   server: 77.74.228.35
   port: 8880
   type: vless
@@ -1035,7 +1035,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_075
+- name: 🛸283vless🇺🇸US_075
   server: 77.75.199.35
   port: 8880
   type: vless
@@ -1049,7 +1049,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_076
+- name: 🛸283vless🇺🇸US_076
   server: 77.105.163.35
   port: 8880
   type: vless
@@ -1063,7 +1063,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_077
+- name: 🛸283vless🇺🇸US_077
   server: 77.232.140.35
   port: 8880
   type: vless
@@ -1077,7 +1077,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_078
+- name: 🛸283vless🇺🇸US_078
   server: 80.93.202.35
   port: 8880
   type: vless
@@ -1091,7 +1091,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_079
+- name: 🛸283vless🇺🇸US_079
   server: 86.38.214.35
   port: 8880
   type: vless
@@ -1105,7 +1105,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_080
+- name: 🛸283vless🇺🇸US_080
   server: 88.216.66.35
   port: 8880
   type: vless
@@ -1119,7 +1119,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_081
+- name: 🛸283vless🇺🇸US_081
   server: 88.216.67.35
   port: 8880
   type: vless
@@ -1133,7 +1133,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_082
+- name: 🛸283vless🇺🇸US_082
   server: 88.216.69.35
   port: 8880
   type: vless
@@ -1147,7 +1147,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_083
+- name: 🛸283vless🇺🇸US_083
   server: 89.116.46.35
   port: 8880
   type: vless
@@ -1161,7 +1161,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_084
+- name: 🛸283vless🇺🇸US_084
   server: 89.116.161.35
   port: 8880
   type: vless
@@ -1175,7 +1175,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_085
+- name: 🛸283vless🇺🇸US_085
   server: 89.116.180.35
   port: 8880
   type: vless
@@ -1189,7 +1189,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_086
+- name: 🛸283vless🇺🇸US_086
   server: 89.116.250.35
   port: 8880
   type: vless
@@ -1203,7 +1203,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_087
+- name: 🛸283vless🇺🇸US_087
   server: 89.117.112.35
   port: 8880
   type: vless
@@ -1217,7 +1217,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_088
+- name: 🛸283vless🇺🇸US_088
   server: 91.124.127.35
   port: 8880
   type: vless
@@ -1231,7 +1231,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_089
+- name: 🛸283vless🇺🇸US_089
   server: 91.209.253.35
   port: 8880
   type: vless
@@ -1245,7 +1245,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_090
+- name: 🛸283vless🇺🇸US_090
   server: 92.53.188.35
   port: 8880
   type: vless
@@ -1259,7 +1259,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_091
+- name: 🛸283vless🇺🇸US_091
   server: 92.53.189.35
   port: 8880
   type: vless
@@ -1273,7 +1273,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_092
+- name: 🛸283vless🇺🇸US_092
   server: 92.53.190.35
   port: 8880
   type: vless
@@ -1287,7 +1287,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_093
+- name: 🛸283vless🇺🇸US_093
   server: 92.53.191.35
   port: 8880
   type: vless
@@ -1301,7 +1301,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_094
+- name: 🛸283vless🇺🇸US_094
   server: 92.60.74.35
   port: 8880
   type: vless
@@ -1315,7 +1315,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_095
+- name: 🛸283vless🇺🇸US_095
   server: 92.243.74.35
   port: 8880
   type: vless
@@ -1329,7 +1329,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_096
+- name: 🛸283vless🇺🇸US_096
   server: 92.243.75.35
   port: 8880
   type: vless
@@ -1343,7 +1343,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_097
+- name: 🛸283vless🇺🇸US_097
   server: 94.140.0.35
   port: 8880
   type: vless
@@ -1357,7 +1357,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_098
+- name: 🛸283vless🇺🇸US_098
   server: 94.247.142.35
   port: 8880
   type: vless
@@ -1371,7 +1371,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_099
+- name: 🛸283vless🇺🇸US_099
   server: 102.132.188.35
   port: 8880
   type: vless
@@ -1385,7 +1385,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_100
+- name: 🛸283vless🇺🇸US_100
   server: 102.177.176.35
   port: 8880
   type: vless
@@ -1399,7 +1399,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_101
+- name: 🛸283vless🇺🇸US_101
   server: 102.177.189.35
   port: 8880
   type: vless
@@ -1413,7 +1413,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_102
+- name: 🛸283vless🇺🇸US_102
   server: 103.21.244.35
   port: 8880
   type: vless
@@ -1427,7 +1427,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_103
+- name: 🛸283vless🇺🇸US_103
   server: 103.116.7.35
   port: 8880
   type: vless
@@ -1441,7 +1441,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_104
+- name: 🛸283vless🇺🇸US_104
   server: 103.133.1.35
   port: 8880
   type: vless
@@ -1455,7 +1455,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_105
+- name: 🛸283vless🇺🇸US_105
   server: 103.160.204.35
   port: 8880
   type: vless
@@ -1469,7 +1469,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_106
+- name: 🛸283vless🇺🇸US_106
   server: 103.169.142.35
   port: 8880
   type: vless
@@ -1483,7 +1483,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_107
+- name: 🛸283vless🇺🇸US_107
   server: 103.245.228.35
   port: 8880
   type: vless
@@ -1497,7 +1497,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_108
+- name: 🛸283vless🇺🇸US_108
   server: 103.245.229.35
   port: 8880
   type: vless
@@ -1511,7 +1511,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_109
+- name: 🛸283vless🇺🇸US_109
   server: 104.31.16.35
   port: 8880
   type: vless
@@ -1525,7 +1525,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_110
+- name: 🛸283vless🇺🇸US_110
   server: 104.129.164.35
   port: 8880
   type: vless
@@ -1539,7 +1539,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_111
+- name: 🛸283vless🇺🇸US_111
   server: 104.129.165.35
   port: 8880
   type: vless
@@ -1553,7 +1553,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_112
+- name: 🛸283vless🇺🇸US_112
   server: 104.129.166.35
   port: 8880
   type: vless
@@ -1567,7 +1567,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_113
+- name: 🛸283vless🇺🇸US_113
   server: 104.129.167.35
   port: 8880
   type: vless
@@ -1581,7 +1581,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_114
+- name: 🛸283vless🇺🇸US_114
   server: 104.234.239.35
   port: 8880
   type: vless
@@ -1595,7 +1595,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_115
+- name: 🛸283vless🇺🇸US_115
   server: 104.239.72.35
   port: 8880
   type: vless
@@ -1609,7 +1609,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_116
+- name: 🛸283vless🇺🇸US_116
   server: 104.254.140.35
   port: 8880
   type: vless
@@ -1623,7 +1623,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_117
+- name: 🛸283vless🇺🇸US_117
   server: 108.162.192.35
   port: 8880
   type: vless
@@ -1637,7 +1637,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_118
+- name: 🛸283vless🇺🇸US_118
   server: 108.162.193.35
   port: 8880
   type: vless
@@ -1651,7 +1651,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_119
+- name: 🛸283vless🇺🇸US_119
   server: 108.162.194.35
   port: 8880
   type: vless
@@ -1665,7 +1665,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_120
+- name: 🛸283vless🇺🇸US_120
   server: 108.162.195.35
   port: 8880
   type: vless
@@ -1679,7 +1679,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_121
+- name: 🛸283vless🇺🇸US_121
   server: 108.162.196.35
   port: 8880
   type: vless
@@ -1693,7 +1693,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_122
+- name: 🛸283vless🇺🇸US_122
   server: 108.162.198.35
   port: 8880
   type: vless
@@ -1707,7 +1707,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_123
+- name: 🛸283vless🇺🇸US_123
   server: 108.165.152.35
   port: 8880
   type: vless
@@ -1721,7 +1721,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_124
+- name: 🛸283vless🇺🇸US_124
   server: 108.165.216.35
   port: 8880
   type: vless
@@ -1735,7 +1735,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_125
+- name: 🛸283vless🇺🇸US_125
   server: 109.176.239.35
   port: 8880
   type: vless
@@ -1749,7 +1749,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_126
+- name: 🛸283vless🇺🇸US_126
   server: 114.129.43.35
   port: 8880
   type: vless
@@ -1763,7 +1763,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_127
+- name: 🛸283vless🇺🇸US_127
   server: 130.250.137.35
   port: 8880
   type: vless
@@ -1777,7 +1777,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_128
+- name: 🛸283vless🇺🇸US_128
   server: 135.84.67.35
   port: 8880
   type: vless
@@ -1791,7 +1791,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_129
+- name: 🛸283vless🇺🇸US_129
   server: 135.84.72.35
   port: 8880
   type: vless
@@ -1805,7 +1805,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_130
+- name: 🛸283vless🇺🇸US_130
   server: 135.84.73.35
   port: 8880
   type: vless
@@ -1819,7 +1819,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_131
+- name: 🛸283vless🇺🇸US_131
   server: 135.84.74.35
   port: 8880
   type: vless
@@ -1833,7 +1833,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_132
+- name: 🛸283vless🇺🇸US_132
   server: 135.84.75.35
   port: 8880
   type: vless
@@ -1847,7 +1847,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_133
+- name: 🛸283vless🇺🇸US_133
   server: 135.84.76.35
   port: 8880
   type: vless
@@ -1861,7 +1861,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_134
+- name: 🛸283vless🇺🇸US_134
   server: 135.84.79.35
   port: 8880
   type: vless
@@ -1875,7 +1875,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_135
+- name: 🛸283vless🇺🇸US_135
   server: 139.64.235.35
   port: 8880
   type: vless
@@ -1889,7 +1889,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_136
+- name: 🛸283vless🇺🇸US_136
   server: 140.99.233.35
   port: 8880
   type: vless
@@ -1903,7 +1903,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_137
+- name: 🛸283vless🇺🇸US_137
   server: 141.11.202.35
   port: 8880
   type: vless
@@ -1917,7 +1917,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_138
+- name: 🛸283vless🇺🇸US_138
   server: 141.11.203.35
   port: 8880
   type: vless
@@ -1931,7 +1931,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_139
+- name: 🛸283vless🇺🇸US_139
   server: 141.101.113.35
   port: 8880
   type: vless
@@ -1945,7 +1945,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_140
+- name: 🛸283vless🇺🇸US_140
   server: 141.101.114.35
   port: 8880
   type: vless
@@ -1959,7 +1959,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_141
+- name: 🛸283vless🇺🇸US_141
   server: 141.101.115.35
   port: 8880
   type: vless
@@ -1973,7 +1973,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_142
+- name: 🛸283vless🇺🇸US_142
   server: 141.101.120.35
   port: 8880
   type: vless
@@ -1987,7 +1987,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_143
+- name: 🛸283vless🇺🇸US_143
   server: 141.101.121.35
   port: 8880
   type: vless
@@ -2001,7 +2001,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_144
+- name: 🛸283vless🇺🇸US_144
   server: 141.101.122.35
   port: 8880
   type: vless
@@ -2015,7 +2015,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_145
+- name: 🛸283vless🇺🇸US_145
   server: 141.101.123.35
   port: 8880
   type: vless
@@ -2029,7 +2029,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_146
+- name: 🛸283vless🇺🇸US_146
   server: 141.193.27.35
   port: 8880
   type: vless
@@ -2043,7 +2043,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_147
+- name: 🛸283vless🇺🇸US_147
   server: 141.193.213.35
   port: 8880
   type: vless
@@ -2057,7 +2057,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_148
+- name: 🛸283vless🇺🇸US_148
   server: 147.78.140.35
   port: 8880
   type: vless
@@ -2071,7 +2071,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_149
+- name: 🛸283vless🇺🇸US_149
   server: 147.185.161.35
   port: 8880
   type: vless
@@ -2085,7 +2085,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_150
+- name: 🛸283vless🇺🇸US_150
   server: 154.83.2.35
   port: 8880
   type: vless
@@ -2099,7 +2099,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_151
+- name: 🛸283vless🇺🇸US_151
   server: 154.85.99.35
   port: 8880
   type: vless
@@ -2113,7 +2113,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_152
+- name: 🛸283vless🇺🇸US_152
   server: 154.92.9.35
   port: 8880
   type: vless
@@ -2127,7 +2127,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_153
+- name: 🛸283vless🇺🇸US_153
   server: 154.194.0.35
   port: 8880
   type: vless
@@ -2141,7 +2141,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_154
+- name: 🛸283vless🇺🇸US_154
   server: 154.194.12.35
   port: 8880
   type: vless
@@ -2155,7 +2155,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_155
+- name: 🛸283vless🇺🇸US_155
   server: 154.197.64.35
   port: 8880
   type: vless
@@ -2169,7 +2169,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_156
+- name: 🛸283vless🇺🇸US_156
   server: 154.197.75.35
   port: 8880
   type: vless
@@ -2183,7 +2183,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_157
+- name: 🛸283vless🇺🇸US_157
   server: 154.197.80.35
   port: 8880
   type: vless
@@ -2197,7 +2197,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_158
+- name: 🛸283vless🇺🇸US_158
   server: 154.197.88.35
   port: 8880
   type: vless
@@ -2211,7 +2211,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_159
+- name: 🛸283vless🇺🇸US_159
   server: 154.197.108.35
   port: 8880
   type: vless
@@ -2225,7 +2225,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_160
+- name: 🛸283vless🇺🇸US_160
   server: 154.197.121.35
   port: 8880
   type: vless
@@ -2239,7 +2239,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_161
+- name: 🛸283vless🇺🇸US_161
   server: 154.198.173.35
   port: 8880
   type: vless
@@ -2253,7 +2253,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_162
+- name: 🛸283vless🇺🇸US_162
   server: 154.206.12.35
   port: 8880
   type: vless
@@ -2267,7 +2267,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_163
+- name: 🛸283vless🇺🇸US_163
   server: 154.211.8.35
   port: 8880
   type: vless
@@ -2281,7 +2281,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_164
+- name: 🛸283vless🇺🇸US_164
   server: 154.218.15.35
   port: 8880
   type: vless
@@ -2295,7 +2295,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_165
+- name: 🛸283vless🇺🇸US_165
   server: 154.219.5.35
   port: 8880
   type: vless
@@ -2309,7 +2309,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_166
+- name: 🛸283vless🇺🇸US_166
   server: 155.46.167.35
   port: 8880
   type: vless
@@ -2323,7 +2323,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_167
+- name: 🛸283vless🇺🇸US_167
   server: 155.46.213.35
   port: 8880
   type: vless
@@ -2337,7 +2337,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_168
+- name: 🛸283vless🇺🇸US_168
   server: 156.225.72.35
   port: 8880
   type: vless
@@ -2351,7 +2351,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_169
+- name: 🛸283vless🇺🇸US_169
   server: 156.238.19.35
   port: 8880
   type: vless
@@ -2365,7 +2365,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_170
+- name: 🛸283vless🇺🇸US_170
   server: 156.243.83.35
   port: 8880
   type: vless
@@ -2379,7 +2379,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_171
+- name: 🛸283vless🇺🇸US_171
   server: 156.243.246.35
   port: 8880
   type: vless
@@ -2393,7 +2393,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_172
+- name: 🛸283vless🇺🇸US_172
   server: 159.112.235.35
   port: 8880
   type: vless
@@ -2407,7 +2407,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_173
+- name: 🛸283vless🇺🇸US_173
   server: 159.242.242.35
   port: 8880
   type: vless
@@ -2421,7 +2421,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_174
+- name: 🛸283vless🇺🇸US_174
   server: 159.246.55.35
   port: 8880
   type: vless
@@ -2435,7 +2435,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_175
+- name: 🛸283vless🇺🇸US_175
   server: 160.79.104.35
   port: 8880
   type: vless
@@ -2449,7 +2449,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_176
+- name: 🛸283vless🇺🇸US_176
   server: 160.79.105.35
   port: 8880
   type: vless
@@ -2463,7 +2463,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_177
+- name: 🛸283vless🇺🇸US_177
   server: 160.153.0.35
   port: 8880
   type: vless
@@ -2477,7 +2477,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_178
+- name: 🛸283vless🇺🇸US_178
   server: 160.153.1.35
   port: 8880
   type: vless
@@ -2491,7 +2491,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_179
+- name: 🛸283vless🇺🇸US_179
   server: 160.153.137.35
   port: 8880
   type: vless
@@ -2505,7 +2505,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_180
+- name: 🛸283vless🇺🇸US_180
   server: 160.153.138.35
   port: 8880
   type: vless
@@ -2519,7 +2519,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_181
+- name: 🛸283vless🇺🇸US_181
   server: 161.145.150.35
   port: 8880
   type: vless
@@ -2533,7 +2533,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_182
+- name: 🛸283vless🇺🇸US_182
   server: 162.120.94.35
   port: 8880
   type: vless
@@ -2547,7 +2547,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_183
+- name: 🛸283vless🇺🇸US_183
   server: 162.251.82.35
   port: 8880
   type: vless
@@ -2561,7 +2561,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_184
+- name: 🛸283vless🇺🇸US_184
   server: 164.38.155.35
   port: 8880
   type: vless
@@ -2575,7 +2575,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_185
+- name: 🛸283vless🇺🇸US_185
   server: 167.68.4.35
   port: 8880
   type: vless
@@ -2589,7 +2589,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_186
+- name: 🛸283vless🇺🇸US_186
   server: 167.68.5.35
   port: 8880
   type: vless
@@ -2603,7 +2603,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_187
+- name: 🛸283vless🇺🇸US_187
   server: 167.68.11.35
   port: 8880
   type: vless
@@ -2617,7 +2617,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_188
+- name: 🛸283vless🇺🇸US_188
   server: 167.68.42.35
   port: 8880
   type: vless
@@ -2631,7 +2631,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_189
+- name: 🛸283vless🇺🇸US_189
   server: 168.100.6.35
   port: 8880
   type: vless
@@ -2645,7 +2645,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_190
+- name: 🛸283vless🇺🇸US_190
   server: 170.114.45.35
   port: 8880
   type: vless
@@ -2659,7 +2659,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_191
+- name: 🛸283vless🇺🇸US_191
   server: 170.114.46.35
   port: 8880
   type: vless
@@ -2673,7 +2673,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_192
+- name: 🛸283vless🇺🇸US_192
   server: 173.245.49.35
   port: 8880
   type: vless
@@ -2687,7 +2687,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_193
+- name: 🛸283vless🇺🇸US_193
   server: 173.245.58.35
   port: 8880
   type: vless
@@ -2701,7 +2701,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_194
+- name: 🛸283vless🇺🇸US_194
   server: 173.245.59.35
   port: 8880
   type: vless
@@ -2715,7 +2715,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_195
+- name: 🛸283vless🇺🇸US_195
   server: 176.124.223.35
   port: 8880
   type: vless
@@ -2729,7 +2729,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_196
+- name: 🛸283vless🇺🇸US_196
   server: 181.214.1.35
   port: 8880
   type: vless
@@ -2743,7 +2743,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_197
+- name: 🛸283vless🇺🇸US_197
   server: 184.174.80.35
   port: 8880
   type: vless
@@ -2757,7 +2757,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_198
+- name: 🛸283vless🇺🇸US_198
   server: 185.16.110.35
   port: 8880
   type: vless
@@ -2771,7 +2771,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_199
+- name: 🛸283vless🇺🇸US_199
   server: 185.18.184.35
   port: 8880
   type: vless
@@ -2785,7 +2785,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_200
+- name: 🛸283vless🇺🇸US_200
   server: 185.18.250.35
   port: 8880
   type: vless
@@ -2799,7 +2799,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_201
+- name: 🛸283vless🇺🇸US_201
   server: 185.59.218.35
   port: 8880
   type: vless
@@ -2813,7 +2813,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_202
+- name: 🛸283vless🇺🇸US_202
   server: 185.133.35.35
   port: 8880
   type: vless
@@ -2827,7 +2827,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_203
+- name: 🛸283vless🇺🇸US_203
   server: 185.135.9.35
   port: 8880
   type: vless
@@ -2841,7 +2841,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_204
+- name: 🛸283vless🇺🇸US_204
   server: 185.148.104.35
   port: 8880
   type: vless
@@ -2855,7 +2855,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_205
+- name: 🛸283vless🇺🇸US_205
   server: 185.148.105.35
   port: 8880
   type: vless
@@ -2869,7 +2869,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_206
+- name: 🛸283vless🇺🇸US_206
   server: 185.148.106.35
   port: 8880
   type: vless
@@ -2883,7 +2883,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_207
+- name: 🛸283vless🇺🇸US_207
   server: 185.148.107.35
   port: 8880
   type: vless
@@ -2897,7 +2897,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_208
+- name: 🛸283vless🇺🇸US_208
   server: 185.159.247.35
   port: 8880
   type: vless
@@ -2911,7 +2911,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_209
+- name: 🛸283vless🇺🇸US_209
   server: 185.162.228.35
   port: 8880
   type: vless
@@ -2925,7 +2925,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_210
+- name: 🛸283vless🇺🇸US_210
   server: 185.162.229.35
   port: 8880
   type: vless
@@ -2939,7 +2939,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_211
+- name: 🛸283vless🇺🇸US_211
   server: 185.162.230.35
   port: 8880
   type: vless
@@ -2953,7 +2953,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_212
+- name: 🛸283vless🇺🇸US_212
   server: 185.162.231.35
   port: 8880
   type: vless
@@ -2967,7 +2967,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_213
+- name: 🛸283vless🇺🇸US_213
   server: 185.170.166.35
   port: 8880
   type: vless
@@ -2981,7 +2981,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_214
+- name: 🛸283vless🇺🇸US_214
   server: 185.174.138.35
   port: 8880
   type: vless
@@ -2995,7 +2995,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_215
+- name: 🛸283vless🇺🇸US_215
   server: 185.176.24.35
   port: 8880
   type: vless
@@ -3009,7 +3009,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_216
+- name: 🛸283vless🇺🇸US_216
   server: 185.176.26.35
   port: 8880
   type: vless
@@ -3023,7 +3023,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_217
+- name: 🛸283vless🇺🇸US_217
   server: 185.193.28.35
   port: 8880
   type: vless
@@ -3037,7 +3037,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_218
+- name: 🛸283vless🇺🇸US_218
   server: 185.193.29.35
   port: 8880
   type: vless
@@ -3051,7 +3051,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_219
+- name: 🛸283vless🇺🇸US_219
   server: 185.193.30.35
   port: 8880
   type: vless
@@ -3065,7 +3065,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_220
+- name: 🛸283vless🇺🇸US_220
   server: 185.193.31.35
   port: 8880
   type: vless
@@ -3079,7 +3079,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_221
+- name: 🛸283vless🇺🇸US_221
   server: 185.207.196.35
   port: 8880
   type: vless
@@ -3093,7 +3093,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_222
+- name: 🛸283vless🇺🇸US_222
   server: 185.207.197.35
   port: 8880
   type: vless
@@ -3107,7 +3107,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_223
+- name: 🛸283vless🇺🇸US_223
   server: 185.207.198.35
   port: 8880
   type: vless
@@ -3121,7 +3121,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_224
+- name: 🛸283vless🇺🇸US_224
   server: 185.207.199.35
   port: 8880
   type: vless
@@ -3135,7 +3135,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_225
+- name: 🛸283vless🇺🇸US_225
   server: 185.221.160.35
   port: 8880
   type: vless
@@ -3149,7 +3149,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_226
+- name: 🛸283vless🇺🇸US_226
   server: 185.238.228.35
   port: 8880
   type: vless
@@ -3163,7 +3163,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_227
+- name: 🛸283vless🇺🇸US_227
   server: 185.251.80.35
   port: 8880
   type: vless
@@ -3177,7 +3177,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_228
+- name: 🛸283vless🇺🇸US_228
   server: 185.251.81.35
   port: 8880
   type: vless
@@ -3191,7 +3191,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_229
+- name: 🛸283vless🇺🇸US_229
   server: 185.251.82.35
   port: 8880
   type: vless
@@ -3205,7 +3205,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_230
+- name: 🛸283vless🇺🇸US_230
   server: 185.251.83.35
   port: 8880
   type: vless
@@ -3219,7 +3219,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_231
+- name: 🛸283vless🇺🇸US_231
   server: 188.42.88.35
   port: 8880
   type: vless
@@ -3233,7 +3233,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_232
+- name: 🛸283vless🇺🇸US_232
   server: 188.42.89.35
   port: 8880
   type: vless
@@ -3247,7 +3247,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_233
+- name: 🛸283vless🇺🇸US_233
   server: 188.42.145.35
   port: 8880
   type: vless
@@ -3261,7 +3261,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_234
+- name: 🛸283vless🇺🇸US_234
   server: 188.164.158.35
   port: 8880
   type: vless
@@ -3275,7 +3275,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_235
+- name: 🛸283vless🇺🇸US_235
   server: 188.164.159.35
   port: 8880
   type: vless
@@ -3289,7 +3289,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_236
+- name: 🛸283vless🇺🇸US_236
   server: 188.164.248.35
   port: 8880
   type: vless
@@ -3303,7 +3303,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_237
+- name: 🛸283vless🇺🇸US_237
   server: 188.244.122.35
   port: 8880
   type: vless
@@ -3317,7 +3317,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_238
+- name: 🛸283vless🇺🇸US_238
   server: 190.93.244.35
   port: 8880
   type: vless
@@ -3331,7 +3331,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_239
+- name: 🛸283vless🇺🇸US_239
   server: 190.93.245.35
   port: 8880
   type: vless
@@ -3345,7 +3345,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_240
+- name: 🛸283vless🇺🇸US_240
   server: 190.93.246.35
   port: 8880
   type: vless
@@ -3359,7 +3359,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_241
+- name: 🛸283vless🇺🇸US_241
   server: 190.93.247.35
   port: 8880
   type: vless
@@ -3373,7 +3373,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_242
+- name: 🛸283vless🇺🇸US_242
   server: 192.0.54.35
   port: 8880
   type: vless
@@ -3387,7 +3387,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_243
+- name: 🛸283vless🇺🇸US_243
   server: 192.0.63.35
   port: 8880
   type: vless
@@ -3401,7 +3401,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_244
+- name: 🛸283vless🇺🇸US_244
   server: 192.65.217.35
   port: 8880
   type: vless
@@ -3415,7 +3415,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_245
+- name: 🛸283vless🇺🇸US_245
   server: 192.200.160.35
   port: 8880
   type: vless
@@ -3429,7 +3429,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_246
+- name: 🛸283vless🇺🇸US_246
   server: 193.9.49.35
   port: 8880
   type: vless
@@ -3443,7 +3443,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_247
+- name: 🛸283vless🇺🇸US_247
   server: 193.33.87.35
   port: 8880
   type: vless
@@ -3457,7 +3457,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_248
+- name: 🛸283vless🇺🇸US_248
   server: 193.124.18.35
   port: 8880
   type: vless
@@ -3471,7 +3471,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_249
+- name: 🛸283vless🇺🇸US_249
   server: 193.124.224.35
   port: 8880
   type: vless
@@ -3485,7 +3485,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_250
+- name: 🛸283vless🇺🇸US_250
   server: 193.227.99.35
   port: 8880
   type: vless
@@ -3499,7 +3499,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_251
+- name: 🛸283vless🇺🇸US_251
   server: 193.233.21.35
   port: 8880
   type: vless
@@ -3513,7 +3513,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_252
+- name: 🛸283vless🇺🇸US_252
   server: 193.233.132.35
   port: 8880
   type: vless
@@ -3527,7 +3527,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_253
+- name: 🛸283vless🇺🇸US_253
   server: 194.36.55.35
   port: 8880
   type: vless
@@ -3541,7 +3541,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_254
+- name: 🛸283vless🇺🇸US_254
   server: 194.53.53.35
   port: 8880
   type: vless
@@ -3555,7 +3555,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_255
+- name: 🛸283vless🇺🇸US_255
   server: 194.59.5.35
   port: 8880
   type: vless
@@ -3569,7 +3569,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_256
+- name: 🛸283vless🇺🇸US_256
   server: 194.76.18.35
   port: 8880
   type: vless
@@ -3583,7 +3583,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_257
+- name: 🛸283vless🇺🇸US_257
   server: 194.152.44.35
   port: 8880
   type: vless
@@ -3597,7 +3597,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_258
+- name: 🛸283vless🇺🇸US_258
   server: 195.13.44.35
   port: 8880
   type: vless
@@ -3611,7 +3611,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_259
+- name: 🛸283vless🇺🇸US_259
   server: 195.13.45.35
   port: 8880
   type: vless
@@ -3625,7 +3625,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_260
+- name: 🛸283vless🇺🇸US_260
   server: 195.13.54.35
   port: 8880
   type: vless
@@ -3639,7 +3639,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_261
+- name: 🛸283vless🇺🇸US_261
   server: 195.13.55.35
   port: 8880
   type: vless
@@ -3653,7 +3653,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_262
+- name: 🛸283vless🇺🇸US_262
   server: 195.26.229.35
   port: 8880
   type: vless
@@ -3667,7 +3667,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_263
+- name: 🛸283vless🇺🇸US_263
   server: 195.85.23.35
   port: 8880
   type: vless
@@ -3681,7 +3681,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_264
+- name: 🛸283vless🇺🇸US_264
   server: 195.85.59.35
   port: 8880
   type: vless
@@ -3695,7 +3695,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_265
+- name: 🛸283vless🇺🇸US_265
   server: 195.245.221.35
   port: 8880
   type: vless
@@ -3709,7 +3709,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_266
+- name: 🛸283vless🇺🇸US_266
   server: 198.62.62.35
   port: 8880
   type: vless
@@ -3723,7 +3723,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_267
+- name: 🛸283vless🇺🇸US_267
   server: 198.202.211.35
   port: 8880
   type: vless
@@ -3737,7 +3737,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_268
+- name: 🛸283vless🇺🇸US_268
   server: 199.34.228.35
   port: 8880
   type: vless
@@ -3751,7 +3751,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_269
+- name: 🛸283vless🇺🇸US_269
   server: 199.34.229.35
   port: 8880
   type: vless
@@ -3765,7 +3765,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_270
+- name: 🛸283vless🇺🇸US_270
   server: 199.34.230.35
   port: 8880
   type: vless
@@ -3779,7 +3779,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_271
+- name: 🛸283vless🇺🇸US_271
   server: 199.181.197.35
   port: 8880
   type: vless
@@ -3793,7 +3793,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_272
+- name: 🛸283vless🇺🇸US_272
   server: 204.93.210.35
   port: 8880
   type: vless
@@ -3807,7 +3807,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_273
+- name: 🛸283vless🇺🇸US_273
   server: 205.233.181.35
   port: 8880
   type: vless
@@ -3821,7 +3821,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_274
+- name: 🛸283vless🇺🇸US_274
   server: 209.46.30.35
   port: 8880
   type: vless
@@ -3835,7 +3835,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_275
+- name: 🛸283vless🇺🇸US_275
   server: 209.94.90.35
   port: 8880
   type: vless
@@ -3849,7 +3849,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_276
+- name: 🛸283vless🇺🇸US_276
   server: 212.183.88.35
   port: 8880
   type: vless
@@ -3863,7 +3863,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_277
+- name: 🛸283vless🇺🇸US_277
   server: 213.109.205.35
   port: 8880
   type: vless
@@ -3877,7 +3877,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_278
+- name: 🛸283vless🇺🇸US_278
   server: 213.182.199.35
   port: 8880
   type: vless
@@ -3891,7 +3891,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_279
+- name: 🛸283vless🇺🇸US_279
   server: 213.219.247.35
   port: 8880
   type: vless
@@ -3905,7 +3905,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_280
+- name: 🛸283vless🇺🇸US_280
   server: 213.241.198.35
   port: 8880
   type: vless
@@ -3919,7 +3919,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_281
+- name: 🛸283vless🇺🇸US_281
   server: 216.24.57.35
   port: 8880
   type: vless
@@ -3933,7 +3933,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_282
+- name: 🛸283vless🇺🇸US_282
   server: 216.116.134.35
   port: 8880
   type: vless
@@ -3947,7 +3947,7 @@ proxies:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
       Host: free.cfdns.online
-- name: 🙎🏾‍♀️283vless🇺🇸US_283
+- name: 🛸283vless🇺🇸US_283
   server: 216.205.52.35
   port: 8880
   type: vless
