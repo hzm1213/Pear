@@ -1,1786 +1,3697 @@
 proxies:
-- name: 🤾🏽‍♀️119vless🇺🇸US_001
-  server: 162.159.0.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_002
-  server: 162.159.1.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_003
-  server: 162.159.2.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_004
-  server: 162.159.3.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_005
-  server: 162.159.4.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_006
-  server: 162.159.5.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_007
-  server: 162.159.6.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_008
-  server: 162.159.7.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_009
-  server: 162.159.8.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_010
-  server: 162.159.9.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_011
-  server: 162.159.10.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_012
-  server: 162.159.11.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_013
-  server: 162.159.12.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_014
-  server: 162.159.13.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_015
-  server: 162.159.14.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_016
-  server: 162.159.15.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_017
-  server: 162.159.16.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_018
-  server: 162.159.17.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_019
-  server: 162.159.18.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_020
-  server: 162.159.19.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_021
-  server: 162.159.20.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_022
-  server: 162.159.21.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_023
-  server: 162.159.22.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_024
-  server: 162.159.23.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_025
-  server: 162.159.24.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_026
-  server: 162.159.25.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_027
-  server: 162.159.26.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_028
-  server: 162.159.27.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_029
-  server: 162.159.32.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_030
-  server: 162.159.33.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_031
-  server: 162.159.34.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_032
-  server: 162.159.35.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_033
-  server: 162.159.36.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_034
-  server: 162.159.38.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_035
-  server: 162.159.39.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_036
-  server: 162.159.40.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_037
-  server: 162.159.41.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_038
-  server: 162.159.42.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_039
-  server: 162.159.43.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_040
-  server: 162.159.44.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_041
-  server: 162.159.45.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_042
-  server: 162.159.46.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_043
-  server: 162.159.48.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_044
-  server: 162.159.49.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_045
-  server: 162.159.50.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_046
-  server: 162.159.51.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_047
-  server: 162.159.56.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_048
-  server: 162.159.57.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_049
-  server: 162.159.58.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_050
-  server: 162.159.60.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_051
-  server: 162.159.61.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_052
-  server: 162.159.62.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_053
-  server: 162.159.128.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_054
-  server: 162.159.129.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_055
-  server: 162.159.130.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_056
-  server: 162.159.133.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_057
-  server: 162.159.134.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_058
-  server: 162.159.135.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_059
-  server: 162.159.136.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_060
-  server: 162.159.137.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_061
-  server: 162.159.138.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_062
-  server: 162.159.140.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_063
-  server: 162.159.141.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_064
-  server: 162.159.142.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_065
-  server: 162.159.143.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_066
-  server: 162.159.152.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_067
-  server: 162.159.153.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_068
-  server: 162.159.160.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_069
-  server: 162.159.194.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_070
-  server: 162.159.196.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_071
-  server: 162.159.206.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_072
-  server: 162.159.207.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_073
-  server: 162.159.212.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_074
-  server: 162.159.213.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_075
-  server: 162.159.236.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_076
-  server: 162.159.237.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_077
-  server: 162.159.240.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_078
-  server: 162.159.241.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_079
-  server: 162.159.242.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_080
-  server: 162.159.243.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_081
-  server: 162.159.244.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_082
-  server: 162.159.245.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_083
-  server: 162.159.246.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_084
-  server: 162.159.247.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_085
-  server: 162.159.248.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_086
-  server: 162.159.249.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_087
-  server: 162.159.250.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_088
-  server: 162.159.251.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_089
-  server: 162.159.252.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_090
-  server: 162.159.253.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_091
-  server: 162.159.254.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_092
-  server: 162.159.255.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_093
-  server: 198.41.192.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_094
-  server: 198.41.193.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_095
-  server: 198.41.194.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_096
-  server: 198.41.195.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_097
-  server: 198.41.196.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_098
-  server: 198.41.197.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_099
-  server: 198.41.198.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_100
-  server: 198.41.199.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_101
-  server: 198.41.200.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_102
-  server: 198.41.201.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_103
-  server: 198.41.202.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_104
-  server: 198.41.203.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_105
-  server: 198.41.204.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_106
-  server: 198.41.205.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_107
-  server: 198.41.206.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_108
-  server: 198.41.207.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_109
-  server: 198.41.208.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_110
-  server: 198.41.209.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_111
-  server: 198.41.211.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_112
-  server: 198.41.214.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_113
-  server: 198.41.215.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_114
-  server: 198.41.216.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_115
-  server: 198.41.217.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_116
-  server: 198.41.218.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_117
-  server: 198.41.219.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_118
-  server: 198.41.222.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
-- name: 🤾🏽‍♀️119vless🇺🇸US_119
-  server: 198.41.223.207
-  port: 8880
-  client-fingerprint: chrome
-  type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  tls: false
-  tfo: false
-  servername: Telegram-channel-WangCai2
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-    headers:
-      Host: kjgx.laoyoutiao.link
+- name: 🖕🏾308ss🇯🇵JP_001
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_002
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_003
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_004
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_005
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_006
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_007
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_008
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_009
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_010
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_011
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_012
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_013
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_014
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_015
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_016
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_017
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_018
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_019
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_020
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_021
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_022
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_023
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_024
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_025
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_026
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_027
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_028
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)875a101:110453
+- name: 🖕🏾308ss🇯🇵JP_029
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_030
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_031
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_032
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_033
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_034
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_035
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_036
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_037
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_038
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_039
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_040
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_041
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_042
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_043
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_044
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_045
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_046
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_047
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_048
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_049
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_050
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_051
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_052
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_053
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_054
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_055
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_056
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)a6df15f:137873
+- name: 🖕🏾308ss🇯🇵JP_057
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_058
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_059
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_060
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_061
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_062
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_063
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_064
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_065
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_066
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_067
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_068
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_069
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_070
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_071
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_072
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_073
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_074
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_075
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_076
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_077
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_078
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_079
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_080
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_081
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_082
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_083
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_084
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)9f6b1e7:141612
+- name: 🖕🏾308ss🇯🇵JP_085
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_086
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_087
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_088
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_089
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_090
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_091
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_092
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_093
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_094
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_095
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_096
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_097
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_098
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_099
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_100
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_101
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_102
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_103
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_104
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_105
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_106
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_107
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_108
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_109
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_110
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_111
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_112
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)407738b:154938
+- name: 🖕🏾308ss🇯🇵JP_113
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_114
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_115
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_116
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_117
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_118
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_119
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_120
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_121
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_122
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_123
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_124
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_125
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_126
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_127
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_128
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_129
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_130
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_131
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_132
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_133
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_134
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_135
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_136
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_137
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_138
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_139
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_140
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)5dfbdfc:154942
+- name: 🖕🏾308ss🇯🇵JP_141
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_142
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_143
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_144
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_145
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_146
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_147
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_148
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_149
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_150
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_151
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_152
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_153
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_154
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_155
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_156
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_157
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_158
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_159
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_160
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_161
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_162
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_163
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_164
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_165
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_166
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_167
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_168
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)53b5157:154944
+- name: 🖕🏾308ss🇯🇵JP_169
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_170
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_171
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_172
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_173
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_174
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_175
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_176
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_177
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_178
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_179
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_180
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_181
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_182
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_183
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_184
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_185
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_186
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_187
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_188
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_189
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_190
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_191
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_192
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_193
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_194
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_195
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_196
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)4aa81ac:154946
+- name: 🖕🏾308ss🇯🇵JP_197
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_198
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_199
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_200
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_201
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_202
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_203
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_204
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_205
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_206
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_207
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_208
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_209
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_210
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_211
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_212
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_213
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_214
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_215
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_216
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_217
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_218
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_219
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_220
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_221
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_222
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_223
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_224
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)feb7fa9:154948
+- name: 🖕🏾308ss🇯🇵JP_225
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_226
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_227
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_228
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_229
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_230
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_231
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_232
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_233
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_234
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_235
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_236
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_237
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_238
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_239
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_240
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_241
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_242
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_243
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_244
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_245
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_246
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_247
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_248
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_249
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_250
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_251
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_252
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)16a89ef:154955
+- name: 🖕🏾308ss🇯🇵JP_253
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_254
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_255
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_256
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_257
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_258
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_259
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_260
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_261
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_262
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_263
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_264
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_265
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_266
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_267
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_268
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_269
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_270
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_271
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_272
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_273
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_274
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_275
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_276
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_277
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_278
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_279
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_280
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)10805ea:185672
+- name: 🖕🏾308ss🇯🇵JP_281
+  server: 13.115.154.194
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_282
+  server: 35.74.22.138
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_283
+  server: 172.237.6.53
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_284
+  server: 52.195.160.228
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_285
+  server: 172.237.11.141
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_286
+  server: 172.237.11.224
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_287
+  server: 172.237.11.230
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_288
+  server: 18.177.142.32
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_289
+  server: 18.179.16.135
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_290
+  server: 18.179.37.79
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_291
+  server: 18.179.58.237
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_292
+  server: 52.199.164.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_293
+  server: 52.199.249.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_294
+  server: 54.178.26.105
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_295
+  server: 54.249.220.208
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_296
+  server: 54.250.34.221
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_297
+  server: 54.95.215.125
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_298
+  server: 13.114.31.41
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_299
+  server: 13.231.106.60
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_300
+  server: 18.183.87.73
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_301
+  server: 54.178.71.192
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_302
+  server: 13.230.213.154
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_303
+  server: 18.181.146.122
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_304
+  server: 35.72.184.29
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_305
+  server: 43.207.207.206
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_306
+  server: 54.64.148.82
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_307
+  server: 54.249.79.143
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
+- name: 🖕🏾308ss🇯🇵JP_308
+  server: 18.179.197.162
+  port: 2377
+  client-fingerprint: chrome
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  tfo: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: (TG @WangCai2)db5fe62:193531
