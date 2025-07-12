@@ -1,5 +1,5 @@
 proxies:
-- name: 😵328ss🇻🇳VN_001
+- name: ⚕️328ss🇻🇳VN_001
   server: 103.186.154.4
   port: 38388
   client-fingerprint: chrome
@@ -7,7 +7,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_002
+- name: ⚕️328ss🇻🇳VN_002
   server: 103.186.154.9
   port: 38388
   client-fingerprint: chrome
@@ -15,7 +15,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_003
+- name: ⚕️328ss🇻🇳VN_003
   server: 103.186.154.11
   port: 38388
   client-fingerprint: chrome
@@ -23,7 +23,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_004
+- name: ⚕️328ss🇻🇳VN_004
   server: 103.186.154.12
   port: 38388
   client-fingerprint: chrome
@@ -31,7 +31,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_005
+- name: ⚕️328ss🇻🇳VN_005
   server: 103.186.154.13
   port: 38388
   client-fingerprint: chrome
@@ -39,7 +39,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_006
+- name: ⚕️328ss🇻🇳VN_006
   server: 103.186.154.14
   port: 38388
   client-fingerprint: chrome
@@ -47,7 +47,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_007
+- name: ⚕️328ss🇻🇳VN_007
   server: 103.186.154.15
   port: 38388
   client-fingerprint: chrome
@@ -55,7 +55,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_008
+- name: ⚕️328ss🇻🇳VN_008
   server: 103.186.154.16
   port: 38388
   client-fingerprint: chrome
@@ -63,7 +63,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_009
+- name: ⚕️328ss🇻🇳VN_009
   server: 103.186.154.17
   port: 38388
   client-fingerprint: chrome
@@ -71,7 +71,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_010
+- name: ⚕️328ss🇻🇳VN_010
   server: 103.186.154.20
   port: 38388
   client-fingerprint: chrome
@@ -79,7 +79,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_011
+- name: ⚕️328ss🇻🇳VN_011
   server: 103.186.154.21
   port: 38388
   client-fingerprint: chrome
@@ -87,7 +87,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_012
+- name: ⚕️328ss🇻🇳VN_012
   server: 103.186.154.27
   port: 38388
   client-fingerprint: chrome
@@ -95,7 +95,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_013
+- name: ⚕️328ss🇻🇳VN_013
   server: 103.186.154.29
   port: 38388
   client-fingerprint: chrome
@@ -103,7 +103,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_014
+- name: ⚕️328ss🇻🇳VN_014
   server: 103.186.154.34
   port: 38388
   client-fingerprint: chrome
@@ -111,7 +111,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_015
+- name: ⚕️328ss🇻🇳VN_015
   server: 103.186.154.35
   port: 38388
   client-fingerprint: chrome
@@ -119,7 +119,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_016
+- name: ⚕️328ss🇻🇳VN_016
   server: 103.186.154.37
   port: 38388
   client-fingerprint: chrome
@@ -127,7 +127,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_017
+- name: ⚕️328ss🇻🇳VN_017
   server: 103.186.154.39
   port: 38388
   client-fingerprint: chrome
@@ -135,7 +135,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_018
+- name: ⚕️328ss🇻🇳VN_018
   server: 103.186.154.40
   port: 38388
   client-fingerprint: chrome
@@ -143,7 +143,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_019
+- name: ⚕️328ss🇻🇳VN_019
   server: 103.186.154.41
   port: 38388
   client-fingerprint: chrome
@@ -151,7 +151,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_020
+- name: ⚕️328ss🇻🇳VN_020
   server: 103.186.154.42
   port: 38388
   client-fingerprint: chrome
@@ -159,7 +159,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_021
+- name: ⚕️328ss🇻🇳VN_021
   server: 103.186.154.43
   port: 38388
   client-fingerprint: chrome
@@ -167,7 +167,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_022
+- name: ⚕️328ss🇻🇳VN_022
   server: 103.186.154.44
   port: 38388
   client-fingerprint: chrome
@@ -175,7 +175,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_023
+- name: ⚕️328ss🇻🇳VN_023
   server: 103.186.154.45
   port: 38388
   client-fingerprint: chrome
@@ -183,7 +183,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_024
+- name: ⚕️328ss🇻🇳VN_024
   server: 103.186.154.46
   port: 38388
   client-fingerprint: chrome
@@ -191,7 +191,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_025
+- name: ⚕️328ss🇻🇳VN_025
   server: 103.186.154.47
   port: 38388
   client-fingerprint: chrome
@@ -199,7 +199,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_026
+- name: ⚕️328ss🇻🇳VN_026
   server: 103.186.154.48
   port: 38388
   client-fingerprint: chrome
@@ -207,7 +207,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_027
+- name: ⚕️328ss🇻🇳VN_027
   server: 103.186.154.49
   port: 38388
   client-fingerprint: chrome
@@ -215,7 +215,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_028
+- name: ⚕️328ss🇻🇳VN_028
   server: 103.186.154.50
   port: 38388
   client-fingerprint: chrome
@@ -223,7 +223,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_029
+- name: ⚕️328ss🇻🇳VN_029
   server: 103.186.154.51
   port: 38388
   client-fingerprint: chrome
@@ -231,7 +231,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_030
+- name: ⚕️328ss🇻🇳VN_030
   server: 103.186.154.52
   port: 38388
   client-fingerprint: chrome
@@ -239,7 +239,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_031
+- name: ⚕️328ss🇻🇳VN_031
   server: 103.186.154.53
   port: 38388
   client-fingerprint: chrome
@@ -247,7 +247,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_032
+- name: ⚕️328ss🇻🇳VN_032
   server: 103.186.154.54
   port: 38388
   client-fingerprint: chrome
@@ -255,7 +255,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_033
+- name: ⚕️328ss🇻🇳VN_033
   server: 103.186.154.55
   port: 38388
   client-fingerprint: chrome
@@ -263,7 +263,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_034
+- name: ⚕️328ss🇻🇳VN_034
   server: 103.186.154.56
   port: 38388
   client-fingerprint: chrome
@@ -271,7 +271,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_035
+- name: ⚕️328ss🇻🇳VN_035
   server: 103.186.154.57
   port: 38388
   client-fingerprint: chrome
@@ -279,7 +279,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_036
+- name: ⚕️328ss🇻🇳VN_036
   server: 103.186.154.58
   port: 38388
   client-fingerprint: chrome
@@ -287,7 +287,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_037
+- name: ⚕️328ss🇻🇳VN_037
   server: 103.186.154.59
   port: 38388
   client-fingerprint: chrome
@@ -295,7 +295,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_038
+- name: ⚕️328ss🇻🇳VN_038
   server: 103.186.154.60
   port: 38388
   client-fingerprint: chrome
@@ -303,7 +303,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_039
+- name: ⚕️328ss🇻🇳VN_039
   server: 103.186.154.61
   port: 38388
   client-fingerprint: chrome
@@ -311,7 +311,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_040
+- name: ⚕️328ss🇻🇳VN_040
   server: 103.186.154.62
   port: 38388
   client-fingerprint: chrome
@@ -319,7 +319,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_041
+- name: ⚕️328ss🇻🇳VN_041
   server: 103.186.154.63
   port: 38388
   client-fingerprint: chrome
@@ -327,7 +327,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_042
+- name: ⚕️328ss🇻🇳VN_042
   server: 103.186.154.64
   port: 38388
   client-fingerprint: chrome
@@ -335,7 +335,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_043
+- name: ⚕️328ss🇻🇳VN_043
   server: 103.186.154.65
   port: 38388
   client-fingerprint: chrome
@@ -343,7 +343,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_044
+- name: ⚕️328ss🇻🇳VN_044
   server: 103.186.154.66
   port: 38388
   client-fingerprint: chrome
@@ -351,7 +351,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_045
+- name: ⚕️328ss🇻🇳VN_045
   server: 103.186.154.67
   port: 38388
   client-fingerprint: chrome
@@ -359,7 +359,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_046
+- name: ⚕️328ss🇻🇳VN_046
   server: 103.186.154.68
   port: 38388
   client-fingerprint: chrome
@@ -367,7 +367,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_047
+- name: ⚕️328ss🇻🇳VN_047
   server: 103.186.154.69
   port: 38388
   client-fingerprint: chrome
@@ -375,7 +375,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_048
+- name: ⚕️328ss🇻🇳VN_048
   server: 103.186.154.70
   port: 38388
   client-fingerprint: chrome
@@ -383,7 +383,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_049
+- name: ⚕️328ss🇻🇳VN_049
   server: 103.186.154.71
   port: 38388
   client-fingerprint: chrome
@@ -391,7 +391,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_050
+- name: ⚕️328ss🇻🇳VN_050
   server: 103.186.154.72
   port: 38388
   client-fingerprint: chrome
@@ -399,7 +399,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_051
+- name: ⚕️328ss🇻🇳VN_051
   server: 103.186.154.73
   port: 38388
   client-fingerprint: chrome
@@ -407,7 +407,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_052
+- name: ⚕️328ss🇻🇳VN_052
   server: 103.186.154.74
   port: 38388
   client-fingerprint: chrome
@@ -415,7 +415,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_053
+- name: ⚕️328ss🇻🇳VN_053
   server: 103.186.154.75
   port: 38388
   client-fingerprint: chrome
@@ -423,7 +423,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_054
+- name: ⚕️328ss🇻🇳VN_054
   server: 103.186.154.76
   port: 38388
   client-fingerprint: chrome
@@ -431,7 +431,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_055
+- name: ⚕️328ss🇻🇳VN_055
   server: 103.186.154.77
   port: 38388
   client-fingerprint: chrome
@@ -439,7 +439,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_056
+- name: ⚕️328ss🇻🇳VN_056
   server: 103.186.154.78
   port: 38388
   client-fingerprint: chrome
@@ -447,7 +447,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_057
+- name: ⚕️328ss🇻🇳VN_057
   server: 103.186.154.79
   port: 38388
   client-fingerprint: chrome
@@ -455,7 +455,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_058
+- name: ⚕️328ss🇻🇳VN_058
   server: 103.186.154.80
   port: 38388
   client-fingerprint: chrome
@@ -463,7 +463,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_059
+- name: ⚕️328ss🇻🇳VN_059
   server: 103.186.154.139
   port: 38388
   client-fingerprint: chrome
@@ -471,7 +471,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_060
+- name: ⚕️328ss🇻🇳VN_060
   server: 103.186.154.140
   port: 38388
   client-fingerprint: chrome
@@ -479,7 +479,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_061
+- name: ⚕️328ss🇻🇳VN_061
   server: 103.186.154.141
   port: 38388
   client-fingerprint: chrome
@@ -487,7 +487,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_062
+- name: ⚕️328ss🇻🇳VN_062
   server: 103.186.154.142
   port: 38388
   client-fingerprint: chrome
@@ -495,7 +495,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_063
+- name: ⚕️328ss🇻🇳VN_063
   server: 103.186.154.143
   port: 38388
   client-fingerprint: chrome
@@ -503,7 +503,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_064
+- name: ⚕️328ss🇻🇳VN_064
   server: 103.186.154.144
   port: 38388
   client-fingerprint: chrome
@@ -511,7 +511,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_065
+- name: ⚕️328ss🇻🇳VN_065
   server: 103.186.154.145
   port: 38388
   client-fingerprint: chrome
@@ -519,7 +519,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_066
+- name: ⚕️328ss🇻🇳VN_066
   server: 103.186.154.146
   port: 38388
   client-fingerprint: chrome
@@ -527,7 +527,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_067
+- name: ⚕️328ss🇻🇳VN_067
   server: 103.186.154.147
   port: 38388
   client-fingerprint: chrome
@@ -535,7 +535,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_068
+- name: ⚕️328ss🇻🇳VN_068
   server: 103.186.154.148
   port: 38388
   client-fingerprint: chrome
@@ -543,7 +543,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_069
+- name: ⚕️328ss🇻🇳VN_069
   server: 103.186.154.149
   port: 38388
   client-fingerprint: chrome
@@ -551,7 +551,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_070
+- name: ⚕️328ss🇻🇳VN_070
   server: 103.186.154.150
   port: 38388
   client-fingerprint: chrome
@@ -559,7 +559,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_071
+- name: ⚕️328ss🇻🇳VN_071
   server: 103.186.154.151
   port: 38388
   client-fingerprint: chrome
@@ -567,7 +567,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_072
+- name: ⚕️328ss🇻🇳VN_072
   server: 103.186.154.152
   port: 38388
   client-fingerprint: chrome
@@ -575,7 +575,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_073
+- name: ⚕️328ss🇻🇳VN_073
   server: 103.186.154.153
   port: 38388
   client-fingerprint: chrome
@@ -583,7 +583,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_074
+- name: ⚕️328ss🇻🇳VN_074
   server: 103.186.154.154
   port: 38388
   client-fingerprint: chrome
@@ -591,7 +591,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_075
+- name: ⚕️328ss🇻🇳VN_075
   server: 103.186.154.155
   port: 38388
   client-fingerprint: chrome
@@ -599,7 +599,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_076
+- name: ⚕️328ss🇻🇳VN_076
   server: 103.186.154.156
   port: 38388
   client-fingerprint: chrome
@@ -607,7 +607,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_077
+- name: ⚕️328ss🇻🇳VN_077
   server: 103.186.154.157
   port: 38388
   client-fingerprint: chrome
@@ -615,7 +615,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_078
+- name: ⚕️328ss🇻🇳VN_078
   server: 103.186.154.158
   port: 38388
   client-fingerprint: chrome
@@ -623,7 +623,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_079
+- name: ⚕️328ss🇻🇳VN_079
   server: 103.186.154.159
   port: 38388
   client-fingerprint: chrome
@@ -631,7 +631,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_080
+- name: ⚕️328ss🇻🇳VN_080
   server: 103.186.154.160
   port: 38388
   client-fingerprint: chrome
@@ -639,7 +639,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_081
+- name: ⚕️328ss🇻🇳VN_081
   server: 103.186.154.161
   port: 38388
   client-fingerprint: chrome
@@ -647,7 +647,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_082
+- name: ⚕️328ss🇻🇳VN_082
   server: 103.186.154.162
   port: 38388
   client-fingerprint: chrome
@@ -655,7 +655,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_083
+- name: ⚕️328ss🇻🇳VN_083
   server: 103.186.154.163
   port: 38388
   client-fingerprint: chrome
@@ -663,7 +663,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_084
+- name: ⚕️328ss🇻🇳VN_084
   server: 103.186.154.164
   port: 38388
   client-fingerprint: chrome
@@ -671,7 +671,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_085
+- name: ⚕️328ss🇻🇳VN_085
   server: 103.186.154.165
   port: 38388
   client-fingerprint: chrome
@@ -679,7 +679,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_086
+- name: ⚕️328ss🇻🇳VN_086
   server: 103.186.154.166
   port: 38388
   client-fingerprint: chrome
@@ -687,7 +687,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_087
+- name: ⚕️328ss🇻🇳VN_087
   server: 103.186.154.167
   port: 38388
   client-fingerprint: chrome
@@ -695,7 +695,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_088
+- name: ⚕️328ss🇻🇳VN_088
   server: 103.186.154.168
   port: 38388
   client-fingerprint: chrome
@@ -703,7 +703,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_089
+- name: ⚕️328ss🇻🇳VN_089
   server: 103.186.154.169
   port: 38388
   client-fingerprint: chrome
@@ -711,7 +711,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_090
+- name: ⚕️328ss🇻🇳VN_090
   server: 103.186.154.170
   port: 38388
   client-fingerprint: chrome
@@ -719,7 +719,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_091
+- name: ⚕️328ss🇻🇳VN_091
   server: 103.186.154.172
   port: 38388
   client-fingerprint: chrome
@@ -727,7 +727,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_092
+- name: ⚕️328ss🇻🇳VN_092
   server: 103.186.154.173
   port: 38388
   client-fingerprint: chrome
@@ -735,7 +735,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_093
+- name: ⚕️328ss🇻🇳VN_093
   server: 103.186.154.174
   port: 38388
   client-fingerprint: chrome
@@ -743,7 +743,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_094
+- name: ⚕️328ss🇻🇳VN_094
   server: 103.186.154.175
   port: 38388
   client-fingerprint: chrome
@@ -751,7 +751,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_095
+- name: ⚕️328ss🇻🇳VN_095
   server: 103.186.154.176
   port: 38388
   client-fingerprint: chrome
@@ -759,7 +759,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_096
+- name: ⚕️328ss🇻🇳VN_096
   server: 103.186.154.177
   port: 38388
   client-fingerprint: chrome
@@ -767,7 +767,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_097
+- name: ⚕️328ss🇻🇳VN_097
   server: 103.186.154.178
   port: 38388
   client-fingerprint: chrome
@@ -775,7 +775,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_098
+- name: ⚕️328ss🇻🇳VN_098
   server: 103.186.154.179
   port: 38388
   client-fingerprint: chrome
@@ -783,7 +783,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_099
+- name: ⚕️328ss🇻🇳VN_099
   server: 103.186.154.180
   port: 38388
   client-fingerprint: chrome
@@ -791,7 +791,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_100
+- name: ⚕️328ss🇻🇳VN_100
   server: 103.186.154.181
   port: 38388
   client-fingerprint: chrome
@@ -799,7 +799,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_101
+- name: ⚕️328ss🇻🇳VN_101
   server: 103.186.154.182
   port: 38388
   client-fingerprint: chrome
@@ -807,7 +807,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_102
+- name: ⚕️328ss🇻🇳VN_102
   server: 103.186.154.183
   port: 38388
   client-fingerprint: chrome
@@ -815,7 +815,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_103
+- name: ⚕️328ss🇻🇳VN_103
   server: 103.186.154.184
   port: 38388
   client-fingerprint: chrome
@@ -823,7 +823,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_104
+- name: ⚕️328ss🇻🇳VN_104
   server: 103.186.154.185
   port: 38388
   client-fingerprint: chrome
@@ -831,7 +831,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_105
+- name: ⚕️328ss🇻🇳VN_105
   server: 103.186.154.186
   port: 38388
   client-fingerprint: chrome
@@ -839,7 +839,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_106
+- name: ⚕️328ss🇻🇳VN_106
   server: 103.186.154.187
   port: 38388
   client-fingerprint: chrome
@@ -847,7 +847,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_107
+- name: ⚕️328ss🇻🇳VN_107
   server: 103.186.154.188
   port: 38388
   client-fingerprint: chrome
@@ -855,7 +855,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_108
+- name: ⚕️328ss🇻🇳VN_108
   server: 103.186.154.189
   port: 38388
   client-fingerprint: chrome
@@ -863,7 +863,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_109
+- name: ⚕️328ss🇻🇳VN_109
   server: 103.186.154.190
   port: 38388
   client-fingerprint: chrome
@@ -871,7 +871,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_110
+- name: ⚕️328ss🇻🇳VN_110
   server: 103.186.154.191
   port: 38388
   client-fingerprint: chrome
@@ -879,7 +879,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_111
+- name: ⚕️328ss🇻🇳VN_111
   server: 103.186.154.192
   port: 38388
   client-fingerprint: chrome
@@ -887,7 +887,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_112
+- name: ⚕️328ss🇻🇳VN_112
   server: 103.186.154.193
   port: 38388
   client-fingerprint: chrome
@@ -895,7 +895,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_113
+- name: ⚕️328ss🇻🇳VN_113
   server: 103.186.154.194
   port: 38388
   client-fingerprint: chrome
@@ -903,7 +903,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_114
+- name: ⚕️328ss🇻🇳VN_114
   server: 103.186.154.195
   port: 38388
   client-fingerprint: chrome
@@ -911,7 +911,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_115
+- name: ⚕️328ss🇻🇳VN_115
   server: 103.186.154.196
   port: 38388
   client-fingerprint: chrome
@@ -919,7 +919,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_116
+- name: ⚕️328ss🇻🇳VN_116
   server: 103.186.154.197
   port: 38388
   client-fingerprint: chrome
@@ -927,7 +927,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_117
+- name: ⚕️328ss🇻🇳VN_117
   server: 103.186.154.198
   port: 38388
   client-fingerprint: chrome
@@ -935,7 +935,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_118
+- name: ⚕️328ss🇻🇳VN_118
   server: 103.186.154.199
   port: 38388
   client-fingerprint: chrome
@@ -943,7 +943,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_119
+- name: ⚕️328ss🇻🇳VN_119
   server: 103.186.154.200
   port: 38388
   client-fingerprint: chrome
@@ -951,7 +951,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_120
+- name: ⚕️328ss🇻🇳VN_120
   server: 103.186.154.201
   port: 38388
   client-fingerprint: chrome
@@ -959,7 +959,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_121
+- name: ⚕️328ss🇻🇳VN_121
   server: 103.186.154.202
   port: 38388
   client-fingerprint: chrome
@@ -967,7 +967,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_122
+- name: ⚕️328ss🇻🇳VN_122
   server: 103.186.154.203
   port: 38388
   client-fingerprint: chrome
@@ -975,7 +975,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_123
+- name: ⚕️328ss🇻🇳VN_123
   server: 103.186.154.204
   port: 38388
   client-fingerprint: chrome
@@ -983,7 +983,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_124
+- name: ⚕️328ss🇻🇳VN_124
   server: 103.186.154.205
   port: 38388
   client-fingerprint: chrome
@@ -991,7 +991,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_125
+- name: ⚕️328ss🇻🇳VN_125
   server: 103.186.154.206
   port: 38388
   client-fingerprint: chrome
@@ -999,7 +999,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_126
+- name: ⚕️328ss🇻🇳VN_126
   server: 103.186.154.207
   port: 38388
   client-fingerprint: chrome
@@ -1007,7 +1007,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_127
+- name: ⚕️328ss🇻🇳VN_127
   server: 103.186.154.208
   port: 38388
   client-fingerprint: chrome
@@ -1015,7 +1015,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_128
+- name: ⚕️328ss🇻🇳VN_128
   server: 103.186.154.209
   port: 38388
   client-fingerprint: chrome
@@ -1023,7 +1023,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_129
+- name: ⚕️328ss🇻🇳VN_129
   server: 103.186.154.210
   port: 38388
   client-fingerprint: chrome
@@ -1031,7 +1031,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_130
+- name: ⚕️328ss🇻🇳VN_130
   server: 103.186.154.211
   port: 38388
   client-fingerprint: chrome
@@ -1039,7 +1039,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_131
+- name: ⚕️328ss🇻🇳VN_131
   server: 103.186.154.212
   port: 38388
   client-fingerprint: chrome
@@ -1047,7 +1047,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_132
+- name: ⚕️328ss🇻🇳VN_132
   server: 103.186.154.213
   port: 38388
   client-fingerprint: chrome
@@ -1055,7 +1055,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_133
+- name: ⚕️328ss🇻🇳VN_133
   server: 103.186.154.214
   port: 38388
   client-fingerprint: chrome
@@ -1063,7 +1063,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_134
+- name: ⚕️328ss🇻🇳VN_134
   server: 103.186.154.215
   port: 38388
   client-fingerprint: chrome
@@ -1071,7 +1071,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_135
+- name: ⚕️328ss🇻🇳VN_135
   server: 103.186.154.216
   port: 38388
   client-fingerprint: chrome
@@ -1079,7 +1079,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_136
+- name: ⚕️328ss🇻🇳VN_136
   server: 103.186.154.217
   port: 38388
   client-fingerprint: chrome
@@ -1087,7 +1087,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_137
+- name: ⚕️328ss🇻🇳VN_137
   server: 103.186.154.218
   port: 38388
   client-fingerprint: chrome
@@ -1095,7 +1095,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_138
+- name: ⚕️328ss🇻🇳VN_138
   server: 103.186.154.219
   port: 38388
   client-fingerprint: chrome
@@ -1103,7 +1103,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_139
+- name: ⚕️328ss🇻🇳VN_139
   server: 103.186.154.220
   port: 38388
   client-fingerprint: chrome
@@ -1111,7 +1111,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_140
+- name: ⚕️328ss🇻🇳VN_140
   server: 103.186.154.221
   port: 38388
   client-fingerprint: chrome
@@ -1119,7 +1119,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_141
+- name: ⚕️328ss🇻🇳VN_141
   server: 103.186.154.222
   port: 38388
   client-fingerprint: chrome
@@ -1127,7 +1127,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_142
+- name: ⚕️328ss🇻🇳VN_142
   server: 103.186.154.223
   port: 38388
   client-fingerprint: chrome
@@ -1135,7 +1135,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_143
+- name: ⚕️328ss🇻🇳VN_143
   server: 103.186.154.224
   port: 38388
   client-fingerprint: chrome
@@ -1143,7 +1143,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_144
+- name: ⚕️328ss🇻🇳VN_144
   server: 103.186.154.225
   port: 38388
   client-fingerprint: chrome
@@ -1151,7 +1151,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_145
+- name: ⚕️328ss🇻🇳VN_145
   server: 103.186.154.226
   port: 38388
   client-fingerprint: chrome
@@ -1159,7 +1159,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_146
+- name: ⚕️328ss🇻🇳VN_146
   server: 103.186.154.227
   port: 38388
   client-fingerprint: chrome
@@ -1167,7 +1167,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_147
+- name: ⚕️328ss🇻🇳VN_147
   server: 103.186.154.228
   port: 38388
   client-fingerprint: chrome
@@ -1175,7 +1175,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_148
+- name: ⚕️328ss🇻🇳VN_148
   server: 103.186.154.229
   port: 38388
   client-fingerprint: chrome
@@ -1183,7 +1183,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_149
+- name: ⚕️328ss🇻🇳VN_149
   server: 103.186.154.230
   port: 38388
   client-fingerprint: chrome
@@ -1191,7 +1191,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_150
+- name: ⚕️328ss🇻🇳VN_150
   server: 103.186.154.231
   port: 38388
   client-fingerprint: chrome
@@ -1199,7 +1199,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_151
+- name: ⚕️328ss🇻🇳VN_151
   server: 103.186.154.232
   port: 38388
   client-fingerprint: chrome
@@ -1207,7 +1207,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_152
+- name: ⚕️328ss🇻🇳VN_152
   server: 103.186.154.233
   port: 38388
   client-fingerprint: chrome
@@ -1215,7 +1215,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_153
+- name: ⚕️328ss🇻🇳VN_153
   server: 103.186.154.234
   port: 38388
   client-fingerprint: chrome
@@ -1223,7 +1223,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_154
+- name: ⚕️328ss🇻🇳VN_154
   server: 103.186.154.235
   port: 38388
   client-fingerprint: chrome
@@ -1231,7 +1231,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_155
+- name: ⚕️328ss🇻🇳VN_155
   server: 103.186.154.236
   port: 38388
   client-fingerprint: chrome
@@ -1239,7 +1239,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_156
+- name: ⚕️328ss🇻🇳VN_156
   server: 103.186.154.237
   port: 38388
   client-fingerprint: chrome
@@ -1247,7 +1247,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_157
+- name: ⚕️328ss🇻🇳VN_157
   server: 103.186.154.238
   port: 38388
   client-fingerprint: chrome
@@ -1255,7 +1255,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_158
+- name: ⚕️328ss🇻🇳VN_158
   server: 103.186.154.239
   port: 38388
   client-fingerprint: chrome
@@ -1263,7 +1263,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_159
+- name: ⚕️328ss🇻🇳VN_159
   server: 103.186.154.240
   port: 38388
   client-fingerprint: chrome
@@ -1271,7 +1271,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_160
+- name: ⚕️328ss🇻🇳VN_160
   server: 103.186.154.241
   port: 38388
   client-fingerprint: chrome
@@ -1279,7 +1279,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_161
+- name: ⚕️328ss🇻🇳VN_161
   server: 103.186.154.242
   port: 38388
   client-fingerprint: chrome
@@ -1287,7 +1287,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_162
+- name: ⚕️328ss🇻🇳VN_162
   server: 103.186.154.243
   port: 38388
   client-fingerprint: chrome
@@ -1295,7 +1295,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_163
+- name: ⚕️328ss🇻🇳VN_163
   server: 103.186.154.244
   port: 38388
   client-fingerprint: chrome
@@ -1303,7 +1303,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_164
+- name: ⚕️328ss🇻🇳VN_164
   server: 103.186.154.245
   port: 38388
   client-fingerprint: chrome
@@ -1311,7 +1311,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_165
+- name: ⚕️328ss🇻🇳VN_165
   server: 103.186.154.246
   port: 38388
   client-fingerprint: chrome
@@ -1319,7 +1319,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_166
+- name: ⚕️328ss🇻🇳VN_166
   server: 103.186.154.247
   port: 38388
   client-fingerprint: chrome
@@ -1327,7 +1327,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_167
+- name: ⚕️328ss🇻🇳VN_167
   server: 103.186.154.248
   port: 38388
   client-fingerprint: chrome
@@ -1335,7 +1335,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_168
+- name: ⚕️328ss🇻🇳VN_168
   server: 103.186.154.249
   port: 38388
   client-fingerprint: chrome
@@ -1343,7 +1343,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_169
+- name: ⚕️328ss🇻🇳VN_169
   server: 103.186.154.250
   port: 38388
   client-fingerprint: chrome
@@ -1351,7 +1351,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_170
+- name: ⚕️328ss🇻🇳VN_170
   server: 103.186.154.251
   port: 38388
   client-fingerprint: chrome
@@ -1359,7 +1359,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_171
+- name: ⚕️328ss🇻🇳VN_171
   server: 103.186.154.252
   port: 38388
   client-fingerprint: chrome
@@ -1367,7 +1367,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_172
+- name: ⚕️328ss🇻🇳VN_172
   server: 103.186.154.253
   port: 38388
   client-fingerprint: chrome
@@ -1375,7 +1375,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_173
+- name: ⚕️328ss🇻🇳VN_173
   server: 103.186.154.254
   port: 38388
   client-fingerprint: chrome
@@ -1383,7 +1383,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_174
+- name: ⚕️328ss🇻🇳VN_174
   server: 103.186.155.2
   port: 38388
   client-fingerprint: chrome
@@ -1391,7 +1391,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_175
+- name: ⚕️328ss🇻🇳VN_175
   server: 103.186.155.3
   port: 38388
   client-fingerprint: chrome
@@ -1399,7 +1399,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_176
+- name: ⚕️328ss🇻🇳VN_176
   server: 103.186.155.4
   port: 38388
   client-fingerprint: chrome
@@ -1407,7 +1407,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_177
+- name: ⚕️328ss🇻🇳VN_177
   server: 103.186.155.5
   port: 38388
   client-fingerprint: chrome
@@ -1415,7 +1415,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_178
+- name: ⚕️328ss🇻🇳VN_178
   server: 103.186.155.8
   port: 38388
   client-fingerprint: chrome
@@ -1423,7 +1423,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_179
+- name: ⚕️328ss🇻🇳VN_179
   server: 103.186.155.9
   port: 38388
   client-fingerprint: chrome
@@ -1431,7 +1431,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_180
+- name: ⚕️328ss🇻🇳VN_180
   server: 103.186.155.10
   port: 38388
   client-fingerprint: chrome
@@ -1439,7 +1439,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_181
+- name: ⚕️328ss🇻🇳VN_181
   server: 103.186.155.12
   port: 38388
   client-fingerprint: chrome
@@ -1447,7 +1447,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_182
+- name: ⚕️328ss🇻🇳VN_182
   server: 103.186.155.13
   port: 38388
   client-fingerprint: chrome
@@ -1455,7 +1455,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_183
+- name: ⚕️328ss🇻🇳VN_183
   server: 103.186.155.15
   port: 38388
   client-fingerprint: chrome
@@ -1463,7 +1463,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_184
+- name: ⚕️328ss🇻🇳VN_184
   server: 103.186.155.16
   port: 38388
   client-fingerprint: chrome
@@ -1471,7 +1471,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_185
+- name: ⚕️328ss🇻🇳VN_185
   server: 103.186.155.17
   port: 38388
   client-fingerprint: chrome
@@ -1479,7 +1479,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_186
+- name: ⚕️328ss🇻🇳VN_186
   server: 103.186.155.18
   port: 38388
   client-fingerprint: chrome
@@ -1487,7 +1487,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_187
+- name: ⚕️328ss🇻🇳VN_187
   server: 103.186.155.26
   port: 38388
   client-fingerprint: chrome
@@ -1495,7 +1495,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_188
+- name: ⚕️328ss🇻🇳VN_188
   server: 103.186.155.27
   port: 38388
   client-fingerprint: chrome
@@ -1503,7 +1503,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_189
+- name: ⚕️328ss🇻🇳VN_189
   server: 103.186.155.28
   port: 38388
   client-fingerprint: chrome
@@ -1511,7 +1511,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_190
+- name: ⚕️328ss🇻🇳VN_190
   server: 103.186.155.29
   port: 38388
   client-fingerprint: chrome
@@ -1519,7 +1519,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_191
+- name: ⚕️328ss🇻🇳VN_191
   server: 103.186.155.30
   port: 38388
   client-fingerprint: chrome
@@ -1527,7 +1527,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_192
+- name: ⚕️328ss🇻🇳VN_192
   server: 103.186.155.31
   port: 38388
   client-fingerprint: chrome
@@ -1535,7 +1535,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_193
+- name: ⚕️328ss🇻🇳VN_193
   server: 103.186.155.32
   port: 38388
   client-fingerprint: chrome
@@ -1543,7 +1543,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_194
+- name: ⚕️328ss🇻🇳VN_194
   server: 103.186.155.33
   port: 38388
   client-fingerprint: chrome
@@ -1551,7 +1551,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_195
+- name: ⚕️328ss🇻🇳VN_195
   server: 103.186.155.34
   port: 38388
   client-fingerprint: chrome
@@ -1559,7 +1559,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_196
+- name: ⚕️328ss🇻🇳VN_196
   server: 103.186.155.35
   port: 38388
   client-fingerprint: chrome
@@ -1567,7 +1567,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_197
+- name: ⚕️328ss🇻🇳VN_197
   server: 103.186.155.36
   port: 38388
   client-fingerprint: chrome
@@ -1575,7 +1575,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_198
+- name: ⚕️328ss🇻🇳VN_198
   server: 103.186.155.37
   port: 38388
   client-fingerprint: chrome
@@ -1583,7 +1583,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_199
+- name: ⚕️328ss🇻🇳VN_199
   server: 103.186.155.38
   port: 38388
   client-fingerprint: chrome
@@ -1591,7 +1591,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_200
+- name: ⚕️328ss🇻🇳VN_200
   server: 103.186.155.39
   port: 38388
   client-fingerprint: chrome
@@ -1599,7 +1599,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_201
+- name: ⚕️328ss🇻🇳VN_201
   server: 103.186.155.40
   port: 38388
   client-fingerprint: chrome
@@ -1607,7 +1607,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_202
+- name: ⚕️328ss🇻🇳VN_202
   server: 103.186.155.41
   port: 38388
   client-fingerprint: chrome
@@ -1615,7 +1615,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_203
+- name: ⚕️328ss🇻🇳VN_203
   server: 103.186.155.42
   port: 38388
   client-fingerprint: chrome
@@ -1623,7 +1623,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_204
+- name: ⚕️328ss🇻🇳VN_204
   server: 103.186.155.43
   port: 38388
   client-fingerprint: chrome
@@ -1631,7 +1631,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_205
+- name: ⚕️328ss🇻🇳VN_205
   server: 103.186.155.44
   port: 38388
   client-fingerprint: chrome
@@ -1639,7 +1639,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_206
+- name: ⚕️328ss🇻🇳VN_206
   server: 103.186.155.45
   port: 38388
   client-fingerprint: chrome
@@ -1647,7 +1647,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_207
+- name: ⚕️328ss🇻🇳VN_207
   server: 103.186.155.46
   port: 38388
   client-fingerprint: chrome
@@ -1655,7 +1655,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_208
+- name: ⚕️328ss🇻🇳VN_208
   server: 103.186.155.47
   port: 38388
   client-fingerprint: chrome
@@ -1663,7 +1663,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_209
+- name: ⚕️328ss🇻🇳VN_209
   server: 103.186.155.48
   port: 38388
   client-fingerprint: chrome
@@ -1671,7 +1671,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_210
+- name: ⚕️328ss🇻🇳VN_210
   server: 103.186.155.49
   port: 38388
   client-fingerprint: chrome
@@ -1679,7 +1679,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_211
+- name: ⚕️328ss🇻🇳VN_211
   server: 103.186.155.50
   port: 38388
   client-fingerprint: chrome
@@ -1687,7 +1687,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_212
+- name: ⚕️328ss🇻🇳VN_212
   server: 103.186.155.51
   port: 38388
   client-fingerprint: chrome
@@ -1695,7 +1695,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_213
+- name: ⚕️328ss🇻🇳VN_213
   server: 103.186.155.52
   port: 38388
   client-fingerprint: chrome
@@ -1703,7 +1703,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_214
+- name: ⚕️328ss🇻🇳VN_214
   server: 103.186.155.53
   port: 38388
   client-fingerprint: chrome
@@ -1711,7 +1711,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_215
+- name: ⚕️328ss🇻🇳VN_215
   server: 103.186.155.54
   port: 38388
   client-fingerprint: chrome
@@ -1719,7 +1719,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_216
+- name: ⚕️328ss🇻🇳VN_216
   server: 103.186.155.55
   port: 38388
   client-fingerprint: chrome
@@ -1727,7 +1727,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_217
+- name: ⚕️328ss🇻🇳VN_217
   server: 103.186.155.56
   port: 38388
   client-fingerprint: chrome
@@ -1735,7 +1735,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_218
+- name: ⚕️328ss🇻🇳VN_218
   server: 103.186.155.57
   port: 38388
   client-fingerprint: chrome
@@ -1743,7 +1743,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_219
+- name: ⚕️328ss🇻🇳VN_219
   server: 103.186.155.58
   port: 38388
   client-fingerprint: chrome
@@ -1751,7 +1751,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_220
+- name: ⚕️328ss🇻🇳VN_220
   server: 103.186.155.59
   port: 38388
   client-fingerprint: chrome
@@ -1759,7 +1759,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_221
+- name: ⚕️328ss🇻🇳VN_221
   server: 103.186.155.60
   port: 38388
   client-fingerprint: chrome
@@ -1767,7 +1767,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_222
+- name: ⚕️328ss🇻🇳VN_222
   server: 103.186.155.61
   port: 38388
   client-fingerprint: chrome
@@ -1775,7 +1775,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_223
+- name: ⚕️328ss🇻🇳VN_223
   server: 103.186.155.62
   port: 38388
   client-fingerprint: chrome
@@ -1783,7 +1783,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_224
+- name: ⚕️328ss🇻🇳VN_224
   server: 103.186.155.63
   port: 38388
   client-fingerprint: chrome
@@ -1791,7 +1791,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_225
+- name: ⚕️328ss🇻🇳VN_225
   server: 103.186.155.64
   port: 38388
   client-fingerprint: chrome
@@ -1799,7 +1799,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_226
+- name: ⚕️328ss🇻🇳VN_226
   server: 103.186.155.65
   port: 38388
   client-fingerprint: chrome
@@ -1807,7 +1807,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_227
+- name: ⚕️328ss🇻🇳VN_227
   server: 103.186.155.66
   port: 38388
   client-fingerprint: chrome
@@ -1815,7 +1815,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_228
+- name: ⚕️328ss🇻🇳VN_228
   server: 103.186.155.67
   port: 38388
   client-fingerprint: chrome
@@ -1823,7 +1823,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_229
+- name: ⚕️328ss🇻🇳VN_229
   server: 103.186.155.68
   port: 38388
   client-fingerprint: chrome
@@ -1831,7 +1831,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_230
+- name: ⚕️328ss🇻🇳VN_230
   server: 103.186.155.69
   port: 38388
   client-fingerprint: chrome
@@ -1839,7 +1839,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_231
+- name: ⚕️328ss🇻🇳VN_231
   server: 103.186.155.70
   port: 38388
   client-fingerprint: chrome
@@ -1847,7 +1847,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_232
+- name: ⚕️328ss🇻🇳VN_232
   server: 103.186.155.71
   port: 38388
   client-fingerprint: chrome
@@ -1855,7 +1855,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_233
+- name: ⚕️328ss🇻🇳VN_233
   server: 103.186.155.75
   port: 38388
   client-fingerprint: chrome
@@ -1863,7 +1863,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_234
+- name: ⚕️328ss🇻🇳VN_234
   server: 103.186.155.76
   port: 38388
   client-fingerprint: chrome
@@ -1871,7 +1871,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_235
+- name: ⚕️328ss🇻🇳VN_235
   server: 103.186.155.77
   port: 38388
   client-fingerprint: chrome
@@ -1879,7 +1879,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_236
+- name: ⚕️328ss🇻🇳VN_236
   server: 103.186.155.78
   port: 38388
   client-fingerprint: chrome
@@ -1887,7 +1887,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_237
+- name: ⚕️328ss🇻🇳VN_237
   server: 103.186.155.79
   port: 38388
   client-fingerprint: chrome
@@ -1895,7 +1895,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_238
+- name: ⚕️328ss🇻🇳VN_238
   server: 103.186.155.80
   port: 38388
   client-fingerprint: chrome
@@ -1903,7 +1903,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_239
+- name: ⚕️328ss🇻🇳VN_239
   server: 103.186.155.81
   port: 38388
   client-fingerprint: chrome
@@ -1911,7 +1911,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_240
+- name: ⚕️328ss🇻🇳VN_240
   server: 103.186.155.82
   port: 38388
   client-fingerprint: chrome
@@ -1919,7 +1919,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_241
+- name: ⚕️328ss🇻🇳VN_241
   server: 103.186.155.83
   port: 38388
   client-fingerprint: chrome
@@ -1927,7 +1927,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_242
+- name: ⚕️328ss🇻🇳VN_242
   server: 103.186.155.84
   port: 38388
   client-fingerprint: chrome
@@ -1935,7 +1935,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_243
+- name: ⚕️328ss🇻🇳VN_243
   server: 103.186.155.85
   port: 38388
   client-fingerprint: chrome
@@ -1943,7 +1943,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_244
+- name: ⚕️328ss🇻🇳VN_244
   server: 103.186.155.101
   port: 38388
   client-fingerprint: chrome
@@ -1951,7 +1951,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_245
+- name: ⚕️328ss🇻🇳VN_245
   server: 103.186.155.102
   port: 38388
   client-fingerprint: chrome
@@ -1959,7 +1959,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_246
+- name: ⚕️328ss🇻🇳VN_246
   server: 103.186.155.103
   port: 38388
   client-fingerprint: chrome
@@ -1967,7 +1967,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_247
+- name: ⚕️328ss🇻🇳VN_247
   server: 103.186.155.104
   port: 38388
   client-fingerprint: chrome
@@ -1975,7 +1975,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_248
+- name: ⚕️328ss🇻🇳VN_248
   server: 103.186.155.105
   port: 38388
   client-fingerprint: chrome
@@ -1983,7 +1983,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_249
+- name: ⚕️328ss🇻🇳VN_249
   server: 103.186.155.106
   port: 38388
   client-fingerprint: chrome
@@ -1991,7 +1991,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_250
+- name: ⚕️328ss🇻🇳VN_250
   server: 103.186.155.107
   port: 38388
   client-fingerprint: chrome
@@ -1999,7 +1999,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_251
+- name: ⚕️328ss🇻🇳VN_251
   server: 103.186.155.108
   port: 38388
   client-fingerprint: chrome
@@ -2007,7 +2007,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_252
+- name: ⚕️328ss🇻🇳VN_252
   server: 103.186.155.109
   port: 38388
   client-fingerprint: chrome
@@ -2015,7 +2015,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_253
+- name: ⚕️328ss🇻🇳VN_253
   server: 103.186.155.110
   port: 38388
   client-fingerprint: chrome
@@ -2023,7 +2023,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_254
+- name: ⚕️328ss🇻🇳VN_254
   server: 103.186.155.111
   port: 38388
   client-fingerprint: chrome
@@ -2031,7 +2031,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_255
+- name: ⚕️328ss🇻🇳VN_255
   server: 103.186.155.112
   port: 38388
   client-fingerprint: chrome
@@ -2039,7 +2039,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_256
+- name: ⚕️328ss🇻🇳VN_256
   server: 103.186.155.113
   port: 38388
   client-fingerprint: chrome
@@ -2047,7 +2047,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_257
+- name: ⚕️328ss🇻🇳VN_257
   server: 103.186.155.114
   port: 38388
   client-fingerprint: chrome
@@ -2055,7 +2055,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_258
+- name: ⚕️328ss🇻🇳VN_258
   server: 103.186.155.115
   port: 38388
   client-fingerprint: chrome
@@ -2063,7 +2063,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_259
+- name: ⚕️328ss🇻🇳VN_259
   server: 103.186.155.116
   port: 38388
   client-fingerprint: chrome
@@ -2071,7 +2071,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_260
+- name: ⚕️328ss🇻🇳VN_260
   server: 103.186.155.117
   port: 38388
   client-fingerprint: chrome
@@ -2079,7 +2079,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_261
+- name: ⚕️328ss🇻🇳VN_261
   server: 103.186.155.118
   port: 38388
   client-fingerprint: chrome
@@ -2087,7 +2087,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_262
+- name: ⚕️328ss🇻🇳VN_262
   server: 103.186.155.119
   port: 38388
   client-fingerprint: chrome
@@ -2095,7 +2095,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_263
+- name: ⚕️328ss🇻🇳VN_263
   server: 103.186.155.120
   port: 38388
   client-fingerprint: chrome
@@ -2103,7 +2103,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_264
+- name: ⚕️328ss🇻🇳VN_264
   server: 103.186.155.121
   port: 38388
   client-fingerprint: chrome
@@ -2111,7 +2111,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_265
+- name: ⚕️328ss🇻🇳VN_265
   server: 103.186.155.122
   port: 38388
   client-fingerprint: chrome
@@ -2119,7 +2119,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_266
+- name: ⚕️328ss🇻🇳VN_266
   server: 103.186.155.123
   port: 38388
   client-fingerprint: chrome
@@ -2127,7 +2127,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_267
+- name: ⚕️328ss🇻🇳VN_267
   server: 103.186.155.124
   port: 38388
   client-fingerprint: chrome
@@ -2135,7 +2135,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_268
+- name: ⚕️328ss🇻🇳VN_268
   server: 103.186.155.125
   port: 38388
   client-fingerprint: chrome
@@ -2143,7 +2143,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_269
+- name: ⚕️328ss🇻🇳VN_269
   server: 103.186.155.126
   port: 38388
   client-fingerprint: chrome
@@ -2151,7 +2151,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_270
+- name: ⚕️328ss🇻🇳VN_270
   server: 103.186.155.127
   port: 38388
   client-fingerprint: chrome
@@ -2159,7 +2159,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_271
+- name: ⚕️328ss🇻🇳VN_271
   server: 103.186.155.128
   port: 38388
   client-fingerprint: chrome
@@ -2167,7 +2167,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_272
+- name: ⚕️328ss🇻🇳VN_272
   server: 103.186.155.129
   port: 38388
   client-fingerprint: chrome
@@ -2175,7 +2175,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_273
+- name: ⚕️328ss🇻🇳VN_273
   server: 103.186.155.130
   port: 38388
   client-fingerprint: chrome
@@ -2183,7 +2183,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_274
+- name: ⚕️328ss🇻🇳VN_274
   server: 103.186.155.131
   port: 38388
   client-fingerprint: chrome
@@ -2191,7 +2191,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_275
+- name: ⚕️328ss🇻🇳VN_275
   server: 103.186.155.132
   port: 38388
   client-fingerprint: chrome
@@ -2199,7 +2199,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_276
+- name: ⚕️328ss🇻🇳VN_276
   server: 103.186.155.134
   port: 38388
   client-fingerprint: chrome
@@ -2207,7 +2207,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_277
+- name: ⚕️328ss🇻🇳VN_277
   server: 103.186.155.135
   port: 38388
   client-fingerprint: chrome
@@ -2215,7 +2215,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_278
+- name: ⚕️328ss🇻🇳VN_278
   server: 103.186.155.136
   port: 38388
   client-fingerprint: chrome
@@ -2223,7 +2223,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_279
+- name: ⚕️328ss🇻🇳VN_279
   server: 103.186.155.137
   port: 38388
   client-fingerprint: chrome
@@ -2231,7 +2231,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_280
+- name: ⚕️328ss🇻🇳VN_280
   server: 103.186.155.138
   port: 38388
   client-fingerprint: chrome
@@ -2239,7 +2239,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_281
+- name: ⚕️328ss🇻🇳VN_281
   server: 103.186.155.139
   port: 38388
   client-fingerprint: chrome
@@ -2247,7 +2247,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_282
+- name: ⚕️328ss🇻🇳VN_282
   server: 103.186.155.140
   port: 38388
   client-fingerprint: chrome
@@ -2255,7 +2255,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_283
+- name: ⚕️328ss🇻🇳VN_283
   server: 103.186.155.141
   port: 38388
   client-fingerprint: chrome
@@ -2263,7 +2263,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_284
+- name: ⚕️328ss🇻🇳VN_284
   server: 103.186.155.142
   port: 38388
   client-fingerprint: chrome
@@ -2271,7 +2271,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_285
+- name: ⚕️328ss🇻🇳VN_285
   server: 103.186.155.143
   port: 38388
   client-fingerprint: chrome
@@ -2279,7 +2279,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_286
+- name: ⚕️328ss🇻🇳VN_286
   server: 103.186.155.144
   port: 38388
   client-fingerprint: chrome
@@ -2287,7 +2287,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_287
+- name: ⚕️328ss🇻🇳VN_287
   server: 103.186.155.145
   port: 38388
   client-fingerprint: chrome
@@ -2295,7 +2295,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_288
+- name: ⚕️328ss🇻🇳VN_288
   server: 103.186.155.146
   port: 38388
   client-fingerprint: chrome
@@ -2303,7 +2303,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_289
+- name: ⚕️328ss🇻🇳VN_289
   server: 103.186.155.147
   port: 38388
   client-fingerprint: chrome
@@ -2311,7 +2311,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_290
+- name: ⚕️328ss🇻🇳VN_290
   server: 103.186.155.148
   port: 38388
   client-fingerprint: chrome
@@ -2319,7 +2319,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_291
+- name: ⚕️328ss🇻🇳VN_291
   server: 103.186.155.149
   port: 38388
   client-fingerprint: chrome
@@ -2327,7 +2327,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_292
+- name: ⚕️328ss🇻🇳VN_292
   server: 103.186.155.150
   port: 38388
   client-fingerprint: chrome
@@ -2335,7 +2335,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_293
+- name: ⚕️328ss🇻🇳VN_293
   server: 103.186.155.153
   port: 38388
   client-fingerprint: chrome
@@ -2343,7 +2343,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_294
+- name: ⚕️328ss🇻🇳VN_294
   server: 103.186.155.154
   port: 38388
   client-fingerprint: chrome
@@ -2351,7 +2351,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_295
+- name: ⚕️328ss🇻🇳VN_295
   server: 103.186.155.156
   port: 38388
   client-fingerprint: chrome
@@ -2359,7 +2359,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_296
+- name: ⚕️328ss🇻🇳VN_296
   server: 103.186.155.183
   port: 38388
   client-fingerprint: chrome
@@ -2367,7 +2367,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_297
+- name: ⚕️328ss🇻🇳VN_297
   server: 103.186.155.202
   port: 38388
   client-fingerprint: chrome
@@ -2375,7 +2375,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_298
+- name: ⚕️328ss🇻🇳VN_298
   server: 103.186.155.203
   port: 38388
   client-fingerprint: chrome
@@ -2383,7 +2383,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_299
+- name: ⚕️328ss🇻🇳VN_299
   server: 103.186.155.204
   port: 38388
   client-fingerprint: chrome
@@ -2391,7 +2391,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_300
+- name: ⚕️328ss🇻🇳VN_300
   server: 103.186.155.205
   port: 38388
   client-fingerprint: chrome
@@ -2399,7 +2399,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_301
+- name: ⚕️328ss🇻🇳VN_301
   server: 103.186.155.206
   port: 38388
   client-fingerprint: chrome
@@ -2407,7 +2407,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_302
+- name: ⚕️328ss🇻🇳VN_302
   server: 103.186.155.207
   port: 38388
   client-fingerprint: chrome
@@ -2415,7 +2415,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_303
+- name: ⚕️328ss🇻🇳VN_303
   server: 103.186.155.209
   port: 38388
   client-fingerprint: chrome
@@ -2423,7 +2423,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_304
+- name: ⚕️328ss🇻🇳VN_304
   server: 103.186.155.211
   port: 38388
   client-fingerprint: chrome
@@ -2431,7 +2431,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_305
+- name: ⚕️328ss🇻🇳VN_305
   server: 103.186.155.213
   port: 38388
   client-fingerprint: chrome
@@ -2439,7 +2439,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_306
+- name: ⚕️328ss🇻🇳VN_306
   server: 103.186.155.214
   port: 38388
   client-fingerprint: chrome
@@ -2447,7 +2447,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_307
+- name: ⚕️328ss🇻🇳VN_307
   server: 103.186.155.215
   port: 38388
   client-fingerprint: chrome
@@ -2455,7 +2455,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_308
+- name: ⚕️328ss🇻🇳VN_308
   server: 103.186.155.218
   port: 38388
   client-fingerprint: chrome
@@ -2463,7 +2463,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_309
+- name: ⚕️328ss🇻🇳VN_309
   server: 103.186.155.220
   port: 38388
   client-fingerprint: chrome
@@ -2471,7 +2471,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_310
+- name: ⚕️328ss🇻🇳VN_310
   server: 103.186.155.221
   port: 38388
   client-fingerprint: chrome
@@ -2479,7 +2479,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_311
+- name: ⚕️328ss🇻🇳VN_311
   server: 103.186.155.222
   port: 38388
   client-fingerprint: chrome
@@ -2487,7 +2487,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_312
+- name: ⚕️328ss🇻🇳VN_312
   server: 103.186.155.223
   port: 38388
   client-fingerprint: chrome
@@ -2495,7 +2495,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_313
+- name: ⚕️328ss🇻🇳VN_313
   server: 103.186.155.224
   port: 38388
   client-fingerprint: chrome
@@ -2503,7 +2503,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_314
+- name: ⚕️328ss🇻🇳VN_314
   server: 103.186.155.225
   port: 38388
   client-fingerprint: chrome
@@ -2511,7 +2511,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_315
+- name: ⚕️328ss🇻🇳VN_315
   server: 103.186.155.227
   port: 38388
   client-fingerprint: chrome
@@ -2519,7 +2519,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_316
+- name: ⚕️328ss🇻🇳VN_316
   server: 103.186.155.228
   port: 38388
   client-fingerprint: chrome
@@ -2527,7 +2527,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_317
+- name: ⚕️328ss🇻🇳VN_317
   server: 103.186.155.229
   port: 38388
   client-fingerprint: chrome
@@ -2535,7 +2535,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_318
+- name: ⚕️328ss🇻🇳VN_318
   server: 103.186.155.230
   port: 38388
   client-fingerprint: chrome
@@ -2543,7 +2543,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_319
+- name: ⚕️328ss🇻🇳VN_319
   server: 103.186.155.231
   port: 38388
   client-fingerprint: chrome
@@ -2551,7 +2551,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_320
+- name: ⚕️328ss🇻🇳VN_320
   server: 103.186.155.232
   port: 38388
   client-fingerprint: chrome
@@ -2559,7 +2559,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_321
+- name: ⚕️328ss🇻🇳VN_321
   server: 103.186.155.233
   port: 38388
   client-fingerprint: chrome
@@ -2567,7 +2567,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_322
+- name: ⚕️328ss🇻🇳VN_322
   server: 103.186.155.234
   port: 38388
   client-fingerprint: chrome
@@ -2575,7 +2575,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_323
+- name: ⚕️328ss🇻🇳VN_323
   server: 103.186.155.235
   port: 38388
   client-fingerprint: chrome
@@ -2583,7 +2583,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_324
+- name: ⚕️328ss🇻🇳VN_324
   server: 103.186.155.236
   port: 38388
   client-fingerprint: chrome
@@ -2591,7 +2591,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_325
+- name: ⚕️328ss🇻🇳VN_325
   server: 103.186.155.237
   port: 38388
   client-fingerprint: chrome
@@ -2599,7 +2599,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_326
+- name: ⚕️328ss🇻🇳VN_326
   server: 103.186.155.238
   port: 38388
   client-fingerprint: chrome
@@ -2607,7 +2607,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_327
+- name: ⚕️328ss🇻🇳VN_327
   server: 103.186.155.239
   port: 38388
   client-fingerprint: chrome
@@ -2615,7 +2615,7 @@ proxies:
   cipher: aes-256-cfb
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   tfo: false
-- name: 😵328ss🇻🇳VN_328
+- name: ⚕️328ss🇻🇳VN_328
   server: 103.186.155.240
   port: 38388
   client-fingerprint: chrome
