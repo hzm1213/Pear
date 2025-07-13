@@ -1,5 +1,5 @@
 proxies:
-- name: 🧎🏻‍♀308ss🇯🇵JP_001
+- name: 🖍️308ss🇯🇵JP_001
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -11,7 +11,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_002
+- name: 🖍️308ss🇯🇵JP_002
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -23,7 +23,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_003
+- name: 🖍️308ss🇯🇵JP_003
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -35,7 +35,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_004
+- name: 🖍️308ss🇯🇵JP_004
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -47,7 +47,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_005
+- name: 🖍️308ss🇯🇵JP_005
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -59,7 +59,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_006
+- name: 🖍️308ss🇯🇵JP_006
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -71,7 +71,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_007
+- name: 🖍️308ss🇯🇵JP_007
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -83,7 +83,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_008
+- name: 🖍️308ss🇯🇵JP_008
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -95,7 +95,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_009
+- name: 🖍️308ss🇯🇵JP_009
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -107,7 +107,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_010
+- name: 🖍️308ss🇯🇵JP_010
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -119,7 +119,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_011
+- name: 🖍️308ss🇯🇵JP_011
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -131,7 +131,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_012
+- name: 🖍️308ss🇯🇵JP_012
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -143,7 +143,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_013
+- name: 🖍️308ss🇯🇵JP_013
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -155,7 +155,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_014
+- name: 🖍️308ss🇯🇵JP_014
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -167,7 +167,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_015
+- name: 🖍️308ss🇯🇵JP_015
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -179,7 +179,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_016
+- name: 🖍️308ss🇯🇵JP_016
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -191,7 +191,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_017
+- name: 🖍️308ss🇯🇵JP_017
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -203,7 +203,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_018
+- name: 🖍️308ss🇯🇵JP_018
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -215,7 +215,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_019
+- name: 🖍️308ss🇯🇵JP_019
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -227,7 +227,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_020
+- name: 🖍️308ss🇯🇵JP_020
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -239,7 +239,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_021
+- name: 🖍️308ss🇯🇵JP_021
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -251,7 +251,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_022
+- name: 🖍️308ss🇯🇵JP_022
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -263,7 +263,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_023
+- name: 🖍️308ss🇯🇵JP_023
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -275,7 +275,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_024
+- name: 🖍️308ss🇯🇵JP_024
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -287,7 +287,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_025
+- name: 🖍️308ss🇯🇵JP_025
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -299,7 +299,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_026
+- name: 🖍️308ss🇯🇵JP_026
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -311,7 +311,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_027
+- name: 🖍️308ss🇯🇵JP_027
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -323,7 +323,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_028
+- name: 🖍️308ss🇯🇵JP_028
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -335,7 +335,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)875a101:110453
-- name: 🧎🏻‍♀308ss🇯🇵JP_029
+- name: 🖍️308ss🇯🇵JP_029
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -347,7 +347,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_030
+- name: 🖍️308ss🇯🇵JP_030
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -359,7 +359,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_031
+- name: 🖍️308ss🇯🇵JP_031
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -371,7 +371,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_032
+- name: 🖍️308ss🇯🇵JP_032
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -383,7 +383,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_033
+- name: 🖍️308ss🇯🇵JP_033
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -395,7 +395,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_034
+- name: 🖍️308ss🇯🇵JP_034
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -407,7 +407,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_035
+- name: 🖍️308ss🇯🇵JP_035
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -419,7 +419,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_036
+- name: 🖍️308ss🇯🇵JP_036
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -431,7 +431,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_037
+- name: 🖍️308ss🇯🇵JP_037
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -443,7 +443,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_038
+- name: 🖍️308ss🇯🇵JP_038
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -455,7 +455,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_039
+- name: 🖍️308ss🇯🇵JP_039
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -467,7 +467,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_040
+- name: 🖍️308ss🇯🇵JP_040
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -479,7 +479,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_041
+- name: 🖍️308ss🇯🇵JP_041
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -491,7 +491,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_042
+- name: 🖍️308ss🇯🇵JP_042
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -503,7 +503,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_043
+- name: 🖍️308ss🇯🇵JP_043
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -515,7 +515,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_044
+- name: 🖍️308ss🇯🇵JP_044
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -527,7 +527,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_045
+- name: 🖍️308ss🇯🇵JP_045
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -539,7 +539,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_046
+- name: 🖍️308ss🇯🇵JP_046
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -551,7 +551,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_047
+- name: 🖍️308ss🇯🇵JP_047
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -563,7 +563,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_048
+- name: 🖍️308ss🇯🇵JP_048
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -575,7 +575,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_049
+- name: 🖍️308ss🇯🇵JP_049
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -587,7 +587,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_050
+- name: 🖍️308ss🇯🇵JP_050
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -599,7 +599,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_051
+- name: 🖍️308ss🇯🇵JP_051
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -611,7 +611,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_052
+- name: 🖍️308ss🇯🇵JP_052
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -623,7 +623,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_053
+- name: 🖍️308ss🇯🇵JP_053
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -635,7 +635,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_054
+- name: 🖍️308ss🇯🇵JP_054
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -647,7 +647,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_055
+- name: 🖍️308ss🇯🇵JP_055
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -659,7 +659,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_056
+- name: 🖍️308ss🇯🇵JP_056
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -671,7 +671,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)a6df15f:137873
-- name: 🧎🏻‍♀308ss🇯🇵JP_057
+- name: 🖍️308ss🇯🇵JP_057
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -683,7 +683,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_058
+- name: 🖍️308ss🇯🇵JP_058
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -695,7 +695,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_059
+- name: 🖍️308ss🇯🇵JP_059
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -707,7 +707,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_060
+- name: 🖍️308ss🇯🇵JP_060
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -719,7 +719,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_061
+- name: 🖍️308ss🇯🇵JP_061
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -731,7 +731,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_062
+- name: 🖍️308ss🇯🇵JP_062
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -743,7 +743,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_063
+- name: 🖍️308ss🇯🇵JP_063
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -755,7 +755,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_064
+- name: 🖍️308ss🇯🇵JP_064
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -767,7 +767,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_065
+- name: 🖍️308ss🇯🇵JP_065
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -779,7 +779,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_066
+- name: 🖍️308ss🇯🇵JP_066
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -791,7 +791,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_067
+- name: 🖍️308ss🇯🇵JP_067
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -803,7 +803,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_068
+- name: 🖍️308ss🇯🇵JP_068
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -815,7 +815,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_069
+- name: 🖍️308ss🇯🇵JP_069
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -827,7 +827,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_070
+- name: 🖍️308ss🇯🇵JP_070
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -839,7 +839,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_071
+- name: 🖍️308ss🇯🇵JP_071
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -851,7 +851,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_072
+- name: 🖍️308ss🇯🇵JP_072
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -863,7 +863,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_073
+- name: 🖍️308ss🇯🇵JP_073
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -875,7 +875,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_074
+- name: 🖍️308ss🇯🇵JP_074
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -887,7 +887,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_075
+- name: 🖍️308ss🇯🇵JP_075
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -899,7 +899,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_076
+- name: 🖍️308ss🇯🇵JP_076
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -911,7 +911,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_077
+- name: 🖍️308ss🇯🇵JP_077
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -923,7 +923,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_078
+- name: 🖍️308ss🇯🇵JP_078
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -935,7 +935,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_079
+- name: 🖍️308ss🇯🇵JP_079
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -947,7 +947,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_080
+- name: 🖍️308ss🇯🇵JP_080
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -959,7 +959,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_081
+- name: 🖍️308ss🇯🇵JP_081
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -971,7 +971,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_082
+- name: 🖍️308ss🇯🇵JP_082
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -983,7 +983,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_083
+- name: 🖍️308ss🇯🇵JP_083
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -995,7 +995,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_084
+- name: 🖍️308ss🇯🇵JP_084
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -1007,7 +1007,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)9f6b1e7:141612
-- name: 🧎🏻‍♀308ss🇯🇵JP_085
+- name: 🖍️308ss🇯🇵JP_085
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -1019,7 +1019,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_086
+- name: 🖍️308ss🇯🇵JP_086
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -1031,7 +1031,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_087
+- name: 🖍️308ss🇯🇵JP_087
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -1043,7 +1043,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_088
+- name: 🖍️308ss🇯🇵JP_088
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -1055,7 +1055,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_089
+- name: 🖍️308ss🇯🇵JP_089
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -1067,7 +1067,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_090
+- name: 🖍️308ss🇯🇵JP_090
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -1079,7 +1079,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_091
+- name: 🖍️308ss🇯🇵JP_091
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -1091,7 +1091,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_092
+- name: 🖍️308ss🇯🇵JP_092
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -1103,7 +1103,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_093
+- name: 🖍️308ss🇯🇵JP_093
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -1115,7 +1115,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_094
+- name: 🖍️308ss🇯🇵JP_094
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -1127,7 +1127,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_095
+- name: 🖍️308ss🇯🇵JP_095
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -1139,7 +1139,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_096
+- name: 🖍️308ss🇯🇵JP_096
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -1151,7 +1151,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_097
+- name: 🖍️308ss🇯🇵JP_097
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -1163,7 +1163,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_098
+- name: 🖍️308ss🇯🇵JP_098
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -1175,7 +1175,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_099
+- name: 🖍️308ss🇯🇵JP_099
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -1187,7 +1187,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_100
+- name: 🖍️308ss🇯🇵JP_100
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -1199,7 +1199,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_101
+- name: 🖍️308ss🇯🇵JP_101
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -1211,7 +1211,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_102
+- name: 🖍️308ss🇯🇵JP_102
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -1223,7 +1223,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_103
+- name: 🖍️308ss🇯🇵JP_103
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -1235,7 +1235,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_104
+- name: 🖍️308ss🇯🇵JP_104
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -1247,7 +1247,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_105
+- name: 🖍️308ss🇯🇵JP_105
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -1259,7 +1259,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_106
+- name: 🖍️308ss🇯🇵JP_106
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -1271,7 +1271,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_107
+- name: 🖍️308ss🇯🇵JP_107
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -1283,7 +1283,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_108
+- name: 🖍️308ss🇯🇵JP_108
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -1295,7 +1295,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_109
+- name: 🖍️308ss🇯🇵JP_109
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -1307,7 +1307,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_110
+- name: 🖍️308ss🇯🇵JP_110
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -1319,7 +1319,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_111
+- name: 🖍️308ss🇯🇵JP_111
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -1331,7 +1331,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_112
+- name: 🖍️308ss🇯🇵JP_112
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -1343,7 +1343,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)407738b:154938
-- name: 🧎🏻‍♀308ss🇯🇵JP_113
+- name: 🖍️308ss🇯🇵JP_113
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -1355,7 +1355,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_114
+- name: 🖍️308ss🇯🇵JP_114
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -1367,7 +1367,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_115
+- name: 🖍️308ss🇯🇵JP_115
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -1379,7 +1379,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_116
+- name: 🖍️308ss🇯🇵JP_116
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -1391,7 +1391,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_117
+- name: 🖍️308ss🇯🇵JP_117
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -1403,7 +1403,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_118
+- name: 🖍️308ss🇯🇵JP_118
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -1415,7 +1415,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_119
+- name: 🖍️308ss🇯🇵JP_119
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -1427,7 +1427,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_120
+- name: 🖍️308ss🇯🇵JP_120
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -1439,7 +1439,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_121
+- name: 🖍️308ss🇯🇵JP_121
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -1451,7 +1451,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_122
+- name: 🖍️308ss🇯🇵JP_122
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -1463,7 +1463,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_123
+- name: 🖍️308ss🇯🇵JP_123
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -1475,7 +1475,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_124
+- name: 🖍️308ss🇯🇵JP_124
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -1487,7 +1487,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_125
+- name: 🖍️308ss🇯🇵JP_125
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -1499,7 +1499,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_126
+- name: 🖍️308ss🇯🇵JP_126
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -1511,7 +1511,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_127
+- name: 🖍️308ss🇯🇵JP_127
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -1523,7 +1523,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_128
+- name: 🖍️308ss🇯🇵JP_128
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -1535,7 +1535,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_129
+- name: 🖍️308ss🇯🇵JP_129
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -1547,7 +1547,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_130
+- name: 🖍️308ss🇯🇵JP_130
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -1559,7 +1559,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_131
+- name: 🖍️308ss🇯🇵JP_131
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -1571,7 +1571,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_132
+- name: 🖍️308ss🇯🇵JP_132
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -1583,7 +1583,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_133
+- name: 🖍️308ss🇯🇵JP_133
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -1595,7 +1595,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_134
+- name: 🖍️308ss🇯🇵JP_134
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -1607,7 +1607,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_135
+- name: 🖍️308ss🇯🇵JP_135
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -1619,7 +1619,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_136
+- name: 🖍️308ss🇯🇵JP_136
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -1631,7 +1631,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_137
+- name: 🖍️308ss🇯🇵JP_137
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -1643,7 +1643,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_138
+- name: 🖍️308ss🇯🇵JP_138
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -1655,7 +1655,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_139
+- name: 🖍️308ss🇯🇵JP_139
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -1667,7 +1667,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_140
+- name: 🖍️308ss🇯🇵JP_140
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -1679,7 +1679,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)5dfbdfc:154942
-- name: 🧎🏻‍♀308ss🇯🇵JP_141
+- name: 🖍️308ss🇯🇵JP_141
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -1691,7 +1691,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_142
+- name: 🖍️308ss🇯🇵JP_142
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -1703,7 +1703,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_143
+- name: 🖍️308ss🇯🇵JP_143
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -1715,7 +1715,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_144
+- name: 🖍️308ss🇯🇵JP_144
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -1727,7 +1727,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_145
+- name: 🖍️308ss🇯🇵JP_145
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -1739,7 +1739,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_146
+- name: 🖍️308ss🇯🇵JP_146
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -1751,7 +1751,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_147
+- name: 🖍️308ss🇯🇵JP_147
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -1763,7 +1763,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_148
+- name: 🖍️308ss🇯🇵JP_148
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -1775,7 +1775,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_149
+- name: 🖍️308ss🇯🇵JP_149
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -1787,7 +1787,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_150
+- name: 🖍️308ss🇯🇵JP_150
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -1799,7 +1799,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_151
+- name: 🖍️308ss🇯🇵JP_151
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -1811,7 +1811,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_152
+- name: 🖍️308ss🇯🇵JP_152
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -1823,7 +1823,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_153
+- name: 🖍️308ss🇯🇵JP_153
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -1835,7 +1835,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_154
+- name: 🖍️308ss🇯🇵JP_154
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -1847,7 +1847,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_155
+- name: 🖍️308ss🇯🇵JP_155
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -1859,7 +1859,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_156
+- name: 🖍️308ss🇯🇵JP_156
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -1871,7 +1871,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_157
+- name: 🖍️308ss🇯🇵JP_157
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -1883,7 +1883,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_158
+- name: 🖍️308ss🇯🇵JP_158
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -1895,7 +1895,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_159
+- name: 🖍️308ss🇯🇵JP_159
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -1907,7 +1907,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_160
+- name: 🖍️308ss🇯🇵JP_160
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -1919,7 +1919,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_161
+- name: 🖍️308ss🇯🇵JP_161
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -1931,7 +1931,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_162
+- name: 🖍️308ss🇯🇵JP_162
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -1943,7 +1943,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_163
+- name: 🖍️308ss🇯🇵JP_163
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -1955,7 +1955,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_164
+- name: 🖍️308ss🇯🇵JP_164
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -1967,7 +1967,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_165
+- name: 🖍️308ss🇯🇵JP_165
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -1979,7 +1979,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_166
+- name: 🖍️308ss🇯🇵JP_166
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -1991,7 +1991,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_167
+- name: 🖍️308ss🇯🇵JP_167
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -2003,7 +2003,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_168
+- name: 🖍️308ss🇯🇵JP_168
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -2015,7 +2015,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)53b5157:154944
-- name: 🧎🏻‍♀308ss🇯🇵JP_169
+- name: 🖍️308ss🇯🇵JP_169
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -2027,7 +2027,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_170
+- name: 🖍️308ss🇯🇵JP_170
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -2039,7 +2039,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_171
+- name: 🖍️308ss🇯🇵JP_171
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -2051,7 +2051,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_172
+- name: 🖍️308ss🇯🇵JP_172
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -2063,7 +2063,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_173
+- name: 🖍️308ss🇯🇵JP_173
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -2075,7 +2075,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_174
+- name: 🖍️308ss🇯🇵JP_174
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -2087,7 +2087,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_175
+- name: 🖍️308ss🇯🇵JP_175
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -2099,7 +2099,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_176
+- name: 🖍️308ss🇯🇵JP_176
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -2111,7 +2111,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_177
+- name: 🖍️308ss🇯🇵JP_177
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -2123,7 +2123,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_178
+- name: 🖍️308ss🇯🇵JP_178
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -2135,7 +2135,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_179
+- name: 🖍️308ss🇯🇵JP_179
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -2147,7 +2147,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_180
+- name: 🖍️308ss🇯🇵JP_180
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -2159,7 +2159,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_181
+- name: 🖍️308ss🇯🇵JP_181
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -2171,7 +2171,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_182
+- name: 🖍️308ss🇯🇵JP_182
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -2183,7 +2183,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_183
+- name: 🖍️308ss🇯🇵JP_183
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -2195,7 +2195,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_184
+- name: 🖍️308ss🇯🇵JP_184
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -2207,7 +2207,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_185
+- name: 🖍️308ss🇯🇵JP_185
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -2219,7 +2219,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_186
+- name: 🖍️308ss🇯🇵JP_186
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -2231,7 +2231,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_187
+- name: 🖍️308ss🇯🇵JP_187
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -2243,7 +2243,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_188
+- name: 🖍️308ss🇯🇵JP_188
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -2255,7 +2255,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_189
+- name: 🖍️308ss🇯🇵JP_189
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -2267,7 +2267,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_190
+- name: 🖍️308ss🇯🇵JP_190
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -2279,7 +2279,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_191
+- name: 🖍️308ss🇯🇵JP_191
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -2291,7 +2291,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_192
+- name: 🖍️308ss🇯🇵JP_192
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -2303,7 +2303,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_193
+- name: 🖍️308ss🇯🇵JP_193
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -2315,7 +2315,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_194
+- name: 🖍️308ss🇯🇵JP_194
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -2327,7 +2327,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_195
+- name: 🖍️308ss🇯🇵JP_195
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -2339,7 +2339,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_196
+- name: 🖍️308ss🇯🇵JP_196
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -2351,7 +2351,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)4aa81ac:154946
-- name: 🧎🏻‍♀308ss🇯🇵JP_197
+- name: 🖍️308ss🇯🇵JP_197
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -2363,7 +2363,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_198
+- name: 🖍️308ss🇯🇵JP_198
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -2375,7 +2375,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_199
+- name: 🖍️308ss🇯🇵JP_199
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -2387,7 +2387,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_200
+- name: 🖍️308ss🇯🇵JP_200
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -2399,7 +2399,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_201
+- name: 🖍️308ss🇯🇵JP_201
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -2411,7 +2411,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_202
+- name: 🖍️308ss🇯🇵JP_202
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -2423,7 +2423,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_203
+- name: 🖍️308ss🇯🇵JP_203
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -2435,7 +2435,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_204
+- name: 🖍️308ss🇯🇵JP_204
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -2447,7 +2447,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_205
+- name: 🖍️308ss🇯🇵JP_205
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -2459,7 +2459,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_206
+- name: 🖍️308ss🇯🇵JP_206
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -2471,7 +2471,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_207
+- name: 🖍️308ss🇯🇵JP_207
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -2483,7 +2483,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_208
+- name: 🖍️308ss🇯🇵JP_208
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -2495,7 +2495,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_209
+- name: 🖍️308ss🇯🇵JP_209
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -2507,7 +2507,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_210
+- name: 🖍️308ss🇯🇵JP_210
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -2519,7 +2519,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_211
+- name: 🖍️308ss🇯🇵JP_211
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -2531,7 +2531,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_212
+- name: 🖍️308ss🇯🇵JP_212
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -2543,7 +2543,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_213
+- name: 🖍️308ss🇯🇵JP_213
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -2555,7 +2555,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_214
+- name: 🖍️308ss🇯🇵JP_214
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -2567,7 +2567,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_215
+- name: 🖍️308ss🇯🇵JP_215
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -2579,7 +2579,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_216
+- name: 🖍️308ss🇯🇵JP_216
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -2591,7 +2591,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_217
+- name: 🖍️308ss🇯🇵JP_217
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -2603,7 +2603,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_218
+- name: 🖍️308ss🇯🇵JP_218
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -2615,7 +2615,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_219
+- name: 🖍️308ss🇯🇵JP_219
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -2627,7 +2627,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_220
+- name: 🖍️308ss🇯🇵JP_220
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -2639,7 +2639,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_221
+- name: 🖍️308ss🇯🇵JP_221
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -2651,7 +2651,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_222
+- name: 🖍️308ss🇯🇵JP_222
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -2663,7 +2663,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_223
+- name: 🖍️308ss🇯🇵JP_223
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -2675,7 +2675,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_224
+- name: 🖍️308ss🇯🇵JP_224
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -2687,7 +2687,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)feb7fa9:154948
-- name: 🧎🏻‍♀308ss🇯🇵JP_225
+- name: 🖍️308ss🇯🇵JP_225
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -2699,7 +2699,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_226
+- name: 🖍️308ss🇯🇵JP_226
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -2711,7 +2711,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_227
+- name: 🖍️308ss🇯🇵JP_227
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -2723,7 +2723,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_228
+- name: 🖍️308ss🇯🇵JP_228
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -2735,7 +2735,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_229
+- name: 🖍️308ss🇯🇵JP_229
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -2747,7 +2747,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_230
+- name: 🖍️308ss🇯🇵JP_230
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -2759,7 +2759,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_231
+- name: 🖍️308ss🇯🇵JP_231
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -2771,7 +2771,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_232
+- name: 🖍️308ss🇯🇵JP_232
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -2783,7 +2783,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_233
+- name: 🖍️308ss🇯🇵JP_233
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -2795,7 +2795,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_234
+- name: 🖍️308ss🇯🇵JP_234
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -2807,7 +2807,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_235
+- name: 🖍️308ss🇯🇵JP_235
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -2819,7 +2819,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_236
+- name: 🖍️308ss🇯🇵JP_236
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -2831,7 +2831,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_237
+- name: 🖍️308ss🇯🇵JP_237
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -2843,7 +2843,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_238
+- name: 🖍️308ss🇯🇵JP_238
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -2855,7 +2855,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_239
+- name: 🖍️308ss🇯🇵JP_239
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -2867,7 +2867,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_240
+- name: 🖍️308ss🇯🇵JP_240
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -2879,7 +2879,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_241
+- name: 🖍️308ss🇯🇵JP_241
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -2891,7 +2891,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_242
+- name: 🖍️308ss🇯🇵JP_242
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -2903,7 +2903,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_243
+- name: 🖍️308ss🇯🇵JP_243
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -2915,7 +2915,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_244
+- name: 🖍️308ss🇯🇵JP_244
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -2927,7 +2927,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_245
+- name: 🖍️308ss🇯🇵JP_245
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -2939,7 +2939,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_246
+- name: 🖍️308ss🇯🇵JP_246
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -2951,7 +2951,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_247
+- name: 🖍️308ss🇯🇵JP_247
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -2963,7 +2963,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_248
+- name: 🖍️308ss🇯🇵JP_248
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -2975,7 +2975,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_249
+- name: 🖍️308ss🇯🇵JP_249
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -2987,7 +2987,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_250
+- name: 🖍️308ss🇯🇵JP_250
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -2999,7 +2999,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_251
+- name: 🖍️308ss🇯🇵JP_251
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -3011,7 +3011,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_252
+- name: 🖍️308ss🇯🇵JP_252
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -3023,7 +3023,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)16a89ef:154955
-- name: 🧎🏻‍♀308ss🇯🇵JP_253
+- name: 🖍️308ss🇯🇵JP_253
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -3035,7 +3035,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_254
+- name: 🖍️308ss🇯🇵JP_254
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -3047,7 +3047,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_255
+- name: 🖍️308ss🇯🇵JP_255
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -3059,7 +3059,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_256
+- name: 🖍️308ss🇯🇵JP_256
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -3071,7 +3071,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_257
+- name: 🖍️308ss🇯🇵JP_257
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -3083,7 +3083,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_258
+- name: 🖍️308ss🇯🇵JP_258
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -3095,7 +3095,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_259
+- name: 🖍️308ss🇯🇵JP_259
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -3107,7 +3107,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_260
+- name: 🖍️308ss🇯🇵JP_260
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -3119,7 +3119,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_261
+- name: 🖍️308ss🇯🇵JP_261
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -3131,7 +3131,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_262
+- name: 🖍️308ss🇯🇵JP_262
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -3143,7 +3143,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_263
+- name: 🖍️308ss🇯🇵JP_263
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -3155,7 +3155,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_264
+- name: 🖍️308ss🇯🇵JP_264
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -3167,7 +3167,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_265
+- name: 🖍️308ss🇯🇵JP_265
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -3179,7 +3179,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_266
+- name: 🖍️308ss🇯🇵JP_266
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -3191,7 +3191,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_267
+- name: 🖍️308ss🇯🇵JP_267
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -3203,7 +3203,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_268
+- name: 🖍️308ss🇯🇵JP_268
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -3215,7 +3215,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_269
+- name: 🖍️308ss🇯🇵JP_269
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -3227,7 +3227,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_270
+- name: 🖍️308ss🇯🇵JP_270
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -3239,7 +3239,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_271
+- name: 🖍️308ss🇯🇵JP_271
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -3251,7 +3251,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_272
+- name: 🖍️308ss🇯🇵JP_272
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -3263,7 +3263,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_273
+- name: 🖍️308ss🇯🇵JP_273
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -3275,7 +3275,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_274
+- name: 🖍️308ss🇯🇵JP_274
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -3287,7 +3287,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_275
+- name: 🖍️308ss🇯🇵JP_275
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -3299,7 +3299,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_276
+- name: 🖍️308ss🇯🇵JP_276
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -3311,7 +3311,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_277
+- name: 🖍️308ss🇯🇵JP_277
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -3323,7 +3323,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_278
+- name: 🖍️308ss🇯🇵JP_278
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -3335,7 +3335,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_279
+- name: 🖍️308ss🇯🇵JP_279
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -3347,7 +3347,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_280
+- name: 🖍️308ss🇯🇵JP_280
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
@@ -3359,7 +3359,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)10805ea:185672
-- name: 🧎🏻‍♀308ss🇯🇵JP_281
+- name: 🖍️308ss🇯🇵JP_281
   server: 13.115.154.194
   port: 2377
   client-fingerprint: chrome
@@ -3371,7 +3371,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_282
+- name: 🖍️308ss🇯🇵JP_282
   server: 35.74.22.138
   port: 2377
   client-fingerprint: chrome
@@ -3383,7 +3383,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_283
+- name: 🖍️308ss🇯🇵JP_283
   server: 172.237.6.53
   port: 2377
   client-fingerprint: chrome
@@ -3395,7 +3395,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_284
+- name: 🖍️308ss🇯🇵JP_284
   server: 52.195.160.228
   port: 2377
   client-fingerprint: chrome
@@ -3407,7 +3407,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_285
+- name: 🖍️308ss🇯🇵JP_285
   server: 172.237.11.141
   port: 2377
   client-fingerprint: chrome
@@ -3419,7 +3419,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_286
+- name: 🖍️308ss🇯🇵JP_286
   server: 172.237.11.224
   port: 2377
   client-fingerprint: chrome
@@ -3431,7 +3431,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_287
+- name: 🖍️308ss🇯🇵JP_287
   server: 172.237.11.230
   port: 2377
   client-fingerprint: chrome
@@ -3443,7 +3443,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_288
+- name: 🖍️308ss🇯🇵JP_288
   server: 18.177.142.32
   port: 2377
   client-fingerprint: chrome
@@ -3455,7 +3455,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_289
+- name: 🖍️308ss🇯🇵JP_289
   server: 18.179.16.135
   port: 2377
   client-fingerprint: chrome
@@ -3467,7 +3467,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_290
+- name: 🖍️308ss🇯🇵JP_290
   server: 18.179.37.79
   port: 2377
   client-fingerprint: chrome
@@ -3479,7 +3479,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_291
+- name: 🖍️308ss🇯🇵JP_291
   server: 18.179.58.237
   port: 2377
   client-fingerprint: chrome
@@ -3491,7 +3491,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_292
+- name: 🖍️308ss🇯🇵JP_292
   server: 52.199.164.162
   port: 2377
   client-fingerprint: chrome
@@ -3503,7 +3503,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_293
+- name: 🖍️308ss🇯🇵JP_293
   server: 52.199.249.206
   port: 2377
   client-fingerprint: chrome
@@ -3515,7 +3515,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_294
+- name: 🖍️308ss🇯🇵JP_294
   server: 54.178.26.105
   port: 2377
   client-fingerprint: chrome
@@ -3527,7 +3527,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_295
+- name: 🖍️308ss🇯🇵JP_295
   server: 54.249.220.208
   port: 2377
   client-fingerprint: chrome
@@ -3539,7 +3539,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_296
+- name: 🖍️308ss🇯🇵JP_296
   server: 54.250.34.221
   port: 2377
   client-fingerprint: chrome
@@ -3551,7 +3551,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_297
+- name: 🖍️308ss🇯🇵JP_297
   server: 54.95.215.125
   port: 2377
   client-fingerprint: chrome
@@ -3563,7 +3563,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_298
+- name: 🖍️308ss🇯🇵JP_298
   server: 13.114.31.41
   port: 2377
   client-fingerprint: chrome
@@ -3575,7 +3575,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_299
+- name: 🖍️308ss🇯🇵JP_299
   server: 13.231.106.60
   port: 2377
   client-fingerprint: chrome
@@ -3587,7 +3587,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_300
+- name: 🖍️308ss🇯🇵JP_300
   server: 18.183.87.73
   port: 2377
   client-fingerprint: chrome
@@ -3599,7 +3599,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_301
+- name: 🖍️308ss🇯🇵JP_301
   server: 54.178.71.192
   port: 2377
   client-fingerprint: chrome
@@ -3611,7 +3611,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_302
+- name: 🖍️308ss🇯🇵JP_302
   server: 13.230.213.154
   port: 2377
   client-fingerprint: chrome
@@ -3623,7 +3623,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_303
+- name: 🖍️308ss🇯🇵JP_303
   server: 18.181.146.122
   port: 2377
   client-fingerprint: chrome
@@ -3635,7 +3635,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_304
+- name: 🖍️308ss🇯🇵JP_304
   server: 35.72.184.29
   port: 2377
   client-fingerprint: chrome
@@ -3647,7 +3647,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_305
+- name: 🖍️308ss🇯🇵JP_305
   server: 43.207.207.206
   port: 2377
   client-fingerprint: chrome
@@ -3659,7 +3659,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_306
+- name: 🖍️308ss🇯🇵JP_306
   server: 54.64.148.82
   port: 2377
   client-fingerprint: chrome
@@ -3671,7 +3671,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_307
+- name: 🖍️308ss🇯🇵JP_307
   server: 54.249.79.143
   port: 2377
   client-fingerprint: chrome
@@ -3683,7 +3683,7 @@ proxies:
   plugin-opts:
     mode: tls
     host: (TG @WangCai2)db5fe62:193531
-- name: 🧎🏻‍♀308ss🇯🇵JP_308
+- name: 🖍️308ss🇯🇵JP_308
   server: 18.179.197.162
   port: 2377
   client-fingerprint: chrome
