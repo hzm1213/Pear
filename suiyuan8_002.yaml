@@ -1,10 +1,10 @@
 proxies:
-- name: 👨🏾‍💻256vless🇭🇰HK_000
+- name: 🚸256vless🇭🇰HK_000
   server: 156.238.18.0
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -13,13 +13,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_001
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_001
   server: 156.238.18.1
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -28,13 +28,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_002
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_002
   server: 156.238.18.2
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -43,13 +43,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_003
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_003
   server: 156.238.18.3
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -58,13 +58,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_004
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_004
   server: 156.238.18.4
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -73,13 +73,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_005
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_005
   server: 156.238.18.5
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -88,13 +88,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_006
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_006
   server: 156.238.18.6
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -103,13 +103,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_007
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_007
   server: 156.238.18.7
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -118,13 +118,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_008
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_008
   server: 156.238.18.8
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -133,13 +133,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_009
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_009
   server: 156.238.18.9
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -148,13 +148,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_010
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_010
   server: 156.238.18.10
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -163,13 +163,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_011
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_011
   server: 156.238.18.11
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -178,13 +178,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_012
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_012
   server: 156.238.18.12
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -193,13 +193,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_013
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_013
   server: 156.238.18.13
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -208,13 +208,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_014
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_014
   server: 156.238.18.14
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -223,13 +223,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_015
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_015
   server: 156.238.18.15
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -238,13 +238,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_016
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_016
   server: 156.238.18.16
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -253,13 +253,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_017
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_017
   server: 156.238.18.17
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -268,13 +268,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_018
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_018
   server: 156.238.18.18
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -283,13 +283,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_019
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_019
   server: 156.238.18.19
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -298,13 +298,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_020
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_020
   server: 156.238.18.20
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -313,13 +313,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_021
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_021
   server: 156.238.18.21
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -328,13 +328,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_022
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_022
   server: 156.238.18.22
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -343,13 +343,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_023
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_023
   server: 156.238.18.23
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -358,13 +358,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_024
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_024
   server: 156.238.18.24
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -373,13 +373,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_025
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_025
   server: 156.238.18.25
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -388,13 +388,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_026
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_026
   server: 156.238.18.26
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -403,13 +403,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_027
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_027
   server: 156.238.18.27
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -418,13 +418,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_028
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_028
   server: 156.238.18.28
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -433,13 +433,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_029
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_029
   server: 156.238.18.29
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -448,13 +448,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_030
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_030
   server: 156.238.18.30
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -463,13 +463,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_031
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_031
   server: 156.238.18.31
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -478,13 +478,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_032
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_032
   server: 156.238.18.32
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -493,13 +493,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_033
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_033
   server: 156.238.18.33
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -508,13 +508,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_034
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_034
   server: 156.238.18.34
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -523,13 +523,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_035
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_035
   server: 156.238.18.35
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -538,13 +538,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_036
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_036
   server: 156.238.18.36
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -553,13 +553,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_037
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_037
   server: 156.238.18.37
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -568,13 +568,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_038
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_038
   server: 156.238.18.38
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -583,13 +583,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_039
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_039
   server: 156.238.18.39
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -598,13 +598,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_040
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_040
   server: 156.238.18.40
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -613,13 +613,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_041
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_041
   server: 156.238.18.41
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -628,13 +628,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_042
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_042
   server: 156.238.18.42
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -643,13 +643,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_043
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_043
   server: 156.238.18.43
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -658,13 +658,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_044
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_044
   server: 156.238.18.44
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -673,13 +673,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_045
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_045
   server: 156.238.18.45
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -688,13 +688,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_046
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_046
   server: 156.238.18.46
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -703,13 +703,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_047
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_047
   server: 156.238.18.47
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -718,13 +718,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_048
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_048
   server: 156.238.18.48
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -733,13 +733,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_049
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_049
   server: 156.238.18.49
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -748,13 +748,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_050
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_050
   server: 156.238.18.50
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -763,13 +763,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_051
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_051
   server: 156.238.18.51
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -778,13 +778,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_052
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_052
   server: 156.238.18.52
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -793,13 +793,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_053
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_053
   server: 156.238.18.53
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -808,13 +808,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_054
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_054
   server: 156.238.18.54
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -823,13 +823,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_055
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_055
   server: 156.238.18.55
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -838,13 +838,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_056
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_056
   server: 156.238.18.56
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -853,13 +853,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_057
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_057
   server: 156.238.18.57
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -868,13 +868,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_058
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_058
   server: 156.238.18.58
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -883,13 +883,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_059
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_059
   server: 156.238.18.59
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -898,13 +898,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_060
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_060
   server: 156.238.18.60
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -913,13 +913,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_061
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_061
   server: 156.238.18.61
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -928,13 +928,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_062
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_062
   server: 156.238.18.62
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -943,13 +943,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_063
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_063
   server: 156.238.18.63
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -958,13 +958,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_064
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_064
   server: 156.238.18.64
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -973,13 +973,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_065
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_065
   server: 156.238.18.65
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -988,13 +988,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_066
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_066
   server: 156.238.18.66
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1003,13 +1003,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_067
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_067
   server: 156.238.18.67
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1018,13 +1018,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_068
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_068
   server: 156.238.18.68
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1033,13 +1033,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_069
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_069
   server: 156.238.18.69
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1048,13 +1048,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_070
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_070
   server: 156.238.18.70
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1063,13 +1063,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_071
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_071
   server: 156.238.18.71
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1078,13 +1078,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_072
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_072
   server: 156.238.18.72
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1093,13 +1093,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_073
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_073
   server: 156.238.18.73
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1108,13 +1108,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_074
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_074
   server: 156.238.18.74
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1123,13 +1123,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_075
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_075
   server: 156.238.18.75
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1138,13 +1138,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_076
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_076
   server: 156.238.18.76
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1153,13 +1153,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_077
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_077
   server: 156.238.18.77
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1168,13 +1168,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_078
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_078
   server: 156.238.18.78
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1183,13 +1183,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_079
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_079
   server: 156.238.18.79
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1198,13 +1198,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_080
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_080
   server: 156.238.18.80
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1213,13 +1213,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_081
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_081
   server: 156.238.18.81
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1228,13 +1228,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_082
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_082
   server: 156.238.18.82
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1243,13 +1243,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_083
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_083
   server: 156.238.18.83
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1258,13 +1258,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_084
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_084
   server: 156.238.18.84
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1273,13 +1273,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_085
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_085
   server: 156.238.18.85
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1288,13 +1288,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_086
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_086
   server: 156.238.18.86
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1303,13 +1303,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_087
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_087
   server: 156.238.18.87
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1318,13 +1318,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_088
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_088
   server: 156.238.18.88
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1333,13 +1333,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_089
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_089
   server: 156.238.18.89
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1348,13 +1348,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_090
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_090
   server: 156.238.18.90
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1363,13 +1363,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_091
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_091
   server: 156.238.18.91
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1378,13 +1378,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_092
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_092
   server: 156.238.18.92
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1393,13 +1393,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_093
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_093
   server: 156.238.18.93
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1408,13 +1408,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_094
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_094
   server: 156.238.18.94
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1423,13 +1423,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_095
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_095
   server: 156.238.18.95
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1438,13 +1438,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_096
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_096
   server: 156.238.18.96
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1453,13 +1453,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_097
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_097
   server: 156.238.18.97
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1468,13 +1468,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_098
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_098
   server: 156.238.18.98
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1483,13 +1483,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_099
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_099
   server: 156.238.18.99
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1498,13 +1498,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_100
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_100
   server: 156.238.18.100
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1513,13 +1513,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_101
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_101
   server: 156.238.18.101
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1528,13 +1528,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_102
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_102
   server: 156.238.18.102
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1543,13 +1543,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_103
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_103
   server: 156.238.18.103
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1558,13 +1558,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_104
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_104
   server: 156.238.18.104
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1573,13 +1573,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_105
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_105
   server: 156.238.18.105
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1588,13 +1588,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_106
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_106
   server: 156.238.18.106
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1603,13 +1603,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_107
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_107
   server: 156.238.18.107
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1618,13 +1618,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_108
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_108
   server: 156.238.18.108
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1633,13 +1633,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_109
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_109
   server: 156.238.18.109
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1648,13 +1648,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_110
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_110
   server: 156.238.18.110
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1663,13 +1663,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_111
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_111
   server: 156.238.18.111
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1678,13 +1678,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_112
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_112
   server: 156.238.18.112
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1693,13 +1693,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_113
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_113
   server: 156.238.18.113
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1708,13 +1708,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_114
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_114
   server: 156.238.18.114
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1723,13 +1723,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_115
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_115
   server: 156.238.18.115
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1738,13 +1738,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_116
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_116
   server: 156.238.18.116
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1753,13 +1753,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_117
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_117
   server: 156.238.18.117
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1768,13 +1768,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_118
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_118
   server: 156.238.18.118
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1783,13 +1783,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_119
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_119
   server: 156.238.18.119
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1798,13 +1798,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_120
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_120
   server: 156.238.18.120
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1813,13 +1813,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_121
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_121
   server: 156.238.18.121
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1828,13 +1828,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_122
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_122
   server: 156.238.18.122
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1843,13 +1843,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_123
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_123
   server: 156.238.18.123
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1858,13 +1858,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_124
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_124
   server: 156.238.18.124
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1873,13 +1873,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_125
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_125
   server: 156.238.18.125
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1888,13 +1888,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_126
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_126
   server: 156.238.18.126
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1903,13 +1903,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_127
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_127
   server: 156.238.18.127
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1918,13 +1918,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_128
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_128
   server: 156.238.18.128
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1933,13 +1933,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_129
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_129
   server: 156.238.18.129
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1948,13 +1948,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_130
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_130
   server: 156.238.18.130
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1963,13 +1963,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_131
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_131
   server: 156.238.18.131
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1978,13 +1978,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_132
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_132
   server: 156.238.18.132
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -1993,13 +1993,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_133
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_133
   server: 156.238.18.133
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2008,13 +2008,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_134
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_134
   server: 156.238.18.134
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2023,13 +2023,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_135
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_135
   server: 156.238.18.135
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2038,13 +2038,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_136
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_136
   server: 156.238.18.136
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2053,13 +2053,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_137
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_137
   server: 156.238.18.137
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2068,13 +2068,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_138
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_138
   server: 156.238.18.138
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2083,13 +2083,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_139
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_139
   server: 156.238.18.139
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2098,13 +2098,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_140
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_140
   server: 156.238.18.140
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2113,13 +2113,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_141
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_141
   server: 156.238.18.141
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2128,13 +2128,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_142
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_142
   server: 156.238.18.142
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2143,13 +2143,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_143
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_143
   server: 156.238.18.143
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2158,13 +2158,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_144
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_144
   server: 156.238.18.144
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2173,13 +2173,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_145
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_145
   server: 156.238.18.145
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2188,13 +2188,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_146
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_146
   server: 156.238.18.146
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2203,13 +2203,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_147
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_147
   server: 156.238.18.147
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2218,13 +2218,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_148
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_148
   server: 156.238.18.148
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2233,13 +2233,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_149
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_149
   server: 156.238.18.149
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2248,13 +2248,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_150
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_150
   server: 156.238.18.150
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2263,13 +2263,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_151
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_151
   server: 156.238.18.151
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2278,13 +2278,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_152
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_152
   server: 156.238.18.152
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2293,13 +2293,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_153
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_153
   server: 156.238.18.153
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2308,13 +2308,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_154
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_154
   server: 156.238.18.154
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2323,13 +2323,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_155
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_155
   server: 156.238.18.155
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2338,13 +2338,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_156
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_156
   server: 156.238.18.156
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2353,13 +2353,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_157
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_157
   server: 156.238.18.157
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2368,13 +2368,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_158
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_158
   server: 156.238.18.158
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2383,13 +2383,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_159
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_159
   server: 156.238.18.159
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2398,13 +2398,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_160
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_160
   server: 156.238.18.160
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2413,13 +2413,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_161
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_161
   server: 156.238.18.161
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2428,13 +2428,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_162
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_162
   server: 156.238.18.162
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2443,13 +2443,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_163
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_163
   server: 156.238.18.163
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2458,13 +2458,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_164
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_164
   server: 156.238.18.164
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2473,13 +2473,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_165
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_165
   server: 156.238.18.165
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2488,13 +2488,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_166
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_166
   server: 156.238.18.166
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2503,13 +2503,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_167
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_167
   server: 156.238.18.167
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2518,13 +2518,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_168
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_168
   server: 156.238.18.168
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2533,13 +2533,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_169
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_169
   server: 156.238.18.169
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2548,13 +2548,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_170
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_170
   server: 156.238.18.170
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2563,13 +2563,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_171
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_171
   server: 156.238.18.171
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2578,13 +2578,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_172
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_172
   server: 156.238.18.172
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2593,13 +2593,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_173
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_173
   server: 156.238.18.173
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2608,13 +2608,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_174
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_174
   server: 156.238.18.174
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2623,13 +2623,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_175
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_175
   server: 156.238.18.175
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2638,13 +2638,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_176
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_176
   server: 156.238.18.176
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2653,13 +2653,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_177
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_177
   server: 156.238.18.177
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2668,13 +2668,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_178
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_178
   server: 156.238.18.178
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2683,13 +2683,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_179
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_179
   server: 156.238.18.179
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2698,13 +2698,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_180
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_180
   server: 156.238.18.180
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2713,13 +2713,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_181
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_181
   server: 156.238.18.181
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2728,13 +2728,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_182
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_182
   server: 156.238.18.182
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2743,13 +2743,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_183
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_183
   server: 156.238.18.183
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2758,13 +2758,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_184
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_184
   server: 156.238.18.184
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2773,13 +2773,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_185
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_185
   server: 156.238.18.185
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2788,13 +2788,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_186
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_186
   server: 156.238.18.186
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2803,13 +2803,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_187
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_187
   server: 156.238.18.187
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2818,13 +2818,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_188
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_188
   server: 156.238.18.188
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2833,13 +2833,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_189
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_189
   server: 156.238.18.189
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2848,13 +2848,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_190
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_190
   server: 156.238.18.190
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2863,13 +2863,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_191
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_191
   server: 156.238.18.191
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2878,13 +2878,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_192
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_192
   server: 156.238.18.192
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2893,13 +2893,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_193
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_193
   server: 156.238.18.193
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2908,13 +2908,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_194
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_194
   server: 156.238.18.194
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2923,13 +2923,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_195
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_195
   server: 156.238.18.195
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2938,13 +2938,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_196
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_196
   server: 156.238.18.196
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2953,13 +2953,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_197
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_197
   server: 156.238.18.197
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2968,13 +2968,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_198
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_198
   server: 156.238.18.198
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2983,13 +2983,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_199
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_199
   server: 156.238.18.199
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -2998,13 +2998,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_200
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_200
   server: 156.238.18.200
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3013,13 +3013,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_201
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_201
   server: 156.238.18.201
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3028,13 +3028,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_202
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_202
   server: 156.238.18.202
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3043,13 +3043,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_203
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_203
   server: 156.238.18.203
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3058,13 +3058,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_204
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_204
   server: 156.238.18.204
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3073,13 +3073,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_205
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_205
   server: 156.238.18.205
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3088,13 +3088,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_206
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_206
   server: 156.238.18.206
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3103,13 +3103,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_207
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_207
   server: 156.238.18.207
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3118,13 +3118,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_208
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_208
   server: 156.238.18.208
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3133,13 +3133,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_209
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_209
   server: 156.238.18.209
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3148,13 +3148,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_210
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_210
   server: 156.238.18.210
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3163,13 +3163,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_211
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_211
   server: 156.238.18.211
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3178,13 +3178,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_212
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_212
   server: 156.238.18.212
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3193,13 +3193,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_213
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_213
   server: 156.238.18.213
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3208,13 +3208,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_214
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_214
   server: 156.238.18.214
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3223,13 +3223,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_215
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_215
   server: 156.238.18.215
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3238,13 +3238,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_216
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_216
   server: 156.238.18.216
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3253,13 +3253,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_217
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_217
   server: 156.238.18.217
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3268,13 +3268,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_218
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_218
   server: 156.238.18.218
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3283,13 +3283,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_219
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_219
   server: 156.238.18.219
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3298,13 +3298,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_220
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_220
   server: 156.238.18.220
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3313,13 +3313,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_221
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_221
   server: 156.238.18.221
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3328,13 +3328,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_222
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_222
   server: 156.238.18.222
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3343,13 +3343,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_223
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_223
   server: 156.238.18.223
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3358,13 +3358,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_224
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_224
   server: 156.238.18.224
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3373,13 +3373,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_225
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_225
   server: 156.238.18.225
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3388,13 +3388,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_226
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_226
   server: 156.238.18.226
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3403,13 +3403,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_227
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_227
   server: 156.238.18.227
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3418,13 +3418,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_228
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_228
   server: 156.238.18.228
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3433,13 +3433,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_229
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_229
   server: 156.238.18.229
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3448,13 +3448,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_230
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_230
   server: 156.238.18.230
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3463,13 +3463,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_231
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_231
   server: 156.238.18.231
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3478,13 +3478,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_232
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_232
   server: 156.238.18.232
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3493,13 +3493,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_233
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_233
   server: 156.238.18.233
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3508,13 +3508,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_234
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_234
   server: 156.238.18.234
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3523,13 +3523,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_235
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_235
   server: 156.238.18.235
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3538,13 +3538,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_236
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_236
   server: 156.238.18.236
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3553,13 +3553,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_237
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_237
   server: 156.238.18.237
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3568,13 +3568,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_238
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_238
   server: 156.238.18.238
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3583,13 +3583,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_239
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_239
   server: 156.238.18.239
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3598,13 +3598,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_240
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_240
   server: 156.238.18.240
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3613,13 +3613,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_241
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_241
   server: 156.238.18.241
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3628,13 +3628,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_242
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_242
   server: 156.238.18.242
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3643,13 +3643,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_243
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_243
   server: 156.238.18.243
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3658,13 +3658,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_244
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_244
   server: 156.238.18.244
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3673,13 +3673,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_245
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_245
   server: 156.238.18.245
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3688,13 +3688,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_246
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_246
   server: 156.238.18.246
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3703,13 +3703,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_247
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_247
   server: 156.238.18.247
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3718,13 +3718,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_248
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_248
   server: 156.238.18.248
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3733,13 +3733,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_249
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_249
   server: 156.238.18.249
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3748,13 +3748,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_250
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_250
   server: 156.238.18.250
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3763,13 +3763,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_251
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_251
   server: 156.238.18.251
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3778,13 +3778,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_252
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_252
   server: 156.238.18.252
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3793,13 +3793,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_253
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_253
   server: 156.238.18.253
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3808,13 +3808,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_254
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_254
   server: 156.238.18.254
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3823,13 +3823,13 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
-- name: 👨🏾‍💻256vless🇭🇰HK_255
+      Host: ip.langmanshanxi.top
+- name: 🚸256vless🇭🇰HK_255
   server: 156.238.18.255
   port: 8880
   client-fingerprint: chrome
   type: vless
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  uuid: 583ceab3-4022-4553-9158-9bedc625ad4e
   tls: false
   tfo: false
   servername: Telegram-channel-WangCai2
@@ -3838,4 +3838,4 @@ proxies:
   ws-opts:
     path: Telegram🇨🇳 @WangCai2 /?ed=2560
     headers:
-      Host: kjgx.laoyoutiao.link
+      Host: ip.langmanshanxi.top
