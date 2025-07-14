@@ -25,8 +25,18 @@ jobs:
 
     - name: Clean old generated files from git and workspace
       run: |
-        git ls-files suiyuan8_*.yaml | xargs git rm -f
+        # 删除 git 追踪文件
+        git ls-files suiyuan8_*.yaml | xargs -r git rm -f
+        # 删除 workspace 文件
         rm -f suiyuan8_*.yaml
+        # 暂存删除
+        git add -A
+
+    - name: Pull latest before processing
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git pull --rebase origin main
 
     - name: Clone upstream suiyuan8/clash repository
       run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
@@ -42,17 +52,6 @@ jobs:
       run: |
         count=$(ls -1 suiyuan8_*.yaml 2>/dev/null | wc -l)
         echo "count=$count" >> $GITHUB_OUTPUT
-
-    - name: Configure git
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-
-    - name: Stash changes, pull rebase, and pop changes back
-      run: |
-        git stash
-        git pull --rebase origin main
-        git stash pop || echo "No stash to pop"
 
     - name: Update .last_count and send Telegram notification if changed
       env:
