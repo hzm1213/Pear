@@ -1,4 +1,4 @@
-name: Sync and Process Clash Proxies with Telegram Notification (Merged Commit with Stash)
+name: Sync and Process Clash Proxies with Telegram Notification (Merged Commit with Clean Delete)
 
 on:
   schedule:
@@ -23,20 +23,20 @@ jobs:
     - name: Install dependencies
       run: pip install pyyaml emoji
 
-    - name: Clean old generated files from git and workspace
-      run: |
-        # 删除 git 追踪文件
-        git ls-files suiyuan8_*.yaml | xargs -r git rm -f
-        # 删除 workspace 文件
-        rm -f suiyuan8_*.yaml
-        # 暂存删除
-        git add -A
-
-    - name: Pull latest before processing
+    - name: Configure git
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git pull --rebase origin main
+
+    - name: Clean old generated files from git and workspace
+      run: |
+        git ls-files suiyuan8_*.yaml | xargs -r git rm -f
+        rm -f suiyuan8_*.yaml
+        git add -A
+        git commit -m "🗑️ 删除旧的 suiyuan8 文件" || echo "No old files to delete"
+
+    - name: Pull latest changes with rebase
+      run: git pull --rebase origin main
 
     - name: Clone upstream suiyuan8/clash repository
       run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
