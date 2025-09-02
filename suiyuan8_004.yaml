@@ -1,0 +1,3973 @@
+proxies:
+- name: ⛹‍♂331trojan🇺🇸US_001
+  server: 216.205.52.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_002
+  server: 216.24.57.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_003
+  server: 213.241.198.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_004
+  server: 213.219.247.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_005
+  server: 213.182.199.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_006
+  server: 212.183.88.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_007
+  server: 209.94.90.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_008
+  server: 209.46.30.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_009
+  server: 205.233.181.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_010
+  server: 204.93.210.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_011
+  server: 199.181.197.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_012
+  server: 199.68.156.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_013
+  server: 199.34.230.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_014
+  server: 199.34.229.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_015
+  server: 199.34.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_016
+  server: 198.202.211.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_017
+  server: 198.177.57.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_018
+  server: 198.177.56.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_019
+  server: 198.71.233.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_020
+  server: 198.71.232.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_021
+  server: 198.71.191.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_022
+  server: 198.71.190.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_023
+  server: 198.71.189.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_024
+  server: 198.71.188.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_025
+  server: 198.62.62.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_026
+  server: 198.12.145.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_027
+  server: 198.12.144.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_028
+  server: 195.245.221.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_029
+  server: 195.85.59.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_030
+  server: 195.85.23.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_031
+  server: 195.26.229.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_032
+  server: 195.13.55.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_033
+  server: 195.13.54.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_034
+  server: 195.13.45.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_035
+  server: 195.13.44.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_036
+  server: 194.152.44.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_037
+  server: 194.76.18.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_038
+  server: 194.59.5.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_039
+  server: 194.53.53.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_040
+  server: 194.36.55.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_041
+  server: 193.233.132.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_042
+  server: 193.233.21.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_043
+  server: 193.227.99.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_044
+  server: 193.124.224.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_045
+  server: 193.124.18.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_046
+  server: 193.9.49.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_047
+  server: 192.200.160.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_048
+  server: 192.169.223.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_049
+  server: 192.169.222.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_050
+  server: 192.169.221.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_051
+  server: 192.169.220.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_052
+  server: 192.65.217.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_053
+  server: 192.0.63.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_054
+  server: 192.0.54.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_055
+  server: 190.93.247.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_056
+  server: 190.93.246.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_057
+  server: 190.93.245.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_058
+  server: 190.93.244.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_059
+  server: 188.244.122.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_060
+  server: 188.164.248.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_061
+  server: 188.164.159.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_062
+  server: 188.164.158.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_063
+  server: 188.42.145.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_064
+  server: 188.42.89.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_065
+  server: 188.42.88.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_066
+  server: 185.251.83.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_067
+  server: 185.251.82.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_068
+  server: 185.251.81.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_069
+  server: 185.251.80.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_070
+  server: 185.238.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_071
+  server: 185.225.195.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_072
+  server: 185.221.160.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_073
+  server: 185.207.199.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_074
+  server: 185.207.198.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_075
+  server: 185.207.197.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_076
+  server: 185.207.196.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_077
+  server: 185.193.31.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_078
+  server: 185.193.30.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_079
+  server: 185.193.29.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_080
+  server: 185.193.28.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_081
+  server: 185.176.26.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_082
+  server: 185.176.24.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_083
+  server: 185.174.138.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_084
+  server: 185.170.166.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_085
+  server: 185.162.231.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_086
+  server: 185.162.230.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_087
+  server: 185.162.229.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_088
+  server: 185.162.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_089
+  server: 185.159.247.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_090
+  server: 185.158.133.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_091
+  server: 185.156.19.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_092
+  server: 185.149.135.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_093
+  server: 185.148.107.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_094
+  server: 185.148.106.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_095
+  server: 185.148.105.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_096
+  server: 185.148.104.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_097
+  server: 185.135.9.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_098
+  server: 185.133.35.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_099
+  server: 185.59.218.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_100
+  server: 185.18.250.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_101
+  server: 185.18.184.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_102
+  server: 185.16.110.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_103
+  server: 185.7.240.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_104
+  server: 184.174.80.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_105
+  server: 184.168.47.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_106
+  server: 181.214.1.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_107
+  server: 176.124.223.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_108
+  server: 170.114.46.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_109
+  server: 170.114.45.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_110
+  server: 168.100.6.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_111
+  server: 167.68.42.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_112
+  server: 167.68.11.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_113
+  server: 167.68.5.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_114
+  server: 167.68.4.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_115
+  server: 166.62.115.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_116
+  server: 166.62.114.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_117
+  server: 166.62.113.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_118
+  server: 166.62.112.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_119
+  server: 166.62.111.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_120
+  server: 166.62.110.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_121
+  server: 166.62.109.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_122
+  server: 166.62.108.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_123
+  server: 166.62.107.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_124
+  server: 166.62.106.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_125
+  server: 166.62.105.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_126
+  server: 166.62.104.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_127
+  server: 164.38.155.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_128
+  server: 162.251.82.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_129
+  server: 162.120.94.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_130
+  server: 161.145.150.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_131
+  server: 160.153.168.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_132
+  server: 160.153.138.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_133
+  server: 160.153.137.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_134
+  server: 160.153.136.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_135
+  server: 160.153.1.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_136
+  server: 160.153.0.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_137
+  server: 160.79.105.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_138
+  server: 160.79.104.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_139
+  server: 159.246.55.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_140
+  server: 159.242.242.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_141
+  server: 159.112.235.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_142
+  server: 156.255.123.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_143
+  server: 156.243.246.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_144
+  server: 156.243.83.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_145
+  server: 156.238.19.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_146
+  server: 156.225.72.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_147
+  server: 155.46.213.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_148
+  server: 155.46.167.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_149
+  server: 154.219.5.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_150
+  server: 154.218.15.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_151
+  server: 154.211.8.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_152
+  server: 154.206.12.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_153
+  server: 154.198.173.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_154
+  server: 154.197.121.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_155
+  server: 154.197.108.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_156
+  server: 154.197.88.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_157
+  server: 154.197.80.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_158
+  server: 154.197.75.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_159
+  server: 154.197.64.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_160
+  server: 154.194.12.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_161
+  server: 154.194.0.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_162
+  server: 154.92.9.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_163
+  server: 154.83.2.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_164
+  server: 154.81.141.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_165
+  server: 147.185.161.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_166
+  server: 147.78.140.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_167
+  server: 141.193.213.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_168
+  server: 141.193.27.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_169
+  server: 141.11.203.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_170
+  server: 141.11.202.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_171
+  server: 140.99.233.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_172
+  server: 139.64.235.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_173
+  server: 135.84.76.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_174
+  server: 135.84.73.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_175
+  server: 130.250.137.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_176
+  server: 114.129.43.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_177
+  server: 109.176.239.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_178
+  server: 108.165.216.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_179
+  server: 108.165.152.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_180
+  server: 104.254.140.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_181
+  server: 104.239.72.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_182
+  server: 104.238.71.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_183
+  server: 104.238.70.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_184
+  server: 104.238.69.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_185
+  server: 104.238.68.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_186
+  server: 104.234.239.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_187
+  server: 104.129.167.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_188
+  server: 104.129.166.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_189
+  server: 104.129.165.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_190
+  server: 104.129.164.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_191
+  server: 103.245.229.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_192
+  server: 103.245.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_193
+  server: 103.169.142.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_194
+  server: 103.160.204.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_195
+  server: 103.133.1.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_196
+  server: 103.116.7.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_197
+  server: 102.177.176.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_198
+  server: 102.132.188.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_199
+  server: 96.43.101.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_200
+  server: 96.43.100.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_201
+  server: 94.247.142.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_202
+  server: 94.140.0.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_203
+  server: 92.243.75.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_204
+  server: 92.243.74.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_205
+  server: 92.60.74.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_206
+  server: 92.53.191.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_207
+  server: 92.53.190.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_208
+  server: 92.53.189.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_209
+  server: 92.53.188.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_210
+  server: 91.209.253.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_211
+  server: 91.206.71.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_212
+  server: 91.124.127.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_213
+  server: 89.117.112.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_214
+  server: 89.116.250.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_215
+  server: 89.116.180.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_216
+  server: 89.116.161.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_217
+  server: 89.116.46.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_218
+  server: 88.216.69.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_219
+  server: 88.216.67.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_220
+  server: 88.216.66.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_221
+  server: 86.38.214.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_222
+  server: 80.93.202.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_223
+  server: 77.232.140.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_224
+  server: 77.105.163.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_225
+  server: 77.75.199.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_226
+  server: 77.74.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_227
+  server: 77.37.33.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_228
+  server: 74.49.215.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_229
+  server: 74.49.214.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_230
+  server: 72.167.243.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_231
+  server: 72.167.242.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_232
+  server: 72.167.241.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_233
+  server: 72.167.230.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_234
+  server: 72.167.25.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_235
+  server: 69.84.182.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_236
+  server: 66.235.200.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_237
+  server: 66.225.252.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_238
+  server: 66.81.247.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_239
+  server: 66.45.118.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_240
+  server: 63.141.128.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_241
+  server: 62.72.166.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_242
+  server: 50.62.198.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_243
+  server: 50.62.195.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_244
+  server: 50.62.194.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_245
+  server: 50.62.175.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_246
+  server: 50.62.174.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_247
+  server: 50.62.173.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_248
+  server: 50.62.172.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_249
+  server: 50.62.91.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_250
+  server: 50.62.90.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_251
+  server: 50.62.89.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_252
+  server: 50.62.88.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_253
+  server: 46.254.93.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_254
+  server: 46.254.92.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_255
+  server: 46.202.30.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_256
+  server: 45.205.0.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_257
+  server: 45.202.113.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_258
+  server: 45.196.29.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_259
+  server: 45.194.53.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_260
+  server: 45.194.11.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_261
+  server: 45.192.224.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_262
+  server: 45.192.223.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_263
+  server: 45.192.222.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_264
+  server: 45.159.219.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_265
+  server: 45.159.218.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_266
+  server: 45.159.217.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_267
+  server: 45.159.216.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_268
+  server: 45.153.7.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_269
+  server: 45.149.12.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_270
+  server: 45.146.201.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_271
+  server: 45.142.120.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_272
+  server: 45.135.235.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_273
+  server: 45.131.211.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_274
+  server: 45.131.210.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_275
+  server: 45.131.209.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_276
+  server: 45.131.208.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_277
+  server: 45.131.7.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_278
+  server: 45.131.6.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_279
+  server: 45.131.5.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_280
+  server: 45.131.4.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_281
+  server: 45.130.125.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_282
+  server: 45.128.76.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_283
+  server: 45.85.119.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_284
+  server: 45.85.118.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_285
+  server: 45.80.111.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_286
+  server: 45.80.110.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_287
+  server: 45.80.108.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_288
+  server: 45.67.215.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_289
+  server: 45.40.155.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_290
+  server: 45.40.154.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_291
+  server: 45.40.153.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_292
+  server: 45.40.152.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_293
+  server: 45.40.151.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_294
+  server: 45.40.150.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_295
+  server: 45.40.149.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_296
+  server: 45.40.148.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_297
+  server: 45.40.147.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_298
+  server: 45.40.146.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_299
+  server: 45.40.145.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_300
+  server: 45.40.144.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_301
+  server: 45.12.31.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_302
+  server: 45.12.30.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_303
+  server: 45.8.211.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_304
+  server: 37.153.171.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_305
+  server: 37.0.6.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_306
+  server: 31.185.108.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_307
+  server: 31.43.179.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_308
+  server: 31.12.75.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_309
+  server: 27.50.49.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_310
+  server: 27.50.48.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_311
+  server: 25.129.199.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_312
+  server: 25.129.198.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_313
+  server: 25.129.197.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_314
+  server: 25.129.196.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_315
+  server: 25.26.27.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_316
+  server: 25.25.25.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_317
+  server: 14.102.229.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_318
+  server: 14.102.228.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_319
+  server: 8.34.146.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_320
+  server: 8.34.70.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_321
+  server: 8.6.112.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_322
+  server: 5.182.85.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_323
+  server: 5.182.84.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_324
+  server: 5.182.34.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_325
+  server: 5.175.141.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_326
+  server: 5.10.247.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_327
+  server: 5.10.246.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_328
+  server: 5.10.245.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_329
+  server: 5.10.244.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_330
+  server: 5.10.215.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
+- name: ⛹‍♂331trojan🇺🇸US_331
+  server: 5.10.214.195
+  port: 2096
+  type: trojan
+  password: slch2024
+  sni: ocost-dy.wmlefl.cc
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: Telegram🇨🇳 @WangCai2 /?ed=2560
+    headers:
+      Host: ocost-dy.wmlefl.cc
