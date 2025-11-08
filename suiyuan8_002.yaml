@@ -1,0 +1,17 @@
+proxies:
+- name: 🚴‍♂2ss🇺🇸US_01
+  server: 67.209.187.6
+  port: 15325
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-gcm
+  password: 9GfXqoYsCCGkogps
+  tfo: false
+- name: 🚴‍♂2ss🇺🇸US_02
+  server: 67.209.185.93
+  port: 15325
+  client-fingerprint: chrome
+  type: ss
+  cipher: aes-256-gcm
+  password: 9GfXqoYsCCGkogps
+  tfo: false
