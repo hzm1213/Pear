@@ -1,0 +1,3841 @@
+proxies:
+- name: 🚶🏿‍♀️256vmess🇺🇸US_001
+  server: wangcai0.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_002
+  server: wangcai1.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_003
+  server: wangcai2.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_004
+  server: wangcai3.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_005
+  server: wangcai4.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_006
+  server: wangcai5.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_007
+  server: wangcai6.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_008
+  server: wangcai7.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_009
+  server: wangcai8.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_010
+  server: wangcai9.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_011
+  server: wangcai10.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_012
+  server: wangcai11.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_013
+  server: wangcai12.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_014
+  server: wangcai13.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_015
+  server: wangcai14.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_016
+  server: wangcai15.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_017
+  server: wangcai16.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_018
+  server: wangcai17.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_019
+  server: wangcai18.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_020
+  server: wangcai19.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_021
+  server: wangcai20.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_022
+  server: wangcai21.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_023
+  server: wangcai22.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_024
+  server: wangcai23.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_025
+  server: wangcai24.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_026
+  server: wangcai25.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_027
+  server: wangcai26.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_028
+  server: wangcai27.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_029
+  server: wangcai28.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_030
+  server: wangcai29.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_031
+  server: wangcai30.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_032
+  server: wangcai31.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_033
+  server: wangcai32.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_034
+  server: wangcai33.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_035
+  server: wangcai34.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_036
+  server: wangcai35.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_037
+  server: wangcai36.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_038
+  server: wangcai37.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_039
+  server: wangcai38.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_040
+  server: wangcai39.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_041
+  server: wangcai40.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_042
+  server: wangcai41.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_043
+  server: wangcai42.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_044
+  server: wangcai43.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_045
+  server: wangcai44.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_046
+  server: wangcai45.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_047
+  server: wangcai46.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_048
+  server: wangcai47.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_049
+  server: wangcai48.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_050
+  server: wangcai49.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_051
+  server: wangcai50.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_052
+  server: wangcai51.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_053
+  server: wangcai52.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_054
+  server: wangcai53.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_055
+  server: wangcai54.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_056
+  server: wangcai55.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_057
+  server: wangcai56.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_058
+  server: wangcai57.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_059
+  server: wangcai58.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_060
+  server: wangcai59.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_061
+  server: wangcai60.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_062
+  server: wangcai61.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_063
+  server: wangcai62.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_064
+  server: wangcai63.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_065
+  server: wangcai64.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_066
+  server: wangcai65.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_067
+  server: wangcai66.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_068
+  server: wangcai67.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_069
+  server: wangcai68.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_070
+  server: wangcai69.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_071
+  server: wangcai70.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_072
+  server: wangcai71.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_073
+  server: wangcai72.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_074
+  server: wangcai73.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_075
+  server: wangcai74.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_076
+  server: wangcai75.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_077
+  server: wangcai76.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_078
+  server: wangcai77.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_079
+  server: wangcai78.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_080
+  server: wangcai79.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_081
+  server: wangcai80.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_082
+  server: wangcai81.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_083
+  server: wangcai82.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_084
+  server: wangcai83.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_085
+  server: wangcai84.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_086
+  server: wangcai85.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_087
+  server: wangcai86.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_088
+  server: wangcai87.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_089
+  server: wangcai88.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_090
+  server: wangcai89.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_091
+  server: wangcai90.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_092
+  server: wangcai91.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_093
+  server: wangcai92.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_094
+  server: wangcai93.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_095
+  server: wangcai94.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_096
+  server: wangcai95.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_097
+  server: wangcai96.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_098
+  server: wangcai97.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_099
+  server: wangcai98.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_100
+  server: wangcai99.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_101
+  server: wangcai100.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_102
+  server: wangcai101.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_103
+  server: wangcai102.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_104
+  server: wangcai103.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_105
+  server: wangcai104.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_106
+  server: wangcai105.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_107
+  server: wangcai106.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_108
+  server: wangcai107.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_109
+  server: wangcai108.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_110
+  server: wangcai109.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_111
+  server: wangcai110.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_112
+  server: wangcai111.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_113
+  server: wangcai112.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_114
+  server: wangcai113.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_115
+  server: wangcai114.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_116
+  server: wangcai115.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_117
+  server: wangcai116.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_118
+  server: wangcai117.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_119
+  server: wangcai118.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_120
+  server: wangcai119.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_121
+  server: wangcai120.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_122
+  server: wangcai121.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_123
+  server: wangcai122.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_124
+  server: wangcai123.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_125
+  server: wangcai124.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_126
+  server: wangcai125.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_127
+  server: wangcai126.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_128
+  server: wangcai127.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_129
+  server: wangcai128.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_130
+  server: wangcai129.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_131
+  server: wangcai130.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_132
+  server: wangcai131.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_133
+  server: wangcai132.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_134
+  server: wangcai133.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_135
+  server: wangcai134.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_136
+  server: wangcai135.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_137
+  server: wangcai136.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_138
+  server: wangcai137.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_139
+  server: wangcai138.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_140
+  server: wangcai139.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_141
+  server: wangcai140.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_142
+  server: wangcai141.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_143
+  server: wangcai142.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_144
+  server: wangcai143.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_145
+  server: wangcai144.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_146
+  server: wangcai145.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_147
+  server: wangcai146.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_148
+  server: wangcai147.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_149
+  server: wangcai148.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_150
+  server: wangcai149.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_151
+  server: wangcai150.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_152
+  server: wangcai151.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_153
+  server: wangcai152.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_154
+  server: wangcai153.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_155
+  server: wangcai154.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_156
+  server: wangcai155.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_157
+  server: wangcai156.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_158
+  server: wangcai157.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_159
+  server: wangcai158.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_160
+  server: wangcai159.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_161
+  server: wangcai160.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_162
+  server: wangcai161.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_163
+  server: wangcai162.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_164
+  server: wangcai163.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_165
+  server: wangcai164.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_166
+  server: wangcai165.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_167
+  server: wangcai166.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_168
+  server: wangcai167.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_169
+  server: wangcai168.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_170
+  server: wangcai169.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_171
+  server: wangcai170.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_172
+  server: wangcai171.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_173
+  server: wangcai172.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_174
+  server: wangcai173.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_175
+  server: wangcai174.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_176
+  server: wangcai175.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_177
+  server: wangcai176.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_178
+  server: wangcai177.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_179
+  server: wangcai178.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_180
+  server: wangcai179.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_181
+  server: wangcai180.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_182
+  server: wangcai181.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_183
+  server: wangcai182.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_184
+  server: wangcai183.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_185
+  server: wangcai184.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_186
+  server: wangcai185.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_187
+  server: wangcai186.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_188
+  server: wangcai187.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_189
+  server: wangcai188.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_190
+  server: wangcai189.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_191
+  server: wangcai190.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_192
+  server: wangcai191.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_193
+  server: wangcai192.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_194
+  server: wangcai193.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_195
+  server: wangcai194.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_196
+  server: wangcai195.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_197
+  server: wangcai196.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_198
+  server: wangcai197.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_199
+  server: wangcai198.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_200
+  server: wangcai199.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_201
+  server: wangcai200.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_202
+  server: wangcai201.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_203
+  server: wangcai202.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_204
+  server: wangcai203.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_205
+  server: wangcai204.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_206
+  server: wangcai205.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_207
+  server: wangcai206.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_208
+  server: wangcai207.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_209
+  server: wangcai208.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_210
+  server: wangcai209.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_211
+  server: wangcai210.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_212
+  server: wangcai211.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_213
+  server: wangcai212.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_214
+  server: wangcai213.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_215
+  server: wangcai214.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_216
+  server: wangcai215.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_217
+  server: wangcai216.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_218
+  server: wangcai217.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_219
+  server: wangcai218.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_220
+  server: wangcai219.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_221
+  server: wangcai220.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_222
+  server: wangcai221.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_223
+  server: wangcai222.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_224
+  server: wangcai223.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_225
+  server: wangcai224.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_226
+  server: wangcai225.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_227
+  server: wangcai226.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_228
+  server: wangcai227.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_229
+  server: wangcai228.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_230
+  server: wangcai229.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_231
+  server: wangcai230.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_232
+  server: wangcai231.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_233
+  server: wangcai232.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_234
+  server: wangcai233.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_235
+  server: wangcai234.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_236
+  server: wangcai235.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_237
+  server: wangcai236.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_238
+  server: wangcai237.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_239
+  server: wangcai238.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_240
+  server: wangcai239.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_241
+  server: wangcai240.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_242
+  server: wangcai241.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_243
+  server: wangcai242.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_244
+  server: wangcai243.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_245
+  server: wangcai244.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_246
+  server: wangcai245.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_247
+  server: wangcai246.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_248
+  server: wangcai247.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_249
+  server: wangcai248.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_250
+  server: wangcai249.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_251
+  server: wangcai250.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_252
+  server: wangcai251.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_253
+  server: wangcai252.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_254
+  server: wangcai253.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_255
+  server: wangcai254.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
+- name: 🚶🏿‍♀️256vmess🇺🇸US_256
+  server: wangcai255.000444.cn
+  port: 443
+  type: vmess
+  uuid: a4396fe1-c359-4898-9468-c6e1278df500
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: rncf.xinxiwang.eu.org
+  network: ws
+  ws-opts:
+    path: /ray1
+    headers:
+      Host: rncf.xinxiwang.eu.org
