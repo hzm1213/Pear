@@ -55,52 +55,24 @@ def parse_vmess(url):
         data_b64 = url[8:]
         decoded = base64.b64decode(data_b64 + "=" * (-len(data_b64) % 4)).decode()
         info = yaml.safe_load(decoded)
-        return {
-            "name": info.get("ps", ""),
-            "type": "vmess",
-            "server": info.get("add", ""),
-            "port": int(info.get("port", 0)),
-            "uuid": info.get("id", ""),
-            "alterId": info.get("aid", 0),
-            "cipher": info.get("scy", "auto"),
-            "tls": info.get("tls", False)
-        }
-    except Exception as e:
-        print(f"⚠️ VMess 解析失败: {url} -> {e}")
+        return {"name": info.get("ps", ""), "type": "vmess", "server": info.get("add", ""), "port": int(info.get("port", 0))}
+    except:
         return None
 
 def parse_vless(url):
     try:
         parsed = urlparse(url)
         name = unquote(parsed.fragment)
-        return {
-            "name": name,
-            "type": "vless",
-            "server": parsed.hostname,
-            "port": parsed.port,
-            "uuid": parsed.username,
-            "encryption": parse_qs(parsed.query).get("encryption", ["none"])[0],
-            "tls": "tls" in parsed.scheme.lower() or "tls" in parsed.query
-        }
-    except Exception as e:
-        print(f"⚠️ VLESS 解析失败: {url} -> {e}")
+        return {"name": name, "type": "vless", "server": parsed.hostname, "port": parsed.port}
+    except:
         return None
 
 def parse_trojan(url):
     try:
         parsed = urlparse(url)
         name = unquote(parsed.fragment)
-        return {
-            "name": name,
-            "type": "trojan",
-            "server": parsed.hostname,
-            "port": parsed.port,
-            "password": parsed.username,
-            "sni": parse_qs(parsed.query).get("sni", [""])[0],
-            "udp": True
-        }
-    except Exception as e:
-        print(f"⚠️ Trojan 解析失败: {url} -> {e}")
+        return {"name": name, "type": "trojan", "server": parsed.hostname, "port": parsed.port}
+    except:
         return None
 
 def parse_ss(url):
@@ -116,66 +88,9 @@ def parse_ss(url):
                 method_pass, host_port = ss_body.split("@")
                 method, password = method_pass.split(":")
                 host, port = host_port.split(":")
-                return {
-                    "name": name,
-                    "type": "ss",
-                    "server": host,
-                    "port": int(port),
-                    "cipher": method,
-                    "password": password
-                }
+                return {"name": name, "type": "ss", "server": host, "port": int(port)}
         return None
-    except Exception as e:
-        print(f"⚠️ SS 解析失败: {url} -> {e}")
-        return None
-
-def parse_hy2(url):
-    try:
-        parsed = urlparse(url)
-        password = parsed.username
-        host = parsed.hostname
-        port = parsed.port
-        params = parse_qs(parsed.query)
-        name = unquote(parsed.fragment)
-        return {
-            "name": name,
-            "type": "hysteria2",
-            "server": host,
-            "port": port,
-            "password": password,
-            "sni": params.get("sni", [""])[0],
-            "alpn": [params.get("alpn", ["h3"])[0]],
-            "obfs": params.get("obfs", [""])[0],
-            "obfs-password": params.get("obfs-password", [""])[0],
-            "udp": True
-        }
-    except Exception as e:
-        print(f"⚠️ Hysteria2 解析失败: {url} -> {e}")
-        return None
-
-def parse_tuic(url):
-    try:
-        parsed = urlparse(url)
-        uuid, password = parsed.username.split(":") if parsed.username else ("", "")
-        host = parsed.hostname
-        port = parsed.port
-        params = parse_qs(parsed.query)
-        name = unquote(parsed.fragment)
-        return {
-            "name": name,
-            "type": "tuic",
-            "server": host,
-            "port": port,
-            "uuid": uuid,
-            "password": password,
-            "sni": params.get("sni", [""])[0],
-            "alpn": [params.get("alpn", ["h3"])[0]],
-            "congestion_control": params.get("congestion_control", ["bbr"])[0],
-            "udp_relay_mode": "nat",
-            "fast_open": True
-        }
-    except Exception as e:
-        print(f"⚠️ TUIC 解析失败: {url} -> {e}")
+    except:
         return None
 
 def parse_node(url):
@@ -188,10 +103,6 @@ def parse_node(url):
         return parse_trojan(url)
     elif url.startswith("ss://") or url.startswith("ssr://"):
         return parse_ss(url)
-    elif url.startswith("hy2://"):
-        return parse_hy2(url)
-    elif url.startswith("tuic://"):
-        return parse_tuic(url)
     else:
         return None
 
