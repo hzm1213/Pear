@@ -1,0 +1,4 @@
+proxies:
+- name: 🙎🏽‍♂1direct🏳️ZZ_01
+  type: direct
+  udp: true
