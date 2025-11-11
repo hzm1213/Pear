@@ -109,14 +109,29 @@ def generate_unique_emoji(used_emojis, available_emojis):
     return choice
 
 # -------------------------------
-# 🔍 判断文件是否为节点文件
+# 🔍 判断文件是否为节点文件（忽略 direct/reject/blackhole）
 # -------------------------------
 def detect_node_file(content: str) -> bool:
+    """
+    判断是否为可处理节点文件
+    - 包含 ss:// vmess:// vless:// trojan:// 链接
+    - 或 proxies 块里包含真实可用节点（type 非 direct/reject/blackhole）
+    """
     node_keywords = ['ss://', 'vmess://', 'trojan://', 'vless://']
     if any(k in content for k in node_keywords):
         return True
-    if 'proxies:' in content and any(k in content for k in ['server:', 'type:']):
-        return True
+
+    if 'proxies:' in content:
+        try:
+            data = yaml.safe_load(content)
+            proxies = data.get('proxies', [])
+            for p in proxies:
+                p_type = str(p.get('type','')).lower()
+                if p_type not in ['direct','reject','blackhole']:
+                    return True
+        except Exception:
+            return False
+
     return False
 
 # -------------------------------
@@ -240,7 +255,7 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
     content = try_base64_decode(raw_content)
 
     if not detect_node_file(content):
-        print(f"⚠️ 跳过非节点文件: {os.path.basename(filepath)}（未检测到节点链接或 proxies）")
+        print(f"⚠️ 跳过非节点文件: {os.path.basename(filepath)}（未检测到节点链接或有效 proxies）")
         return
 
     proxies = []
@@ -258,10 +273,10 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
         proxies_text = extract_proxies_block(filepath)
         if proxies_text:
             data = yaml.safe_load(proxies_text)
-            proxies = data.get('proxies', [])
+            proxies = [p for p in data.get('proxies', []) if str(p.get('type','')).lower() not in ['direct','reject','blackhole']]
 
     if not proxies:
-        print(f"⚠️ proxies 节点为空: {filepath}")
+        print(f"⚠️ proxies 节点为空或全部为非代理节点: {filepath}")
         return
 
     node_count = len(proxies)
