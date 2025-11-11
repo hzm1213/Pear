@@ -1,224 +1,171 @@
 import os
 import re
-import yaml
-import random
-import emoji
-import ipaddress
 import base64
-from urllib.parse import urlparse, parse_qs, unquote
+import yaml
+from urllib.parse import unquote, urlparse
 
-# ------------------ 工具函数 ------------------
+# =============================
+# 基础配置
+# =============================
+
+UPSTREAM_DIR = "upstream_repo"
+OUTPUT_PREFIX = "suiyuan8_"
+EMOJI_PREFIX = "👩🏾‍❤‍👩🏼"
+
+# =============================
+# 节点协议检测正则
+# =============================
+
+NODE_URL_PATTERN = re.compile(
+    r'^(?:(vmess|vless|trojan|ss)://[A-Za-z0-9=_\-~%!:/?#@.,&+]+)', re.IGNORECASE
+)
+
+# =============================
+# 工具函数
+# =============================
+
+def is_url_node_line(line: str) -> bool:
+    """判断是否是 URL 节点"""
+    return bool(NODE_URL_PATTERN.match(line.strip()))
+
+def decode_base64(data: str) -> str:
+    """解码 Base64"""
+    data = data.strip()
+    # padding 处理
+    missing_padding = len(data) % 4
+    if missing_padding:
+        data += "=" * (4 - missing_padding)
+    try:
+        return base64.b64decode(data).decode("utf-8", errors="ignore")
+    except Exception:
+        return data
+
 def clean_name(name: str) -> str:
-    name = name.replace('🇨🇳TW', '🇹🇼TW')
-    name = re.sub(r'[_\s]*@wangcai_8[_\s]*', ' ', name, flags=re.IGNORECASE)
-    return re.sub(r'\s+', ' ', name).strip()
+    """清理名称中无关符号"""
+    name = unquote(name)
+    name = re.sub(r'[@#%]', '', name)
+    return name.strip()
 
 def extract_region(name: str):
-    # 尝试匹配两字符 flag emoji + region
-    match = re.match(r'^([\U0001F1E6-\U0001F1FF]{2})([A-Z]{2,})', name)
-    if match:
-        return match.group(1), match.group(2)
-    # 尝试匹配其他 emoji + region
-    for e in emoji.EMOJI_DATA.keys():
-        if name.startswith(e):
-            remain = name[len(e):]
-            match_region = re.match(r'^([A-Z]{2,})', remain)
-            if match_region:
-                return e, match_region.group(1)
-    return '🏳️', 'ZZ'
+    """提取地区 flag + region 代码"""
+    # 先尝试 flag
+    flag_match = re.findall(r'[\U0001F1E6-\U0001F1FF]{2}', name)
+    flag = flag_match[0] if flag_match else "🏳️"
 
-def is_flag_emoji(e):
-    return re.match(r'^[🇦-🇿]{2}$', e)
+    # 提取简写（SG, JP, US 等）
+    region_match = re.search(r'(SG|JP|HK|TW|KR|US|UK|DE|FR|VN|TH|MY|IN|AU|CA|BR|RU|CN)', name, re.I)
+    region = region_match.group(1).upper() if region_match else "ZZ"
 
-def load_available_emojis():
-    return [e for e in emoji.EMOJI_DATA.keys() if not is_flag_emoji(e)]
+    return flag, region
 
-def generate_unique_emoji(used_emojis, available_emojis):
-    choice = random.choice([e for e in available_emojis if e not in used_emojis])
-    used_emojis.add(choice)
-    return choice
+def parse_url_node(line: str):
+    """解析 URL 节点并返回结构化信息"""
+    line = line.strip()
+    proto = line.split("://", 1)[0].lower()
+    parsed = urlparse(line)
+    name = unquote(parsed.fragment or "")
+    name = clean_name(name)
+    flag, region = extract_region(name)
+    return {
+        "raw": line,
+        "type": proto.upper(),
+        "name": name,
+        "flag": flag,
+        "region": region
+    }
 
-# ------------------ URL 节点解析 ------------------
-def parse_ss(url):
+def parse_clash_yaml(path: str):
+    """尝试解析 Clash YAML 配置"""
     try:
-        if not url.startswith("ss://"):
-            return None
-        ss_body = url[5:]
-        # fragment
-        if "#" in ss_body:
-            ss_body, frag = ss_body.split("#",1)
-            name = unquote(frag)
-        else:
-            name = ""
-        # query/plugin
-        if "?" in ss_body:
-            ss_body, query = ss_body.split("?",1)
-            query_params = parse_qs(query)
-        else:
-            query_params = {}
-        if "@" in ss_body:
-            method_pass, host_port = ss_body.split("@",1)
-            if ":" in method_pass:
-                method, password = method_pass.split(":",1)
-            else:
-                method = method_pass
-                password = ""
-            host, port = host_port.split(":")
-            return {
-                "name": name,
-                "type": "SS",
-                "server": host,
-                "port": int(port),
-                "method": method,
-                "password": password,
-                "plugin": query_params.get("plugin", [""])[0],
-                "plugin_opts": {k:v[0] for k,v in query_params.items() if k != "plugin"}
-            }
-        return None
-    except:
-        return None
+        with open(path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+        if isinstance(data, dict) and "proxies" in data and isinstance(data["proxies"], list):
+            return data["proxies"]
+        return []
+    except Exception:
+        return []
 
-def parse_vmess(url):
-    try:
-        b64 = url[8:]
-        decoded = base64.b64decode(b64 + "=" * (-len(b64)%4)).decode()
-        info = yaml.safe_load(decoded)
-        return {"name": info.get("ps",""), "type":"VMess", "server": info.get("add",""), "port": int(info.get("port",0))}
-    except:
-        return None
+# =============================
+# 核心处理逻辑
+# =============================
 
-def parse_vless(url):
-    try:
-        parsed = urlparse(url)
-        name = unquote(parsed.fragment)
-        return {"name": name, "type":"VLESS", "server": parsed.hostname, "port": parsed.port}
-    except:
-        return None
+def process_upstream_files():
+    os.makedirs(UPSTREAM_DIR, exist_ok=True)
+    files = os.listdir(UPSTREAM_DIR)
+    node_files = []
 
-def parse_trojan(url):
-    try:
-        parsed = urlparse(url)
-        name = unquote(parsed.fragment)
-        return {"name": name, "type":"Trojan", "server": parsed.hostname, "port": parsed.port}
-    except:
-        return None
-
-def parse_node(url):
-    url = url.strip()
-    if url.startswith("vmess://"):
-        return parse_vmess(url)
-    elif url.startswith("vless://"):
-        return parse_vless(url)
-    elif url.startswith("trojan://"):
-        return parse_trojan(url)
-    elif url.startswith(("ss://","ssr://","hy2://","tuic://")):
-        return parse_ss(url)
-    else:
-        return None
-
-# ------------------ 文件处理 ------------------
-def extract_proxies_block(filepath):
-    with open(filepath,'r',encoding='utf-8',errors='ignore') as f:
-        lines = f.readlines()
-    proxies_lines=[]
-    in_proxies=False
-    proxies_indent=None
-    for line in lines:
-        if not in_proxies:
-            if re.match(r'^\s*proxies\s*:\s*$', line):
-                in_proxies=True
-                proxies_indent = len(line)-len(line.lstrip())
-                proxies_lines.append(line)
-        else:
-            indent = len(line)-len(line.lstrip())
-            if indent <= proxies_indent and line.strip() != '':
-                break
-            proxies_lines.append(line)
-    return ''.join(proxies_lines) if proxies_lines else None
-
-def process_yaml_file(filepath, output_filename, used_emojis, available_emojis):
-    proxies_text = extract_proxies_block(filepath)
-    if not proxies_text:
-        print(f"⚠️ 未找到 proxies 块: {filepath}")
-        return
-    data = yaml.safe_load(proxies_text)
-    proxies = data.get('proxies',[])
-    valid_nodes = [p for p in proxies if p.get('type') not in ['direct','reject']]
-    if not valid_nodes:
-        print(f"⚠️ Clash 文件 {filepath} 内无有效节点，跳过")
-        return
-    node_count = len(valid_nodes)
-    types = set(p.get('type','unknown') for p in valid_nodes)
-    node_type = types.pop() if len(types)==1 else 'Mix'
-    emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
-    region_groups = {}
-    for p in valid_nodes:
-        p['name'] = clean_name(p['name'])
-        flag, region = extract_region(p['name'])
-        key=(flag,region)
-        region_groups.setdefault(key,[]).append(p)
-    for (flag,region),group in region_groups.items():
-        num_len = 2 if node_count <=100 else 3
-        for idx,p in enumerate(group,1):
-            seq = str(idx).zfill(num_len)
-            p['name'] = f"{emoji_prefix}{node_count}{node_type}{flag}{region}_{seq}"
-    out = {'proxies': valid_nodes}
-    with open(output_filename,'w',encoding='utf-8') as f:
-        yaml.dump(out,f,allow_unicode=True,sort_keys=False,default_flow_style=False)
-    print(f"✅ 生成 YAML 文件: {output_filename}, 节点数: {node_count}, 类型: {node_type}")
-
-def process_url_file(filepath, output_filename, used_emojis, available_emojis):
-    with open(filepath,'r',encoding='utf-8',errors='ignore') as f:
-        lines=[line.strip() for line in f if line.strip()]
-    nodes=[]
-    for line in lines:
-        node = parse_node(line)
-        if node:
-            nodes.append(node)
-    if not nodes:
-        print(f"⚠️ 文件 {filepath} 无有效节点，跳过")
-        return
-    node_count = len(nodes)
-    emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
-    for idx,n in enumerate(nodes):
-        # 解码 fragment 用于提取地区
-        name_decoded = unquote(n['name'])
-        n['name'] = clean_name(name_decoded)
-        flag, region = extract_region(n['name'])
-        seq = str(idx+1).zfill(3 if node_count>100 else 2)
-        node_type = n.get('type','Mix').upper()
-        n['name'] = f"{emoji_prefix}{node_count}{node_type}{flag}{region}_{seq}"
-    # 输出 Base64，保留原始 URL 内容
-    base64_content = base64.b64encode("\n".join(lines).encode()).decode()
-    with open(output_filename,'w',encoding='utf-8') as f:
-        f.write(base64_content)
-    print(f"✅ 生成 URL Base64 文件: {output_filename}, 节点数: {node_count}")
-
-def process_file(filepath, output_filename, used_emojis, available_emojis):
-    with open(filepath,'r',encoding='utf-8',errors='ignore') as f:
-        lines=[line.strip() for line in f if line.strip()]
-    if not lines:
-        print(f"⚠️ 空文件，跳过: {filepath}")
-        return
-    if any(re.match(r'^(ss|ssr|vmess|vless|trojan|hy2|tuic)://', line) for line in lines):
-        process_url_file(filepath, output_filename, used_emojis, available_emojis)
-    elif any(line.startswith('proxies:') for line in lines):
-        process_yaml_file(filepath, output_filename, used_emojis, available_emojis)
-    else:
-        print(f"⚠️ 忽略非节点文件: {filepath}")
-
-# ------------------ 主程序 ------------------
-def main():
-    upstream_dir = 'upstream_repo'
-    files = sorted([f for f in os.listdir(upstream_dir) if os.path.isfile(os.path.join(upstream_dir,f))])
-    available_emojis = load_available_emojis()
-    used_emojis = set()
-    file_idx = 1
     for file in files:
-        filepath = os.path.join(upstream_dir,file)
-        output_filename = f"suiyuan8_{file_idx:03}.yaml"
-        process_file(filepath, output_filename, used_emojis, available_emojis)
-        file_idx += 1
+        path = os.path.join(UPSTREAM_DIR, file)
+        if not os.path.isfile(path):
+            continue
 
-if __name__ == '__main__':
-    main()
+        # 读取文件内容
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read().strip()
+
+        # 1️⃣ Base64 内容尝试解码
+        if re.match(r'^[A-Za-z0-9+/=\n\r]+$', content) and not content.startswith("proxies:"):
+            decoded = decode_base64(content)
+            if is_url_node_line(decoded.splitlines()[0]):
+                content = decoded
+
+        # 2️⃣ 判断是否为 URL 节点
+        if any(is_url_node_line(line) for line in content.splitlines()):
+            node_files.append((file, content, "url"))
+            continue
+
+        # 3️⃣ 判断是否为 Clash 节点配置
+        proxies = parse_clash_yaml(path)
+        if proxies:
+            node_files.append((file, proxies, "clash"))
+
+    # 4️⃣ 处理每个节点文件
+    for file, data, ftype in node_files:
+        base_name = os.path.splitext(os.path.basename(file))[0]
+        output_file = f"{OUTPUT_PREFIX}{base_name}.yaml"
+
+        if ftype == "url":
+            # 处理 URL 节点
+            nodes = []
+            for line in data.splitlines():
+                if is_url_node_line(line):
+                    n = parse_url_node(line)
+                    nodes.append(n)
+            if not nodes:
+                continue
+
+            total = len(nodes)
+            new_nodes = []
+            for idx, n in enumerate(nodes, start=1):
+                seq = str(idx).zfill(3 if total > 100 else 2)
+                new_name = f"{EMOJI_PREFIX}{total}{n['type']}{n['flag']}{n['region']}_{seq}"
+                n['name'] = new_name
+                new_nodes.append(n["raw"].split("#")[0] + "#" + n["name"])
+
+            # 输出为 Base64
+            merged = "\n".join(new_nodes)
+            encoded = base64.b64encode(merged.encode()).decode()
+            with open(output_file, "w", encoding="utf-8") as f:
+                f.write(encoded)
+
+        elif ftype == "clash":
+            # 处理 Clash 节点文件
+            proxies = data
+            if not proxies:
+                continue
+
+            total = len(proxies)
+            for idx, p in enumerate(proxies, start=1):
+                flag, region = extract_region(p.get("name", ""))
+                seq = str(idx).zfill(3 if total > 100 else 2)
+                node_type = p.get("type", "Mix").upper()
+                p["name"] = f"{EMOJI_PREFIX}{total}{node_type}{flag}{region}_{seq}"
+
+            with open(output_file, "w", encoding="utf-8") as f:
+                yaml.safe_dump({"proxies": proxies}, f, allow_unicode=True, sort_keys=False)
+
+    print("✅ 节点文件全部处理完成！")
+
+
+if __name__ == "__main__":
+    process_upstream_files()
