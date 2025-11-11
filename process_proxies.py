@@ -9,25 +9,21 @@ from urllib.parse import urlparse, parse_qs, unquote
 
 # ------------------ 工具函数 ------------------
 def clean_name(name: str) -> str:
-    # 替换特定字符并清理
     name = name.replace('🇨🇳TW', '🇹🇼TW')
     name = re.sub(r'[_\s]*@wangcai_8[_\s]*', ' ', name, flags=re.IGNORECASE)
     name = re.sub(r'\s+', ' ', name).strip()
     return name
 
 def extract_region(name: str):
-    # 尝试匹配两字符 flag emoji + 地区
     match = re.match(r'^([\U0001F1E6-\U0001F1FF]{2})([A-Z]{2,})', name)
     if match:
         return match.group(1), match.group(2)
-    # 尝试匹配任意 emoji + 地区
     for e in emoji.EMOJI_DATA.keys():
         if name.startswith(e):
             remain = name[len(e):]
             match_region = re.match(r'^([A-Z]{2,})', remain)
             if match_region:
                 return e, match_region.group(1)
-    # 默认
     return '🏳️', 'ZZ'
 
 def is_flag_emoji(e):
@@ -51,9 +47,7 @@ def check_ip_sequence(proxies):
         except:
             return False
     ips.sort()
-    if len(ips) == 256 and ips[-1] - ips[0] == 255:
-        return True
-    return False
+    return len(ips) == 256 and ips[-1] - ips[0] == 255
 
 # ------------------ URL 节点解析 ------------------
 def parse_vmess(url):
@@ -110,7 +104,6 @@ def parse_trojan(url):
         return None
 
 def parse_ss(url):
-    # 只处理常规 ss://method:pass@host:port#name
     try:
         if url.startswith("ss://"):
             ss_body = url[5:]
@@ -229,15 +222,14 @@ def process_yaml_file(filepath, output_filename, used_emojis, available_emojis):
         return
     data = yaml.safe_load(proxies_text)
     proxies = data.get('proxies', [])
-    if not proxies:
-        print(f"⚠️ proxies 节点为空: {filepath}")
+    if not proxies or not any(p.get('type') not in ['direct', 'reject'] for p in proxies):
+        print(f"⚠️ Clash 文件 {filepath} 内无有效节点，跳过")
         return
     node_count = len(proxies)
-    types = set(p.get('type', 'unknown') for p in proxies)
+    types = set(p.get('type', 'unknown') for p in proxies if p.get('type') not in ['direct','reject'])
     node_type = types.pop() if len(types) == 1 else 'Mix'
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
     ip_regular = check_ip_sequence(proxies)
-    # 分地区分组
     region_groups = {}
     for p in proxies:
         p['name'] = clean_name(p['name'])
@@ -281,26 +273,30 @@ def process_url_file(filepath, output_filename, used_emojis, available_emojis):
         return
     node_count = len(nodes)
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
-    for n in nodes:
+    for idx, n in enumerate(nodes):
         n['name'] = clean_name(n['name'])
         flag, region = extract_region(n['name'])
-        n['name'] = f"{emoji_prefix}{node_count}Mix{flag}{region}_001"  # 序号简单处理
-    # 转 Base64 输出
-    urls = lines
-    base64_content = base64.b64encode("\n".join(urls).encode()).decode()
+        seq = str(idx+1).zfill(3 if node_count > 100 else 2)
+        n['name'] = f"{emoji_prefix}{node_count}Mix{flag}{region}_{seq}"
+    base64_content = base64.b64encode("\n".join(lines).encode()).decode()
     with open(output_filename, 'w', encoding='utf-8') as f:
         f.write(base64_content)
     print(f"✅ 生成 URL Base64 文件: {output_filename}, 节点数: {node_count}")
 
 def process_file(filepath, output_filename, used_emojis, available_emojis):
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-        content = f.read().strip()
-    if not content:
+        lines = [line.strip() for line in f if line.strip()]
+    if not lines:
         print(f"⚠️ 空文件，跳过: {filepath}")
         return
-    if any(k in content for k in ["proxies:", "type:", "server:"]):
+    content = "\n".join(lines)
+    if "proxies:" in content:
+        data = yaml.safe_load(content)
+        if not any(p.get('type') not in ['direct', 'reject'] for p in data.get('proxies', [])):
+            print(f"⚠️ Clash 文件 {filepath} 内无有效节点，跳过")
+            return
         process_yaml_file(filepath, output_filename, used_emojis, available_emojis)
-    elif re.search(r'^(vmess|vless|trojan|ss|ssr|hy2|tuic)://', content, re.M):
+    elif re.search(r'(vmess|vless|trojan|ss|ssr|hy2|tuic)://', content):
         process_url_file(filepath, output_filename, used_emojis, available_emojis)
     else:
         print(f"⚠️ 忽略非节点文件: {filepath}")
