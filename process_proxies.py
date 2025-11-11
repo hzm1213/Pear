@@ -33,6 +33,15 @@ def try_base64_decode(content: str) -> str:
         return content
 
 # -------------------------------
+# 🔍 URL 类型节点判断
+# -------------------------------
+def is_url_node_file(content: str) -> bool:
+    lines = [l.strip() for l in content.splitlines() if l.strip()]
+    if not lines:
+        return False
+    return all(l.startswith(('ss://','vmess://','vless://','trojan://')) for l in lines)
+
+# -------------------------------
 # 📦 提取 Clash proxies 块
 # -------------------------------
 def extract_proxies_block(filepath):
@@ -109,18 +118,12 @@ def generate_unique_emoji(used_emojis, available_emojis):
     return choice
 
 # -------------------------------
-# 🔍 判断文件是否为节点文件（忽略 direct/reject/blackhole）
+# 🔍 判断 Clash 文件是否包含可用节点
 # -------------------------------
 def detect_node_file(content: str) -> bool:
-    """
-    判断是否为可处理节点文件
-    - 包含 ss:// vmess:// vless:// trojan:// 链接
-    - 或 proxies 块里包含真实可用节点（type 非 direct/reject/blackhole）
-    """
     node_keywords = ['ss://', 'vmess://', 'trojan://', 'vless://']
     if any(k in content for k in node_keywords):
         return True
-
     if 'proxies:' in content:
         try:
             data = yaml.safe_load(content)
@@ -131,11 +134,10 @@ def detect_node_file(content: str) -> bool:
                     return True
         except Exception:
             return False
-
     return False
 
 # -------------------------------
-# ⚡ SS 节点解析
+# ⚡ 节点解析
 # -------------------------------
 def parse_ss_url(url: str) -> dict:
     if '#' in url:
@@ -160,9 +162,6 @@ def parse_ss_url(url: str) -> dict:
         return {'name': clean_name(remark),'type':'ss','server':server,'port':int(port),'cipher':cipher,'password':password}
     return {'name': clean_name(remark),'type':'ss','server':base,'port':443,'cipher':'unknown','password':'unknown'}
 
-# -------------------------------
-# ⚡ VMess 节点解析（ws-path/ws-headers自动填充）
-# -------------------------------
 def parse_vmess_url(url: str) -> dict:
     if '#' in url:
         url_base, remark = url.split('#',1)
@@ -192,9 +191,6 @@ def parse_vmess_url(url: str) -> dict:
     except Exception:
         return {'name': clean_name(remark),'type':'vmess','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
 
-# -------------------------------
-# ⚡ VLESS 节点解析（ws-path/ws-headers自动填充）
-# -------------------------------
 def parse_vless_url(url: str) -> dict:
     try:
         parsed = urlparse(url)
@@ -216,9 +212,6 @@ def parse_vless_url(url: str) -> dict:
     except:
         return {'name': clean_name('Unnamed'),'type':'vless','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
 
-# -------------------------------
-# ⚡ Trojan 节点解析（ws-path/ws-headers自动填充）
-# -------------------------------
 def parse_trojan_url(url: str) -> dict:
     try:
         parsed = urlparse(url)
@@ -240,41 +233,48 @@ def parse_trojan_url(url: str) -> dict:
         return {'name': clean_name('Unnamed'),'type':'trojan','server':'unknown','port':443,'password':'unknown','ws-path':'/','ws-headers':{}}
 
 # -------------------------------
-# 🔨 主处理逻辑
+# ⚡ URL 类型节点文件处理（机场订阅）
 # -------------------------------
-def process_file(filepath, output_filename, used_emojis, available_emojis):
-    print(f"\n🔍 正在处理文件: {filepath}")
+def process_url_file(filepath, output_filename, used_emojis, available_emojis):
+    print(f"🔹 处理 URL 类型节点文件: {filepath}")
+    with open(filepath,'r',encoding='utf-8') as f:
+        lines = [l.strip() for l in f.readlines() if l.strip()]
 
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            raw_content = f.read()
-    except Exception as e:
-        print(f"⚠️ 无法读取文件 {filepath}: {e}")
+    node_count = len(lines)
+    emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
+    print(f"✨ 选用 emoji: {emoji_prefix}")
+
+    new_lines = []
+    for idx, url in enumerate(lines, start=1):
+        seq = str(idx).zfill(2 if node_count <= 100 else 3)
+        if '#' in url:
+            base, remark = url.split('#',1)
+            remark = unquote(remark)
+        else:
+            base, remark = url, 'Unnamed'
+        new_remark = f"{emoji_prefix}{node_count}Mix_{seq}"
+        new_url = f"{base}#{new_remark}"
+        new_lines.append(new_url)
+
+    content_str = '\n'.join(new_lines)
+    b64_content = base64.b64encode(content_str.encode()).decode()
+    with open(output_filename,'w',encoding='utf-8') as f:
+        f.write(b64_content)
+    print(f"✅ 生成机场订阅文件: {output_filename}, 节点数: {node_count}")
+
+# -------------------------------
+# 🔨 Clash 文件处理（保持原逻辑）
+# -------------------------------
+def process_clash_file(filepath, output_filename, used_emojis, available_emojis):
+    print(f"🔹 处理 Clash 文件: {filepath}")
+
+    proxies_text = extract_proxies_block(filepath)
+    if not proxies_text:
+        print(f"⚠️ 未找到 proxies 块: {filepath}")
         return
 
-    content = try_base64_decode(raw_content)
-
-    if not detect_node_file(content):
-        print(f"⚠️ 跳过非节点文件: {os.path.basename(filepath)}（未检测到节点链接或有效 proxies）")
-        return
-
-    proxies = []
-    for line in [l.strip() for l in content.splitlines() if l.strip()]:
-        if line.startswith('ss://'):
-            proxies.append(parse_ss_url(line))
-        elif line.startswith('vmess://'):
-            proxies.append(parse_vmess_url(line))
-        elif line.startswith('vless://'):
-            proxies.append(parse_vless_url(line))
-        elif line.startswith('trojan://'):
-            proxies.append(parse_trojan_url(line))
-
-    if not proxies:
-        proxies_text = extract_proxies_block(filepath)
-        if proxies_text:
-            data = yaml.safe_load(proxies_text)
-            proxies = [p for p in data.get('proxies', []) if str(p.get('type','')).lower() not in ['direct','reject','blackhole']]
-
+    data = yaml.safe_load(proxies_text)
+    proxies = [p for p in data.get('proxies', []) if str(p.get('type','')).lower() not in ['direct','reject','blackhole']]
     if not proxies:
         print(f"⚠️ proxies 节点为空或全部为非代理节点: {filepath}")
         return
@@ -282,7 +282,6 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
     node_count = len(proxies)
     types = set(p.get('type', 'unknown') for p in proxies)
     node_type = types.pop() if len(types) == 1 else 'Mix'
-
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
     ip_regular = check_ip_sequence(proxies)
 
@@ -296,7 +295,6 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
     for (flag, region), group in region_groups.items():
         group_size = len(group)
         num_len = 2 if node_count <= 100 else 3
-
         if ip_regular and group_size == 256:
             def ip_last_octet(proxy):
                 try:
@@ -318,8 +316,24 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
     out = {'proxies': proxies}
     with open(output_filename,'w',encoding='utf-8') as f:
         yaml.dump(out,f,allow_unicode=True,sort_keys=False,default_flow_style=False)
+    print(f"✅ 生成 Clash 文件: {output_filename}, 节点数: {node_count}, 类型: {node_type}")
 
-    print(f"✅ 生成文件: {output_filename}, 节点数: {node_count}, 类型: {node_type}")
+# -------------------------------
+# 🔨 主处理逻辑
+# -------------------------------
+def process_file(filepath, output_filename, used_emojis, available_emojis):
+    with open(filepath,'r',encoding='utf-8') as f:
+        raw_content = f.read()
+    content = try_base64_decode(raw_content)
+
+    if is_url_node_file(content):
+        process_url_file(filepath, output_filename, used_emojis, available_emojis)
+        return
+    elif detect_node_file(content):
+        process_clash_file(filepath, output_filename, used_emojis, available_emojis)
+        return
+    else:
+        print(f"⚠️ 跳过非节点文件: {os.path.basename(filepath)}")
 
 # -------------------------------
 # 🚀 主函数入口
