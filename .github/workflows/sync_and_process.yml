@@ -45,7 +45,7 @@ jobs:
       run: python process_proxies.py
 
     - name: Show generated files for debug
-      run: ls -al suiyuan8_*.yaml
+      run: ls -al suiyuan8_*.yaml || echo "⚠️ No generated suiyuan8_*.yaml files"
 
     - name: Count generated files
       id: count_files
