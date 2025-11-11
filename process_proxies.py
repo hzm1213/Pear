@@ -14,9 +14,11 @@ def clean_name(name: str) -> str:
     return re.sub(r'\s+', ' ', name).strip()
 
 def extract_region(name: str):
+    # 尝试匹配两字符 flag emoji + region
     match = re.match(r'^([\U0001F1E6-\U0001F1FF]{2})([A-Z]{2,})', name)
     if match:
         return match.group(1), match.group(2)
+    # 尝试匹配其他 emoji + region
     for e in emoji.EMOJI_DATA.keys():
         if name.startswith(e):
             remain = name[len(e):]
@@ -179,7 +181,9 @@ def process_url_file(filepath, output_filename, used_emojis, available_emojis):
     node_count = len(nodes)
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
     for idx,n in enumerate(nodes):
-        n['name'] = clean_name(n['name'])
+        # 解码 fragment 用于提取地区
+        name_decoded = unquote(n['name'])
+        n['name'] = clean_name(name_decoded)
         flag, region = extract_region(n['name'])
         seq = str(idx+1).zfill(3 if node_count>100 else 2)
         node_type = n.get('type','Mix').upper()
