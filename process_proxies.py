@@ -1,20 +1,47 @@
 import os
 import re
 import yaml
+import base64
+import json
 import random
 import emoji
 import ipaddress
+from urllib.parse import unquote, urlparse, parse_qs
 
+# -------------------------------
+# 🔧 清洗节点名
+# -------------------------------
 def clean_name(name: str) -> str:
-    # 只替换 🇨🇳TW 为 🇹🇼TW
     name = name.replace('🇨🇳TW', '🇹🇼TW')
     name = re.sub(r'[_\s]*@wangcai_8[_\s]*', ' ', name, flags=re.IGNORECASE)
     name = re.sub(r'\s+', ' ', name).strip()
     return name
 
+# -------------------------------
+# 🧩 Base64 自动解码
+# -------------------------------
+def try_base64_decode(content: str) -> str:
+    try:
+        if not re.match(r'^[A-Za-z0-9+/=\r\n]+$', content.strip()):
+            return content
+        decoded = base64.b64decode(content.strip()).decode('utf-8', errors='ignore')
+        if any(proto in decoded for proto in ['ss://', 'vmess://', 'trojan://', 'vless://']):
+            print("✅ 自动识别并解码 Base64 文件")
+            return decoded
+        return content
+    except Exception:
+        return content
+
+# -------------------------------
+# 📦 提取 Clash proxies 块
+# -------------------------------
 def extract_proxies_block(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+    except Exception as e:
+        print(f"⚠️ 无法读取文件: {filepath} ({e})")
+        return None
 
     proxies_lines = []
     in_proxies = False
@@ -34,13 +61,14 @@ def extract_proxies_block(filepath):
 
     return ''.join(proxies_lines) if proxies_lines else None
 
+# -------------------------------
+# 🧭 提取旗帜与地区
+# -------------------------------
 def extract_region(name):
-    # 尝试匹配两字符 flag emoji + region
     match = re.match(r'^([\U0001F1E6-\U0001F1FF]{2})([A-Z]{2,})', name)
     if match:
         return match.group(1), match.group(2)
 
-    # 若未匹配，尝试匹配任何 emoji + region
     all_emojis = emoji.EMOJI_DATA.keys()
     for e in all_emojis:
         if name.startswith(e):
@@ -48,10 +76,11 @@ def extract_region(name):
             match_region = re.match(r'^([A-Z]{2,})', remain)
             if match_region:
                 return e, match_region.group(1)
-
-    # 无法匹配返回默认
     return '🏳️', 'ZZ'
 
+# -------------------------------
+# 🔢 检查 IP 是否连续
+# -------------------------------
 def check_ip_sequence(proxies):
     ips = []
     for p in proxies:
@@ -62,75 +91,207 @@ def check_ip_sequence(proxies):
         except:
             return False
     ips.sort()
-    if len(ips) == 256 and ips[-1] - ips[0] == 255:
-        return True
-    return False
+    return len(ips) == 256 and ips[-1] - ips[0] == 255
 
+# -------------------------------
+# 😎 Emoji 工具
+# -------------------------------
 def is_flag_emoji(e):
     return re.match(r'^[🇦-🇿]{2}$', e)
 
 def load_available_emojis():
     all_emojis = emoji.EMOJI_DATA.keys()
-    filtered_emojis = [e for e in all_emojis if not is_flag_emoji(e)]
-    return filtered_emojis
+    return [e for e in all_emojis if not is_flag_emoji(e)]
 
 def generate_unique_emoji(used_emojis, available_emojis):
     choice = random.choice([e for e in available_emojis if e not in used_emojis])
     used_emojis.add(choice)
     return choice
 
-def process_file(filepath, output_filename, used_emojis, available_emojis):
-    print(f"🔍 正在处理文件: {filepath}")
+# -------------------------------
+# 🔍 判断文件是否为节点文件
+# -------------------------------
+def detect_node_file(content: str) -> bool:
+    node_keywords = ['ss://', 'vmess://', 'trojan://', 'vless://']
+    if any(k in content for k in node_keywords):
+        return True
+    if 'proxies:' in content and any(k in content for k in ['server:', 'type:']):
+        return True
+    return False
 
-    proxies_text = extract_proxies_block(filepath)
-    if not proxies_text:
-        print(f"⚠️ 未找到 proxies 块: {filepath}")
+# -------------------------------
+# ⚡ SS 节点解析
+# -------------------------------
+def parse_ss_url(url: str) -> dict:
+    if '#' in url:
+        base, remark = url.split('#',1)
+        remark = unquote(remark)
+    else:
+        base, remark = url, 'Unnamed'
+
+    if base.startswith('ss://'):
+        content = base[5:]
+        if '@' in content:
+            userinfo, host_port = content.rsplit('@', 1)
+            cipher, password = userinfo.split(':',1) if ':' in userinfo else ('unknown', userinfo)
+            server, port = host_port.split(':',1) if ':' in host_port else (host_port,'443')
+        else:
+            try:
+                decoded = base64.urlsafe_b64decode(content + '==').decode()
+                match = re.match(r'([^:]+):([^@]+)@([^:]+):(\d+)', decoded)
+                cipher, password, server, port = match.groups() if match else ('unknown','unknown','unknown','443')
+            except:
+                cipher, password, server, port = 'unknown','unknown','unknown','443'
+        return {'name': clean_name(remark),'type':'ss','server':server,'port':int(port),'cipher':cipher,'password':password}
+    return {'name': clean_name(remark),'type':'ss','server':base,'port':443,'cipher':'unknown','password':'unknown'}
+
+# -------------------------------
+# ⚡ VMess 节点解析（ws-path/ws-headers自动填充）
+# -------------------------------
+def parse_vmess_url(url: str) -> dict:
+    if '#' in url:
+        url_base, remark = url.split('#',1)
+        remark = unquote(remark)
+    else:
+        url_base, remark = url, 'Unnamed'
+
+    content = url_base[8:]
+    try:
+        decoded = base64.b64decode(content + '==').decode()
+        data = json.loads(decoded)
+        ws_path = data.get('path') or '/'
+        ws_headers = {'Host': data.get('host','')} if data.get('host') else {}
+        return {
+            'name': clean_name(remark),
+            'type': 'vmess',
+            'server': data.get('add'),
+            'port': int(data.get('port',443)),
+            'uuid': data.get('id'),
+            'alterId': int(data.get('aid',0)),
+            'cipher': data.get('scy','auto'),
+            'network': data.get('net','tcp'),
+            'tls': data.get('tls',''),
+            'ws-path': ws_path,
+            'ws-headers': ws_headers
+        }
+    except Exception:
+        return {'name': clean_name(remark),'type':'vmess','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
+
+# -------------------------------
+# ⚡ VLESS 节点解析（ws-path/ws-headers自动填充）
+# -------------------------------
+def parse_vless_url(url: str) -> dict:
+    try:
+        parsed = urlparse(url)
+        remark = unquote(parsed.fragment) if parsed.fragment else 'Unnamed'
+        query = parse_qs(parsed.query)
+        ws_path = query.get('path',[''])[0] or '/'
+        ws_headers = {'Host': query.get('host',[''])[0]} if query.get('host') else {}
+        return {
+            'name': clean_name(remark),
+            'type':'vless',
+            'server': parsed.hostname,
+            'port': parsed.port or 443,
+            'uuid': parsed.username,
+            'tls': query.get('security',[''])[0],
+            'network': query.get('type',['tcp'])[0],
+            'ws-path': ws_path,
+            'ws-headers': ws_headers
+        }
+    except:
+        return {'name': clean_name('Unnamed'),'type':'vless','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
+
+# -------------------------------
+# ⚡ Trojan 节点解析（ws-path/ws-headers自动填充）
+# -------------------------------
+def parse_trojan_url(url: str) -> dict:
+    try:
+        parsed = urlparse(url)
+        remark = unquote(parsed.fragment) if parsed.fragment else 'Unnamed'
+        query = parse_qs(parsed.query)
+        ws_path = query.get('path',[''])[0] or '/'
+        ws_headers = {'Host': query.get('host',[''])[0]} if query.get('host') else {}
+        return {
+            'name': clean_name(remark),
+            'type':'trojan',
+            'server': parsed.hostname,
+            'port': parsed.port or 443,
+            'password': parsed.username,
+            'sni': query.get('sni',[''])[0] if query.get('sni') else '',
+            'ws-path': ws_path,
+            'ws-headers': ws_headers
+        }
+    except:
+        return {'name': clean_name('Unnamed'),'type':'trojan','server':'unknown','port':443,'password':'unknown','ws-path':'/','ws-headers':{}}
+
+# -------------------------------
+# 🔨 主处理逻辑
+# -------------------------------
+def process_file(filepath, output_filename, used_emojis, available_emojis):
+    print(f"\n🔍 正在处理文件: {filepath}")
+
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            raw_content = f.read()
+    except Exception as e:
+        print(f"⚠️ 无法读取文件 {filepath}: {e}")
         return
 
-    data = yaml.safe_load(proxies_text)
-    proxies = data.get('proxies', [])
-    node_count = len(proxies)
-    if node_count == 0:
+    content = try_base64_decode(raw_content)
+
+    if not detect_node_file(content):
+        print(f"⚠️ 跳过非节点文件: {os.path.basename(filepath)}（未检测到节点链接或 proxies）")
+        return
+
+    proxies = []
+    for line in [l.strip() for l in content.splitlines() if l.strip()]:
+        if line.startswith('ss://'):
+            proxies.append(parse_ss_url(line))
+        elif line.startswith('vmess://'):
+            proxies.append(parse_vmess_url(line))
+        elif line.startswith('vless://'):
+            proxies.append(parse_vless_url(line))
+        elif line.startswith('trojan://'):
+            proxies.append(parse_trojan_url(line))
+
+    if not proxies:
+        proxies_text = extract_proxies_block(filepath)
+        if proxies_text:
+            data = yaml.safe_load(proxies_text)
+            proxies = data.get('proxies', [])
+
+    if not proxies:
         print(f"⚠️ proxies 节点为空: {filepath}")
         return
 
+    node_count = len(proxies)
     types = set(p.get('type', 'unknown') for p in proxies)
     node_type = types.pop() if len(types) == 1 else 'Mix'
 
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
-    print(f"✨ 选用emoji: {emoji_prefix}")
-
     ip_regular = check_ip_sequence(proxies)
 
-    # 分地区分组
     region_groups = {}
     for p in proxies:
-        # 先 clean_name
-        p['name'] = clean_name(p['name'])
-
-        # 再 extract_region
+        p['name'] = clean_name(p.get('name','Unnamed'))
         flag, region = extract_region(p['name'])
         key = (flag, region)
         region_groups.setdefault(key, []).append(p)
 
     for (flag, region), group in region_groups.items():
         group_size = len(group)
-
-        # 补位长度判断，总节点数小于等于100用2位，否则3位
         num_len = 2 if node_count <= 100 else 3
 
-        # IP连续且节点数为256，按IP最后一段排序，编号从000开始
         if ip_regular and group_size == 256:
             def ip_last_octet(proxy):
                 try:
                     ip = ipaddress.ip_address(proxy.get('server'))
                     return int(str(ip).split('.')[-1])
                 except:
-                    return 999  # 非IP放后面
+                    return 999
             group_sorted = sorted(group, key=ip_last_octet)
             start_num = 0
         else:
-            # 其它情况保持文件顺序
             group_sorted = group
             start_num = 1
 
@@ -140,12 +301,14 @@ def process_file(filepath, output_filename, used_emojis, available_emojis):
             p['name'] = new_name
 
     out = {'proxies': proxies}
-
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        yaml.dump(out, f, allow_unicode=True, sort_keys=False, default_flow_style=False)
+    with open(output_filename,'w',encoding='utf-8') as f:
+        yaml.dump(out,f,allow_unicode=True,sort_keys=False,default_flow_style=False)
 
     print(f"✅ 生成文件: {output_filename}, 节点数: {node_count}, 类型: {node_type}")
 
+# -------------------------------
+# 🚀 主函数入口
+# -------------------------------
 def main():
     upstream_dir = 'upstream_repo'
     files = sorted([f for f in os.listdir(upstream_dir) if os.path.isfile(os.path.join(upstream_dir, f))])
@@ -159,6 +322,8 @@ def main():
         output_filename = f"suiyuan8_{file_idx:03}.yaml"
         process_file(filepath, output_filename, used_emojis, available_emojis)
         file_idx += 1
+
+    print("\n🎉 所有文件处理完成！")
 
 if __name__ == '__main__':
     main()
