@@ -83,6 +83,7 @@ jobs:
     - name: Commit and push all changes (merged commit)
       run: |
         git add -A suiyuan8_*.yaml .last_count
+        git add .last_count
 
         if git diff --cached --quiet; then
           echo "No changes to commit"
