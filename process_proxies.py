@@ -137,102 +137,6 @@ def detect_node_file(content: str) -> bool:
     return False
 
 # -------------------------------
-# ⚡ 节点解析
-# -------------------------------
-def parse_ss_url(url: str) -> dict:
-    if '#' in url:
-        base, remark = url.split('#',1)
-        remark = unquote(remark)
-    else:
-        base, remark = url, 'Unnamed'
-
-    if base.startswith('ss://'):
-        content = base[5:]
-        if '@' in content:
-            userinfo, host_port = content.rsplit('@', 1)
-            cipher, password = userinfo.split(':',1) if ':' in userinfo else ('unknown', userinfo)
-            server, port = host_port.split(':',1) if ':' in host_port else (host_port,'443')
-        else:
-            try:
-                decoded = base64.urlsafe_b64decode(content + '==').decode()
-                match = re.match(r'([^:]+):([^@]+)@([^:]+):(\d+)', decoded)
-                cipher, password, server, port = match.groups() if match else ('unknown','unknown','unknown','443')
-            except:
-                cipher, password, server, port = 'unknown','unknown','unknown','443'
-        return {'name': clean_name(remark),'type':'ss','server':server,'port':int(port),'cipher':cipher,'password':password}
-    return {'name': clean_name(remark),'type':'ss','server':base,'port':443,'cipher':'unknown','password':'unknown'}
-
-def parse_vmess_url(url: str) -> dict:
-    if '#' in url:
-        url_base, remark = url.split('#',1)
-        remark = unquote(remark)
-    else:
-        url_base, remark = url, 'Unnamed'
-
-    content = url_base[8:]
-    try:
-        decoded = base64.b64decode(content + '==').decode()
-        data = json.loads(decoded)
-        ws_path = data.get('path') or '/'
-        ws_headers = {'Host': data.get('host','')} if data.get('host') else {}
-        return {
-            'name': clean_name(remark),
-            'type': 'vmess',
-            'server': data.get('add'),
-            'port': int(data.get('port',443)),
-            'uuid': data.get('id'),
-            'alterId': int(data.get('aid',0)),
-            'cipher': data.get('scy','auto'),
-            'network': data.get('net','tcp'),
-            'tls': data.get('tls',''),
-            'ws-path': ws_path,
-            'ws-headers': ws_headers
-        }
-    except Exception:
-        return {'name': clean_name(remark),'type':'vmess','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
-
-def parse_vless_url(url: str) -> dict:
-    try:
-        parsed = urlparse(url)
-        remark = unquote(parsed.fragment) if parsed.fragment else 'Unnamed'
-        query = parse_qs(parsed.query)
-        ws_path = query.get('path',[''])[0] or '/'
-        ws_headers = {'Host': query.get('host',[''])[0]} if query.get('host') else {}
-        return {
-            'name': clean_name(remark),
-            'type':'vless',
-            'server': parsed.hostname,
-            'port': parsed.port or 443,
-            'uuid': parsed.username,
-            'tls': query.get('security',[''])[0],
-            'network': query.get('type',['tcp'])[0],
-            'ws-path': ws_path,
-            'ws-headers': ws_headers
-        }
-    except:
-        return {'name': clean_name('Unnamed'),'type':'vless','server':'unknown','port':443,'ws-path':'/','ws-headers':{}}
-
-def parse_trojan_url(url: str) -> dict:
-    try:
-        parsed = urlparse(url)
-        remark = unquote(parsed.fragment) if parsed.fragment else 'Unnamed'
-        query = parse_qs(parsed.query)
-        ws_path = query.get('path',[''])[0] or '/'
-        ws_headers = {'Host': query.get('host',[''])[0]} if query.get('host') else {}
-        return {
-            'name': clean_name(remark),
-            'type':'trojan',
-            'server': parsed.hostname,
-            'port': parsed.port or 443,
-            'password': parsed.username,
-            'sni': query.get('sni',[''])[0] if query.get('sni') else '',
-            'ws-path': ws_path,
-            'ws-headers': ws_headers
-        }
-    except:
-        return {'name': clean_name('Unnamed'),'type':'trojan','server':'unknown','port':443,'password':'unknown','ws-path':'/','ws-headers':{}}
-
-# -------------------------------
 # ⚡ URL 类型节点文件处理（机场订阅）
 # -------------------------------
 def process_url_file(filepath, output_filename, used_emojis, available_emojis):
@@ -244,22 +148,34 @@ def process_url_file(filepath, output_filename, used_emojis, available_emojis):
     emoji_prefix = generate_unique_emoji(used_emojis, available_emojis)
     print(f"✨ 选用 emoji: {emoji_prefix}")
 
-    new_lines = []
-    for idx, url in enumerate(lines, start=1):
-        seq = str(idx).zfill(2 if node_count <= 100 else 3)
+    # 分地区分组
+    region_groups = {}
+    parsed_nodes = []
+    for idx, url in enumerate(lines):
         if '#' in url:
             base, remark = url.split('#',1)
             remark = unquote(remark)
         else:
             base, remark = url, 'Unnamed'
-        new_remark = f"{emoji_prefix}{node_count}Mix_{seq}"
-        new_url = f"{base}#{new_remark}"
-        new_lines.append(new_url)
+        flag, region = extract_region(remark)
+        region_groups.setdefault((flag, region), []).append((idx, base, remark))
 
+    # 按地区 + emoji + 编号生成新 remark
+    new_lines = []
+    for (flag, region), group in region_groups.items():
+        num_len = 2 if node_count <= 100 else 3
+        for seq_idx, (orig_idx, base, remark) in enumerate(group, start=1):
+            seq = str(seq_idx).zfill(num_len)
+            new_remark = f"{emoji_prefix}{node_count}{flag}{region}_{seq}"
+            new_url = f"{base}#{new_remark}"
+            new_lines.append(new_url)
+
+    # 输出 Base64
     content_str = '\n'.join(new_lines)
     b64_content = base64.b64encode(content_str.encode()).decode()
     with open(output_filename,'w',encoding='utf-8') as f:
         f.write(b64_content)
+
     print(f"✅ 生成机场订阅文件: {output_filename}, 节点数: {node_count}")
 
 # -------------------------------
