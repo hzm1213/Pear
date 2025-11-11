@@ -64,7 +64,7 @@ def parse_ss(url):
             host, port = host_port.split(":")
             return {
                 "name": name,
-                "type": "ss",
+                "type": "SS",
                 "server": host,
                 "port": int(port),
                 "method": method,
@@ -81,7 +81,7 @@ def parse_vmess(url):
         b64 = url[8:]
         decoded = base64.b64decode(b64 + "=" * (-len(b64)%4)).decode()
         info = yaml.safe_load(decoded)
-        return {"name": info.get("ps",""), "type":"vmess", "server": info.get("add",""), "port": int(info.get("port",0))}
+        return {"name": info.get("ps",""), "type":"VMess", "server": info.get("add",""), "port": int(info.get("port",0))}
     except:
         return None
 
@@ -89,7 +89,7 @@ def parse_vless(url):
     try:
         parsed = urlparse(url)
         name = unquote(parsed.fragment)
-        return {"name": name, "type":"vless", "server": parsed.hostname, "port": parsed.port}
+        return {"name": name, "type":"VLESS", "server": parsed.hostname, "port": parsed.port}
     except:
         return None
 
@@ -97,7 +97,7 @@ def parse_trojan(url):
     try:
         parsed = urlparse(url)
         name = unquote(parsed.fragment)
-        return {"name": name, "type":"trojan", "server": parsed.hostname, "port": parsed.port}
+        return {"name": name, "type":"Trojan", "server": parsed.hostname, "port": parsed.port}
     except:
         return None
 
@@ -182,7 +182,8 @@ def process_url_file(filepath, output_filename, used_emojis, available_emojis):
         n['name'] = clean_name(n['name'])
         flag, region = extract_region(n['name'])
         seq = str(idx+1).zfill(3 if node_count>100 else 2)
-        n['name'] = f"{emoji_prefix}{node_count}Mix{flag}{region}_{seq}"
+        node_type = n.get('type','Mix').upper()
+        n['name'] = f"{emoji_prefix}{node_count}{node_type}{flag}{region}_{seq}"
     # 输出 Base64，保留原始 URL 内容
     base64_content = base64.b64encode("\n".join(lines).encode()).decode()
     with open(output_filename,'w',encoding='utf-8') as f:
