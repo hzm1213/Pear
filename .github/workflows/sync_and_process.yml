@@ -1,4 +1,4 @@
-name: Sync and Process Clash Proxies with Telegram Notification (Full Sync Delete)
+name: Sync and Process Clash Proxies with Telegram Notification (Full Sync)
 
 on:
   schedule:
@@ -10,48 +10,66 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Checkout self repository
     - name: Checkout self repository
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
 
+    # Setup Python
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
+    # Install dependencies
     - name: Install dependencies
       run: pip install pyyaml emoji
 
+    # Configure git
     - name: Configure git
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Force clean workspace before pulling
+    # Force clean workspace before pulling
+    - name: Force clean workspace
       run: |
         git rm -rf .
         rm -rf *
         echo "✅ Workspace completely cleaned"
 
+    # Pull latest changes from self repo
     - name: Pull latest changes from self repo
       run: git pull origin main --rebase || true
 
-    - name: Clone upstream repository
+    # Clone upstream repository
+    - name: Clone upstream suiyuan8/clash repository
       run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
 
-    - name: Process upstream proxies
-      run: python process_proxies.py
+    # Check working directory
+    - name: Check working directory
+      run: |
+        echo "当前目录: $(pwd)"
+        echo "目录文件:"
+        ls -al
 
+    # Process upstream proxies
+    - name: Process upstream proxies
+      run: python ./process_proxies.py
+
+    # List generated files
     - name: List generated files
       run: ls -al suiyuan8_*.yaml || echo "⚠️ No generated files"
 
+    # Count generated files
     - name: Count generated files
       id: count_files
       run: |
         count=$(ls -1 suiyuan8_*.yaml 2>/dev/null | wc -l)
         echo "count=$count" >> $GITHUB_OUTPUT
 
+    # Update .last_count and send Telegram notification if changed
     - name: Update .last_count and send Telegram notification if changed
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -79,6 +97,7 @@ jobs:
 
         echo "$current_count" > "$last_count_file"
 
+    # Commit and push all changes
     - name: Commit and push all changes
       run: |
         git add -A
