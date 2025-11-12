@@ -1,4 +1,4 @@
-name: Sync and Process Clash Proxies with Telegram Notification (Full Sync)
+name: Sync and Process Clash/URL Nodes with Telegram Notification
 
 on:
   schedule:
@@ -32,12 +32,12 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    # Force clean workspace before pulling
-    - name: Force clean workspace
+    # Clean only old generated node files
+    - name: Clean old generated files
       run: |
-        git rm -rf .
-        rm -rf *
-        echo "✅ Workspace completely cleaned"
+        git ls-files suiyuan8_*.yaml | xargs -r git rm -f
+        rm -f suiyuan8_*.yaml
+        echo "✅ Old generated node files cleaned"
 
     # Pull latest changes from self repo
     - name: Pull latest changes from self repo
@@ -54,7 +54,7 @@ jobs:
         echo "目录文件:"
         ls -al
 
-    # Process upstream proxies
+    # Run the process_proxies.py script
     - name: Process upstream proxies
       run: python ./process_proxies.py
 
@@ -104,6 +104,6 @@ jobs:
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🔄 完整同步上游并清除无效文件"
+          git commit -m "🔄 自动同步更新 Clash/URL 节点文件并更新 last_count"
           git push origin HEAD:main
         fi
