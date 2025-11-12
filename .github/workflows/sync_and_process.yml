@@ -1,4 +1,4 @@
-name: Sync and Process Clash Proxies with Telegram Notification (Merged Commit with Clean Delete)
+name: Sync and Process Clash Proxies with Telegram Notification (Full Safe Version)
 
 on:
   schedule:
@@ -28,65 +28,66 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Clean old generated files from git and workspace
+    - name: Clean old generated files
       run: |
-        git ls-files suiyuan8_*.yaml | xargs -r git rm -f
-        rm -f suiyuan8_*.yaml
+        echo "🧹 Cleaning old suiyuan8_*.yaml files..."
+        git ls-files suiyuan8_*.yaml | xargs -r git rm -f || true
+        rm -f suiyuan8_*.yaml || true
         git add -A
         git commit -m "🗑️ 删除旧的 suiyuan8 文件" || echo "No old files to delete"
 
-    - name: Pull latest changes with rebase
-      run: git pull --rebase origin main
+    - name: Pull latest local changes with rebase
+      run: git pull --rebase origin main || true
 
     - name: Clone upstream suiyuan8/clash repository
       run: git clone --depth 1 https://github.com/suiyuan8/clash.git upstream_repo
 
-    - name: Process upstream proxies and generate output
+    - name: Process upstream proxies
       run: python process_proxies.py
 
     - name: Show generated files for debug
-      run: ls -al suiyuan8_*.yaml
+      run: |
+        echo "📂 输出文件列表："
+        ls -al suiyuan8_*.yaml 2>/dev/null || echo "⚠️ No suiyuan8_*.yaml generated"
 
     - name: Count generated files
       id: count_files
       run: |
-        count=$(ls -1 suiyuan8_*.yaml 2>/dev/null | wc -l)
+        count=$(ls -1 suiyuan8_*.yaml 2>/dev/null | wc -l || echo 0)
         echo "count=$count" >> $GITHUB_OUTPUT
+        echo "当前生成文件数量：$count"
 
-    - name: Update .last_count and send Telegram notification if changed
+    - name: Update .last_count & Send Telegram Notification
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         last_count_file=".last_count"
         current_count=${{ steps.count_files.outputs.count }}
-
         last_count=0
+
         if [ -f "$last_count_file" ]; then
           last_count=$(cat "$last_count_file")
         fi
 
         if [ "$current_count" -ne "$last_count" ]; then
-          echo "File count changed from $last_count to $current_count"
-
+          echo "📈 File count changed from $last_count to $current_count"
           message="⚠️ 仓库更新！文件数量从 $last_count 变成了 $current_count，请更新模板！"
-
           curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
             -d text="$message"
         else
-          echo "File count unchanged: $current_count"
+          echo "✅ File count unchanged: $current_count"
         fi
 
         echo "$current_count" > "$last_count_file"
 
-    - name: Commit and push all changes (merged commit)
+    - name: Commit and push all changes
       run: |
-        git add -A suiyuan8_*.yaml .last_count
-
+        git add -A suiyuan8_*.yaml .last_count || true
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🔄 自动同步更新 Clash 代理文件并更新 last_count"
+          git commit -m "🔄 自动同步更新 Clash/URL 节点文件并更新 last_count"
           git push origin HEAD:main
         fi
